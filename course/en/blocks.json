@@ -2028,481 +2028,11 @@
     }
   },
   {
-    "title": "Intro and Motivation of Requirements Engineering",
-    "displayTitle": "Intro and Motivation of Requirements Engineering",
+    "title": "New Block Title",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "_trackingId": 23,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419aeda",
-    "_parentId": "65003bdb8217fa25e419ae13",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "standard",
-      "_paddingBottom": "standard",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
-    }
-  },
-  {
-    "title": "New Block Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "orange-bg",
-    "_trackingId": 24,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419aedc",
-    "_parentId": "65003bdb8217fa25e419ae15",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "standard",
-      "_paddingBottom": "standard",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
-    }
-  },
-  {
-    "title": "Requirements Engineering Overview",
-    "displayTitle": "Requirements Engineering Overview",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 25,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419aede",
-    "_parentId": "65003bdb8217fa25e419ae17",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "standard",
-      "_paddingBottom": "standard",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
-    }
-  },
-  {
-    "title": "Requirements Engineering Process and Conclusion",
-    "displayTitle": "Requirements Engineering Process and Conclusion",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 26,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419aee0",
-    "_parentId": "65003bdb8217fa25e419ae19",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "standard",
-      "_paddingBottom": "standard",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
-    }
-  },
-  {
-    "title": "Exercise",
-    "displayTitle": "Exercise",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 27,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419aee4",
-    "_parentId": "65003bdb8217fa25e419ae1d",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "standard",
-      "_paddingBottom": "standard",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
-    }
-  },
-  {
-    "title": "New Block Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 28,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2592,105 +2122,11 @@
     }
   },
   {
-    "title": "Intro and Motivation of Requirements Engineering",
-    "displayTitle": "Intro and Motivation of Requirements Engineering",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 29,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003c188217fa25e419cb03",
-    "_parentId": "65003c188217fa25e419ca97",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "standard",
-      "_paddingBottom": "standard",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
-    }
-  },
-  {
     "title": "New Block Title",
     "displayTitle": "",
     "body": "",
     "_classes": "orange-bg",
-    "_trackingId": 30,
+    "_trackingId": 24,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2782,9 +2218,9 @@
   {
     "title": "Requirements Engineering Overview",
     "displayTitle": "Requirements Engineering Overview",
-    "body": "",
+    "body": "<p>In this section, we will define the critical concepts during the Requirements Engineering process and explore different types of requirements that play a crucial role in software development. Understanding these diverse requirements is essential for effectively managing and designing software systems.</p>",
     "_classes": "",
-    "_trackingId": 31,
+    "_trackingId": 25,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2867,18 +2303,18 @@
         "_small": ""
       },
       "_isDividerBlock": false,
-      "_paddingTop": "standard",
-      "_paddingBottom": "standard",
+      "_paddingTop": "half",
+      "_paddingBottom": "half",
       "_componentVerticalAlignment": "top",
       "_componentHorizontalAlignment": "left"
     }
   },
   {
-    "title": "Requirements Engineering Process and Conclusion",
-    "displayTitle": "Requirements Engineering Process and Conclusion",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 32,
+    "title": "Requirements Engineering Process ",
+    "displayTitle": "Requirements Engineering Process ",
+    "body": "<p>In this section, we will delve into the systematic steps and methodologies involved in gathering, analyzing, documenting, and managing requirements. This practical knowledge will equip you with the skills needed to navigate the Requirements Engineering process successfully.</p>",
+    "_classes": "orange-bg",
+    "_trackingId": 26,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2972,7 +2408,7 @@
     "displayTitle": "Exercise",
     "body": "",
     "_classes": "",
-    "_trackingId": 33,
+    "_trackingId": 27,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3066,7 +2502,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 34,
+    "_trackingId": 28,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3086,7 +2522,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 35,
+    "_trackingId": 29,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3106,7 +2542,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 36,
+    "_trackingId": 30,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3126,7 +2562,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 37,
+    "_trackingId": 31,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3146,7 +2582,477 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 38,
+    "_trackingId": 32,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c3f76a7c33c09d432adcb",
+    "_parentId": "65003c188217fa25e419ca97",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "remove",
+      "_paddingBottom": "remove",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 33,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c46a4a7c33c09d43347ad",
+    "_parentId": "650c46a4a7c33c09d433471d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "remove",
+      "_paddingBottom": "remove",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "orange-bg",
+    "_trackingId": 34,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c46a4a7c33c09d43347bf",
+    "_parentId": "650c46a4a7c33c09d433472f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "System Boundary ",
+    "displayTitle": "System Boundary ",
+    "body": "<p>The concept of \"System Boundaries\" acts as the defining perimeter of a software system, marking the boundary between what's inside and what's outside. Understanding these boundaries is essential for effective requirement gathering and project scope definition.&nbsp;</p><p>&nbsp;</p>",
+    "_classes": "",
+    "_trackingId": 35,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c46a4a7c33c09d43347d1",
+    "_parentId": "650c46a4a7c33c09d4334741",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "half",
+      "_paddingBottom": "half",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "Types of Requirements",
+    "displayTitle": "Types of Requirements",
+    "body": "<p>In this part of the lecture, we will dive into the diverse categories that govern software development, including functional and non-functional requirements. Understanding these types is key to crafting well-rounded, effective systems. As we unravel the intricacies, you'll appreciate how each requirement type contributes to the overall success of a project.&nbsp;</p>",
+    "_classes": "orange-bg",
+    "_trackingId": 36,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c46a4a7c33c09d43347e3",
+    "_parentId": "650c46a4a7c33c09d4334753",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 37,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3200,7 +3106,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 39,
+    "_trackingId": 38,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3254,7 +3160,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 40,
+    "_trackingId": 39,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3308,7 +3214,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 41,
+    "_trackingId": 40,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3361,62 +3267,8 @@
     "title": "New Block Title",
     "displayTitle": "",
     "body": "",
-    "_classes": "",
-    "_trackingId": 42,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419aee2",
-    "_parentId": "65003bdb8217fa25e419ae1b",
-    "_type": "block",
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    }
-  },
-  {
-    "title": "New Block Title",
-    "displayTitle": "",
-    "body": "",
     "_classes": "even",
-    "_trackingId": 43,
+    "_trackingId": 41,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3510,7 +3362,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 44,
+    "_trackingId": 42,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3564,7 +3416,457 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
+    "_trackingId": 43,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c1983a7c33c09d431fdab",
+    "_parentId": "65003c188217fa25e419ca97",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "half",
+      "_paddingBottom": "half",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 44,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c1d89a7c33c09d4324c6d",
+    "_parentId": "65003c188217fa25e419cacd",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
     "_trackingId": 45,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c417da7c33c09d432db87",
+    "_parentId": "65003c188217fa25e419caf1",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 46,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c46a4a7c33c09d433479b",
+    "_parentId": "650c46a4a7c33c09d433471d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "half",
+      "_paddingBottom": "half",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 47,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c46a4a7c33c09d4334807",
+    "_parentId": "650c46a4a7c33c09d4334765",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Context Boundary",
+    "displayTitle": "Context Boundary",
+    "body": "<p>Beyond the system, the context boundary separates the internal workings from the external environment. This section will explore how this critical boundary influences project requirements and scope. Understanding context boundaries is essential for maintaining clarity in complex software projects, as they define the borders of responsibility and interaction.</p>",
+    "_classes": "",
+    "_trackingId": 48,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c4776a7c33c09d433714e",
+    "_parentId": "650c46a4a7c33c09d4334741",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "half",
+      "_paddingBottom": "half",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 49,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3654,11 +3956,219 @@
     }
   },
   {
+    "title": "Motivation of Requirements Engineering",
+    "displayTitle": "Motivation of Requirements Engineering",
+    "body": "<p>In software development, success hinges on a crucial yet often overlooked phase: gathering, documenting and managing requirements. This course aims to introduce you to Requirement Engineering (RE) and shed light on its significance for seasoned software engineers and aspiring IT students.</p><p>But why is Requirement Engineering so essential? As software engineers and informatics students, you will discover that the ability to elicit, document, and validate requirements effectively is the cornerstone of creating successful software products. It serves as the blueprint, the roadmap, and the compass that guides your development efforts.&nbsp;Through this course, you will not only grasp the technical aspects of RE but also recognise its broader implications for project management, communication, and customer satisfaction.&nbsp;</p><p>In the first video, Prof. Dr. Benjamin Leiding will give you an introduction to what Requirements Engineering is and how&nbsp;Requirement Engineering equips you with a valuable skill set that is essential for success in the field of software development and IT.</p>",
+    "_classes": "orange-bg",
+    "_trackingId": 50,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "65003c188217fa25e419cb03",
+    "_parentId": "65003c188217fa25e419ca97",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "half",
+      "_paddingBottom": "half",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 51,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c417ea7c33c09d432db9d",
+    "_parentId": "65003c188217fa25e419caf1",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "System Context",
+    "displayTitle": "System Context",
+    "body": "<p>In this part of the lecture, we'll explore the broader ecosystem in which software systems operate. Understanding this context is important to defining the purpose and significance of a system. By the end of this part, you'll know how system context sets the stage for gathering and defining requirements, ensuring that software projects align seamlessly with the needs and expectations of their environment and stakeholders.</p>",
+    "_classes": "orange-bg",
+    "_trackingId": 52,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c46a4a7c33c09d4334789",
+    "_parentId": "650c46a4a7c33c09d433471d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "half",
+      "_paddingBottom": "half",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
     "title": "New Block Title",
     "displayTitle": "",
     "body": "",
     "_classes": "even",
-    "_trackingId": 46,
+    "_trackingId": 53,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3752,7 +4262,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 47,
+    "_trackingId": 54,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3846,7 +4356,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "even",
-    "_trackingId": 48,
+    "_trackingId": 55,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3940,7 +4450,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 49,
+    "_trackingId": 56,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4034,7 +4544,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "even",
-    "_trackingId": 50,
+    "_trackingId": 57,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4128,7 +4638,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 51,
+    "_trackingId": 58,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4222,7 +4732,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 52,
+    "_trackingId": 59,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4316,7 +4826,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 53,
+    "_trackingId": 60,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4410,7 +4920,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "even",
-    "_trackingId": 54,
+    "_trackingId": 61,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4504,7 +5014,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 55,
+    "_trackingId": 62,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4598,7 +5108,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "even",
-    "_trackingId": 56,
+    "_trackingId": 63,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4692,7 +5202,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 57,
+    "_trackingId": 64,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4786,7 +5296,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "even",
-    "_trackingId": 58,
+    "_trackingId": 65,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4880,7 +5390,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 59,
+    "_trackingId": 66,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4974,7 +5484,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "even",
-    "_trackingId": 60,
+    "_trackingId": 67,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5068,7 +5578,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 61,
+    "_trackingId": 68,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5162,7 +5672,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "even",
-    "_trackingId": 62,
+    "_trackingId": 69,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5256,7 +5766,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 63,
+    "_trackingId": 70,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,

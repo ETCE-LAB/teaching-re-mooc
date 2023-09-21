@@ -11,7 +11,7 @@
     "_disableAccessibilityState": false,
     "title": "Impressum",
     "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">The course is modeled and built based on the book \"Requirements Engineering – Fundamentals, Principles and Techniques\"&nbsp;<a href=\"https://link.springer.com/de/book/9783642125775\" rel=\"nofollow\">(link)</a>&nbsp;by Klaus Pohl.&nbsp;Special thanks to&nbsp;<a href=\"https://www.fim.uni-passau.de/ai-engineering/\" rel=\"nofollow\">Prof. Dr. Steffen Herbold</a>&nbsp;and Dr. Christian Bartelt, who provided valuable input in the form of the teaching materials of their requirements engineering courses.</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">The course is modeled and built based on the book \"Requirements Engineering – Fundamentals, Principles and Techniques\"&nbsp;(<a href=\"https://link.springer.com/de/book/9783642125775\">link</a>)&nbsp;by Klaus Pohl.&nbsp;Special thanks to&nbsp;<a href=\"https://www.fim.uni-passau.de/ai-engineering/\" rel=\"nofollow\">Prof. Dr. Steffen Herbold</a>&nbsp;and Dr. Christian Bartelt, who provided valuable input in the form of the teaching materials of their requirements engineering courses.</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
     "_id": "65003bdb8217fa25e419af7b",
     "_parentId": "65003bdb8217fa25e419ae64",
     "_type": "component",
@@ -1542,380 +1542,6 @@
     "body": "",
     "_id": "65003bdb8217fa25e419afb9",
     "_parentId": "65003bdb8217fa25e419aea2",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "media",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Video",
-    "displayTitle": "",
-    "body": "",
-    "_id": "65003bdb8217fa25e419aff7",
-    "_parentId": "65003bdb8217fa25e419aeda",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Select the play button to start the video.",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://youtu.be/Ycf8YpLaE0g",
-      "type": "video/youtube",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": true,
-    "_startVolume": "70%",
-    "_allowFullScreen": true,
-    "_aspectRatio": "landscape",
-    "_pauseWhenOffScreen": false,
-    "_playsinline": false,
-    "_preventForwardScrubbing": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Impressum",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">The course is modeled and built based on the book \"Requirements Engineering – Fundamentals, Principles and Techniques\"&nbsp;<a href=\"https://link.springer.com/de/book/9783642125775\" rel=\"nofollow\">(link)</a>&nbsp;by Klaus Pohl.&nbsp;Special thanks to&nbsp;<a href=\"https://www.fim.uni-passau.de/ai-engineering/\" rel=\"nofollow\">Prof. Dr. Steffen Herbold</a>&nbsp;and Dr. Christian Bartelt, who provided valuable input in the form of the teaching materials of their requirements engineering courses.</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
-    "_id": "65003bdb8217fa25e419aff9",
-    "_parentId": "65003bdb8217fa25e419aedc",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "media",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Video",
-    "displayTitle": "",
-    "body": "",
-    "_id": "65003bdb8217fa25e419affb",
-    "_parentId": "65003bdb8217fa25e419aede",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Select the play button to start the video.",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://youtu.be/Ycf8YpLaE0g",
-      "type": "video/youtube",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": true,
-    "_startVolume": "70%",
-    "_allowFullScreen": true,
-    "_aspectRatio": "landscape",
-    "_pauseWhenOffScreen": false,
-    "_playsinline": false,
-    "_preventForwardScrubbing": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
-    "_component": "media",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Video",
-    "displayTitle": "",
-    "body": "",
-    "_id": "65003bdb8217fa25e419affd",
-    "_parentId": "65003bdb8217fa25e419aee0",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Select the play button to start the video.",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://youtu.be/Ycf8YpLaE0g",
-      "type": "video/youtube",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": true,
-    "_startVolume": "70%",
-    "_allowFullScreen": true,
-    "_aspectRatio": "landscape",
-    "_pauseWhenOffScreen": false,
-    "_playsinline": false,
-    "_preventForwardScrubbing": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Slide Set on Github",
-    "displayTitle": "Slide Set on Github",
-    "body": "",
-    "_id": "65003bdb8217fa25e419afff",
-    "_parentId": "65003bdb8217fa25e419aee2",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/31783286c793341b219d335081a50fcc62075879.PNG",
-      "small": "course/en/assets/31783286c793341b219d335081a50fcc62075879.PNG",
-      "attribution": "",
-      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/Requirements-Engineering",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "65003bdb8217fa25e419b001",
-    "_parentId": "65003bdb8217fa25e419aee4",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5468,7 +5094,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/Ycf8YpLaE0g",
+      "source": "https://youtu.be/UI-phEtbYCo",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -5507,7 +5133,7 @@
     "_disableAccessibilityState": false,
     "title": "Impressum",
     "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">The course is modeled and built based on the book \"Requirements Engineering – Fundamentals, Principles and Techniques\"&nbsp;<a href=\"https://link.springer.com/de/book/9783642125775\" rel=\"nofollow\">(link)</a>&nbsp;by Klaus Pohl.&nbsp;Special thanks to&nbsp;<a href=\"https://www.fim.uni-passau.de/ai-engineering/\" rel=\"nofollow\">Prof. Dr. Steffen Herbold</a>&nbsp;and Dr. Christian Bartelt, who provided valuable input in the form of the teaching materials of their requirements engineering courses.</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">The course is modeled and built based on the book \"Requirements Engineering – Fundamentals, Principles and Techniques\"&nbsp;(<a href=\"https://link.springer.com/de/book/9783642125775\">link</a>)&nbsp;by Klaus Pohl.&nbsp;Special thanks to&nbsp;<a href=\"https://www.fim.uni-passau.de/ai-engineering/\" rel=\"nofollow\">Prof. Dr. Steffen Herbold</a>&nbsp;and Dr. Christian Bartelt, who provided valuable input in the form of the teaching materials of their requirements engineering courses.</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
     "_id": "65003c188217fa25e419cb87",
     "_parentId": "65003c188217fa25e419cb15",
     "_type": "component",
@@ -5589,7 +5215,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/Ycf8YpLaE0g",
+      "source": "https://youtu.be/F5PuM7fwICU",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -5665,7 +5291,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/Ycf8YpLaE0g",
+      "source": "https://youtu.be/E5UDnS1wlyg",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -5703,8 +5329,8 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Slide Set on Github",
-    "displayTitle": "Slide Set on Github",
-    "body": "",
+    "displayTitle": "",
+    "body": "<p><strong>Slide Set on Github</strong></p>",
     "_id": "65003c188217fa25e419cbc6",
     "_parentId": "65003c188217fa25e419cb4b",
     "_type": "component",
@@ -5747,51 +5373,6 @@
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "65003c188217fa25e419cbdf",
-    "_parentId": "65003c188217fa25e419cb5d",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
   },
   {
     "_component": "blank",
@@ -5864,5 +5445,1345 @@
     "_parentId": "65003ce08217fa25e41a0776",
     "_type": "component",
     "_layout": "full"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Lecture Content",
+    "displayTitle": "Lecture Content",
+    "body": "<p>In this lecture, you will find out why Requirements Engineering (RE) is essential for software and systems engineers,&nbsp;get an overview of what it is and what the different steps of the process entail.&nbsp;The lecture is structured into three main parts, each focusing on a crucial aspect of Requirements Engineering:</p><p><strong>1. Motivation for Requirements Engineering</strong><br />In this first part, we will delve into the motivations behind Requirements Engineering. You'll gain insight into why RE is a critical phase in software development. Understanding the reason for RE will set the stage for grasping its importance in the software engineering and IT domains.</p><p><strong>2. Requirements Engineering Overview</strong><br />In the second part of the lecture, we will provide an overview of Requirements Engineering. This segment serves as a foundational introduction to the fundamental concepts, terminology, and principles of RE. You'll learn what constitutes a requirement, the different types of conditions, and the role they play in shaping the software development process. This overview will help you establish a solid understanding of the fundamental building blocks of RE.</p><p><strong>3. Requirements Engineering Process</strong><br />The final part of our lecture will dive deep into the Requirements Engineering process itself. We will break down the steps and methodologies involved in effectively gathering, analysing, documenting, and managing requirements. You'll gain a practical understanding of how to navigate the RE process, ensuring that conditions are well-defined, traceable, and aligned with project objectives.</p>",
+    "_id": "650c1990a7c33c09d4320051",
+    "_parentId": "650c1983a7c33c09d431fdab",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The 6 Steps of the RE Process",
+    "displayTitle": "The 6 Steps of the RE Process",
+    "body": "<p>The Requirements Engineering (RE) process typically consists of several key steps, which can vary in their exact sequence depending on the methodology or framework being used.&nbsp;These six steps in the RE process help organizations gather, analyze, document, validate, verify, and manage requirements effectively, ensuring that software projects align with stakeholders' needs and expectations while minimizing risks and changes during the development lifecycle. The process can be iterative, and feedback loops may exist between these steps to accommodate evolving project needs.</p>",
+    "_id": "650c1d9aa7c33c09d4324cee",
+    "_parentId": "650c1d89a7c33c09d4324c6d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the icons to find out more.",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/80c7ffd206c926fec5180622720ce9a53f885119.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_isMobileTextBelowImage": false,
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Elictation",
+        "_ariaLevel": 0,
+        "body": "<p>Requirements elicitation is a critical phase in the Requirements Engineering (RE) process, aimed at gathering and clarifying requirements from stakeholders, such as clients, users, and project team members. Here are the tasks of the elicitation process:</p><p>Tasks:</p><ul><li>Identification of stakeholders</li><li>Identification of additional sources of requirements</li><li>Gathering of raw requirements</li></ul>",
+        "strapline": "Elicitation",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/df9b027c3bc68b9534c38bb64bb81c2e635920f0.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 5,
+        "_top": 85
+      },
+      {
+        "title": "Negotiation",
+        "_ariaLevel": 0,
+        "body": "<p>Negotiation is a crucial step in the requirements elicitation process of Requirements Engineering (RE). It involves discussions and compromises among stakeholders to resolve conflicts, align diverse perspectives, and reach a consensus regarding the gathered requirements. Here's are the different tasks of the negotiation step:</p><ul><li>Identification of the concrete&nbsp;requirements</li><li>Structuring of the requirements</li><li>Refinement of the requirements</li><li>From raw requirements to detailed</li><li>Requirements sufficient that can be the&nbsp;basis of an acceptance test</li><li>Identification of dependencies</li><li>Detection of inconsistencies</li><li>Resolution of inconsistencies</li><li>Prioritization of requirements</li></ul>",
+        "strapline": "Negotiation",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/75c79cac97fc9866e3c7d1133eb9107db965ef7c.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 22,
+        "_top": 85
+      },
+      {
+        "title": "Documentation",
+        "_ariaLevel": 0,
+        "body": "<p>In the documentation phase of Requirements Engineering (RE), several key activities are undertaken to capture, record, and organize the gathered requirements effectively. These activities are essential for maintaining clarity, traceability, and communication throughout the software development process. Here's what typically happens during the documentation phase:</p><ul><li>Specification of requirements</li><li>Documentation of intermediate results and assumptions</li><li>Documentation of reasoning for requirements</li><li>Assignment of attributes to requirements</li></ul>",
+        "strapline": "Documentation",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/777ba1a0fc7836c0bb30e81adc1b07cc9c5478d9.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 38,
+        "_top": 85
+      },
+      {
+        "title": "Validation ",
+        "_ariaLevel": 0,
+        "body": "<p>In the validation phase of Requirements Engineering (RE), the focus is on assessing and confirming that the gathered requirements are complete, accurate, consistent, and aligned with the needs and expectations of stakeholders. Here are the key activities that typically occur during the validation phase of RE:</p><ul><li>Validation of the content of the specification documents</li><li>If possible, a formal verification of the documents</li><li>Verification and validation against previously existing documents (e.g., request for&nbsp;proposals, documentation of a legacy system) and customer wishes</li></ul>",
+        "strapline": "Validation ",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/d6fe4770948e944c5c8fc4a3a48953e5c5134a03.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 55,
+        "_top": 85
+      },
+      {
+        "title": "Change Management",
+        "_ariaLevel": 0,
+        "body": "<p>Change management in Requirements Engineering (RE) is a critical phase that deals with handling and controlling changes to the requirements throughout the software development project. Here's what typically happens in the change management phase of RE:</p><ul><li>Management of change requests</li><li>Management of different versions of requirements</li><li>Each change to a requirement yields a new version</li><li>Well organized propagation of changes</li></ul>",
+        "strapline": "Change Management ",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/e4cbcd72559261c722b8fd110aab29c641d73a3f.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 71,
+        "_top": 85
+      },
+      {
+        "title": "Tracing",
+        "_ariaLevel": 0,
+        "body": "<p>Tracing is the process of establishing and maintaining links or relationships between various artifacts and elements throughout the requirements lifecycle. The primary purpose of tracing is to ensure that all requirements are well-documented, consistently managed, and effectively tracked from their origins to their implementation and testing. Here's what happens in the tracing process:</p><ul><li>Record assumptions</li><li>Record decisions</li><li>Record which assumptions lead to which decisions and how the requirements were&nbsp;influenced</li></ul>",
+        "strapline": "Tracing",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/012684a1163de69fd94b2e3c4247a3086ab61a82.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 88,
+        "_top": 85
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650c3f7aa7c33c09d432aee9",
+    "_parentId": "650c3f76a7c33c09d432adcb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 1",
+    "displayTitle": "",
+    "body": "<p><strong>Question 1:</strong>&nbsp;What is the primary goal of Requirements Engineering?</p>",
+    "_id": "650c40c9a7c33c09d432d54e",
+    "_parentId": "65003c188217fa25e419cb5d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Designing user interfaces",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Gathering and managing software project requirements",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Writing code",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Conducting usability testing",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 2",
+    "displayTitle": "",
+    "body": "<p><strong>Question 2:</strong>&nbsp;Why is documentation important in the RE process?</p>",
+    "_id": "650c4181a7c33c09d432dbbc",
+    "_parentId": "650c417da7c33c09d432db87",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "It makes the software project more complex.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "It's a bureaucratic requirement.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "It serves as a reference, maintains clarity, and supports communication.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "It's not essential in modern software development.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 3",
+    "displayTitle": "",
+    "body": "<p><strong>Question 3:</strong>&nbsp;Which of the following are primary types of requirements in Requirements Engineering?</p>",
+    "_id": "650c4184a7c33c09d432dc0a",
+    "_parentId": "650c417ea7c33c09d432db9d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Logical requirements",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Functional requirements",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Non-functional requirements",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Extraterrestrial requirements",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Subliminal requirements",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Domain requirements",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 4",
+    "displayTitle": "",
+    "body": "<p><strong>Question 4:</strong>&nbsp;Which step in the RE process involves assessing and confirming that the gathered requirements are complete, accurate, and consistent?</p>",
+    "_id": "650c41dba7c33c09d432e3a3",
+    "_parentId": "650c417ea7c33c09d432db9d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/df9b027c3bc68b9534c38bb64bb81c2e635920f0.png",
+          "small": "course/en/assets/df9b027c3bc68b9534c38bb64bb81c2e635920f0.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Elicitation",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/d6fe4770948e944c5c8fc4a3a48953e5c5134a03.png",
+          "small": "course/en/assets/d6fe4770948e944c5c8fc4a3a48953e5c5134a03.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Validation",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/75c79cac97fc9866e3c7d1133eb9107db965ef7c.png",
+          "small": "course/en/assets/75c79cac97fc9866e3c7d1133eb9107db965ef7c.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Negotiation",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/777ba1a0fc7836c0bb30e81adc1b07cc9c5478d9.png",
+          "small": "course/en/assets/777ba1a0fc7836c0bb30e81adc1b07cc9c5478d9.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Documentation",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Video",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650c46a4a7c33c09d4334852",
+    "_parentId": "650c46a4a7c33c09d4334789",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/UI-phEtbYCo",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "70%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Lecture Content",
+    "displayTitle": "Lecture Content",
+    "body": "<p>Welcome to the second lecture of our Requirements Engineering course, where we comprehensively explore the critical elements that define software systems, their surroundings, and the diverse requirements that govern their existence.&nbsp;In this session, we've divided the lecture into four distinct parts:</p><p><strong>1. System Context</strong><br />We will begin by examining the broader context in which software systems operate. Understanding the environment and stakeholders surrounding a system is essential to grasp its purpose and relevance.</p><p><strong>2. System Boundary</strong><br />The system boundary acts as the perimeter that defines what's inside and what's outside, allowing us to focus on the core functionalities and interactions within.</p><p><strong>3. Context Boundary</strong><br />Beyond the system lies the context boundary, a crucial distinction that separates the system from its external environment. Here, we'll explore how this boundary influences requirements and project scope.</p><p><strong>4. Types of Requirements</strong><br />To round off our journey, we will delve into the requirements that drive software projects. We'll shed light on the critical elements that shape the software development landscape from functional to non-functional.</p><p>Throughout this lecture, we will unravel the complexities and intricacies of these concepts, providing you with the knowledge and tools necessary to navigate the world of Requirements Engineering effectively. So, let's dive into the depths of system context, boundaries, and requirements and discover how they lay the foundation for successful software development.</p>",
+    "_id": "650c46a4a7c33c09d4334867",
+    "_parentId": "650c46a4a7c33c09d433479b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650c46a4a7c33c09d433487c",
+    "_parentId": "650c46a4a7c33c09d43347ad",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Impressum",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">The course is modeled and built based on the book \"Requirements Engineering – Fundamentals, Principles and Techniques\"&nbsp;(<a href=\"https://link.springer.com/de/book/9783642125775\">link</a>)&nbsp;by Klaus Pohl.&nbsp;Special thanks to&nbsp;<a href=\"https://www.fim.uni-passau.de/ai-engineering/\" rel=\"nofollow\">Prof. Dr. Steffen Herbold</a>&nbsp;and Dr. Christian Bartelt, who provided valuable input in the form of the teaching materials of their requirements engineering courses.</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "_id": "650c46a4a7c33c09d4334895",
+    "_parentId": "650c46a4a7c33c09d43347bf",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Video",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650c46a4a7c33c09d43348aa",
+    "_parentId": "650c46a4a7c33c09d43347d1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/F5PuM7fwICU",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "70%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Video",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650c46a4a7c33c09d43348bf",
+    "_parentId": "650c46a4a7c33c09d43347e3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/E5UDnS1wlyg",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "70%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Slide Set on Github",
+    "displayTitle": "",
+    "body": "<p><strong>Slide Set on Github</strong></p>",
+    "_id": "650c46a4a7c33c09d43348f7",
+    "_parentId": "650c46a4a7c33c09d4334807",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/31783286c793341b219d335081a50fcc62075879.PNG",
+      "small": "course/en/assets/31783286c793341b219d335081a50fcc62075879.PNG",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/Requirements-Engineering",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Video",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650c4776a7c33c09d4337166",
+    "_parentId": "650c4776a7c33c09d433714e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/F5PuM7fwICU",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "70%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
   }
 ]

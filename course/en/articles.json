@@ -590,114 +590,6 @@
     }
   },
   {
-    "title": "Intro and Motivation of Requirements Engineering",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "orange-bg",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419ae13",
-    "_parentId": "65003bdb8217fa25e419adb0",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_correctToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_scrollToOnReset": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "hard",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      }
-    }
-  },
-  {
     "title": "New Article Title",
     "displayTitle": "",
     "body": "",
@@ -809,7 +701,7 @@
     "title": "Intro and Motivation of Requirements Engineering",
     "displayTitle": "",
     "body": "",
-    "_classes": "orange-bg",
+    "_classes": "",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1090,6 +982,114 @@
         "_canShowFeedback": false,
         "_canShowMarking": false,
         "_canShowModelAnswer": false
+      }
+    }
+  },
+  {
+    "title": "Introduction and System Context",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c46a4a7c33c09d433471d",
+    "_parentId": "650c46a4a7c33c09d4334704",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
       }
     }
   },
@@ -1537,8 +1537,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419ae17",
-    "_parentId": "65003bdb8217fa25e419adb0",
+    "_id": "65003c188217fa25e419cabb",
+    "_parentId": "65003c188217fa25e419ca76",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1634,7 +1634,7 @@
     }
   },
   {
-    "title": "Requirements Engineering Overview",
+    "title": "System Boundary and Context Boundary",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1645,8 +1645,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "65003c188217fa25e419cabb",
-    "_parentId": "65003c188217fa25e419ca76",
+    "_id": "650c46a4a7c33c09d4334741",
+    "_parentId": "650c46a4a7c33c09d4334704",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2177,7 +2177,7 @@
     "title": "Requirements Engineering Process and Conclusion",
     "displayTitle": "",
     "body": "",
-    "_classes": "orange-bg",
+    "_classes": "",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2185,8 +2185,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419ae19",
-    "_parentId": "65003bdb8217fa25e419adb0",
+    "_id": "65003c188217fa25e419cacd",
+    "_parentId": "65003c188217fa25e419ca76",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2282,10 +2282,10 @@
     }
   },
   {
-    "title": "Requirements Engineering Process and Conclusion",
+    "title": "Types of Requirements",
     "displayTitle": "",
     "body": "",
-    "_classes": "orange-bg",
+    "_classes": "",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2293,8 +2293,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "65003c188217fa25e419cacd",
-    "_parentId": "65003c188217fa25e419ca76",
+    "_id": "650c46a4a7c33c09d4334753",
+    "_parentId": "650c46a4a7c33c09d4334704",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2825,7 +2825,7 @@
     "title": "Exercise",
     "displayTitle": "",
     "body": "",
-    "_classes": "",
+    "_classes": "orange-bg",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2833,8 +2833,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419ae1d",
-    "_parentId": "65003bdb8217fa25e419adb0",
+    "_id": "65003c188217fa25e419caf1",
+    "_parentId": "65003c188217fa25e419ca76",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2930,7 +2930,7 @@
     }
   },
   {
-    "title": "Exercise",
+    "title": "Supplementary Content",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -2941,8 +2941,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "65003c188217fa25e419caf1",
-    "_parentId": "65003c188217fa25e419ca76",
+    "_id": "650c46a4a7c33c09d4334765",
+    "_parentId": "650c46a4a7c33c09d4334704",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -3481,8 +3481,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419ae1b",
-    "_parentId": "65003bdb8217fa25e419adb0",
+    "_id": "65003c188217fa25e419cadf",
+    "_parentId": "65003c188217fa25e419ca76",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -3578,7 +3578,7 @@
     }
   },
   {
-    "title": "Supplementary Content",
+    "title": "Impressum",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -3589,8 +3589,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "65003c188217fa25e419cadf",
-    "_parentId": "65003c188217fa25e419ca76",
+    "_id": "650c46a4a7c33c09d433472f",
+    "_parentId": "650c46a4a7c33c09d4334704",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -4023,114 +4023,6 @@
     "_ariaLevel": 0,
     "_id": "65003bdb8217fa25e419adfd",
     "_parentId": "65003bdb8217fa25e419ad9c",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_correctToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_scrollToOnReset": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "hard",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      }
-    }
-  },
-  {
-    "title": "Impressum",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419ae15",
-    "_parentId": "65003bdb8217fa25e419adb0",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
