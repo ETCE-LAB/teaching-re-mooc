@@ -92,98 +92,6 @@
     }
   },
   {
-    "title": "Elicitation - Part 1",
-    "displayTitle": "Elicitation - Part 1",
-    "body": "<p>Throughout this module, we will delve into examples of sustainable everyday practices,&nbsp;discuss why it is crucial to embrace sustainable practices in your everyday life and&nbsp;explore the differences between individual and corporate sustainability.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Throughout this module, we will delve into various examples of sustainable everyday practices. By exploring these examples, you will gain a comprehensive understanding of how small actions in your daily life can contribute to a more sustainable world.&nbsp;Moreover, we will discuss the reasons why it is crucial to embrace sustainable practices in your everyday life.&nbsp;Furthermore, we will explore the differences between individual and corporate sustainability. While individuals have the power to make choices and take actions in their personal lives, corporations have a larger scale and influence in driving sustainable change.</p><p>By the end of this module, you will have a comprehensive overview of sustainable everyday practices, (hopefully) be inspired by examples of how you can make a difference, understand the reasons to act more sustainably in your everyday life, and recognize the distinct roles and respobsibilities of individuals and corporations in promoting sustainability.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419ada6",
-    "_parentId": "65003bdb8217fa25e419ad90",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "contain",
-          "_backgroundPosition": "left center"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Documentation - Introduction",
     "displayTitle": "Documentation - Introduction",
     "body": "<p>Throughout this module, we will delve into examples of sustainable everyday practices,&nbsp;discuss why it is crucial to embrace sustainable practices in your everyday life and&nbsp;explore the differences between individual and corporate sustainability.</p>",
@@ -278,10 +186,10 @@
   {
     "title": "System Context Boundaries and Types of Requirements",
     "displayTitle": "System Context Boundaries and Types of Requirements",
-    "body": "<p>In this lecture, you will learn what differentiates systems and context, what different types of boundaries exist and why they are important for the Requirements Engineering process.</p>",
+    "body": "<p>In this lecture, you will learn what differentiates systems and context, what different types of boundaries exist and why they are important for the RE process.</p>",
     "_classes": "",
     "subtitle": "Lecture L02",
-    "pageBody": "<p>In this lecture, you will learn what differentiates systems and context, what different types of boundaries exist and why they are important for the Requirements Engineering process.</p>",
+    "pageBody": "<p>In this lecture, you will learn what differentiates systems and context, what different types of boundaries exist and why they are important for the RE process.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -368,12 +276,12 @@
     }
   },
   {
-    "title": "Elicitation - Part 2",
-    "displayTitle": "Elicitation - Part 2",
-    "body": "<p>Throughout this module, we will delve into examples of sustainable everyday practices,&nbsp;discuss why it is crucial to embrace sustainable practices in your everyday life and&nbsp;explore the differences between individual and corporate sustainability.</p>",
+    "title": "Elicitation Part 1",
+    "displayTitle": "Elicitation Part 1",
+    "body": "<p>Elicitation is the first and one of the most crucial steps during the Requirements Engineering process. Part 1 gives a general overview of the elicitation process and introduces some techniques.</p>",
     "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Throughout this module, we will delve into various examples of sustainable everyday practices. By exploring these examples, you will gain a comprehensive understanding of how small actions in your daily life can contribute to a more sustainable world.&nbsp;Moreover, we will discuss the reasons why it is crucial to embrace sustainable practices in your everyday life.&nbsp;Furthermore, we will explore the differences between individual and corporate sustainability. While individuals have the power to make choices and take actions in their personal lives, corporations have a larger scale and influence in driving sustainable change.</p><p>By the end of this module, you will have a comprehensive overview of sustainable everyday practices, (hopefully) be inspired by examples of how you can make a difference, understand the reasons to act more sustainably in your everyday life, and recognize the distinct roles and respobsibilities of individuals and corporations in promoting sustainability.</p>",
+    "subtitle": "Lecture L03",
+    "pageBody": "<p>Elicitation is the first and one of the most crucial steps during the Requirements Engineering process. Part 1 gives a general overview of the elicitation process and introduces some techniques.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -386,23 +294,17 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419ada8",
+    "_id": "6512ab8611c15830dca2c397",
     "_parentId": "65003bdb8217fa25e419ad90",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/97ef72aec38a75ec7d11a03a0258ac4af043f029.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -411,6 +313,12 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -554,7 +462,7 @@
   {
     "title": "Exercise",
     "displayTitle": "Exercise",
-    "body": "<p>Here you can find the multiple choice questions for E01 of the Requirements Engineering course.&nbsp;</p>",
+    "body": "<p>Here you can find the multiple choice questions for L02 of the Requirements Engineering course. It will cover both the content of the introductory lecture and the second lecture.&nbsp;</p>",
     "_classes": "",
     "subtitle": "Multiple Choice Quiz",
     "pageBody": "<p>Here you can find the multiple choice questions for L02 of the Requirements Engineering course. It will cover both the content of the introductory lecture and lecture L02.&nbsp;</p>",
@@ -668,6 +576,98 @@
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/3cd83275ed70a08c787dd69f174b9ff4f8b5950c.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "contain",
+          "_backgroundPosition": "left center"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Elicitation Part 2",
+    "displayTitle": "Elicitation Part 2",
+    "body": "<p>In part 2 of the lecture on requirements elicitation, you will be introduced to some additional techniques to elicit information and get a summary of the whole process.</p>",
+    "_classes": "",
+    "subtitle": "Lecture L03",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6512ab8f11c15830dca2c95c",
+    "_parentId": "65003bdb8217fa25e419ad90",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/481928738070e4bd68d78f7eb6c3f3687af1ae04.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -858,12 +858,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -871,6 +865,12 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -924,7 +924,7 @@
     "displayTitle": "Negotiation",
     "body": "<p>During the negotiation phase all stakeholders have to gain a&nbsp;common understanding of the requirements.&nbsp;Conflict management plays a vital part during the negotiation.</p>",
     "_classes": "",
-    "subtitle": "",
+    "subtitle": "Lecture L04",
     "pageBody": "<p>During the negotiation phase all stakeholders have to gain a&nbsp;common understanding of the requirements.&nbsp;Conflict management plays a vital part during the negotiation.</p>",
     "instruction": "",
     "_htmlClasses": "",
@@ -938,7 +938,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419ad8e",
+    "_id": "6512bd4e11c15830dca41a47",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
@@ -950,12 +950,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -963,6 +957,12 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false

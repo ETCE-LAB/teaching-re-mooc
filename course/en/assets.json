@@ -109,6 +109,11 @@
     "description": "RE header",
     "tags": []
   },
+  "fdc6ff36b564f1d9e2b4498672f4fea73823d7fd.png": {
+    "title": "RE Processes Overview.png",
+    "description": "RE process",
+    "tags": []
+  },
   "80c7ffd206c926fec5180622720ce9a53f885119.png": {
     "title": "RE Processes Overview.png",
     "description": "RE process new\r\n",
@@ -147,6 +152,51 @@
   "7687b671edd02b14e29fa6cad731140ea866f348.png": {
     "title": "Blocker-13.png",
     "description": "blocker ReEn",
+    "tags": []
+  },
+  "ca989eb73a44ae9c359ea790794f540c65497bfa.png": {
+    "title": "System and Context Overview.png",
+    "description": "SCO",
+    "tags": []
+  },
+  "ba55768912a7f384aff4c8873b8b3c53189e8bce.png": {
+    "title": "Functional Requirements.png",
+    "description": "Functional Requirements",
+    "tags": []
+  },
+  "aae0364de065ef49c4004df58aa03194f2ff8c7f.png": {
+    "title": "Non Functional Requirements.png",
+    "description": "Non Functional Requirements",
+    "tags": []
+  },
+  "2aa0c3fc7f4504999491a9b4ab8e09d046cc3ef0.png": {
+    "title": "Techniques Overview.png",
+    "description": "technique overview",
+    "tags": []
+  },
+  "570b16e977e3c0c656f8b94d6b68f0b2a02f08dc.png": {
+    "title": "elicitation summary.png",
+    "description": "summary elicitation",
+    "tags": []
+  },
+  "b1fdc978404ae178a78f3595ff2876e06b5508c3.png": {
+    "title": "process-negotiation.png",
+    "description": "nego pro",
+    "tags": []
+  },
+  "97ef72aec38a75ec7d11a03a0258ac4af043f029.png": {
+    "title": "RE - Lecture title frames-14.png",
+    "description": "3.1\r\n",
+    "tags": []
+  },
+  "481928738070e4bd68d78f7eb6c3f3687af1ae04.png": {
+    "title": "RE - Lecture title frames-15.png",
+    "description": "3.2",
+    "tags": []
+  },
+  "a142439648de7a14b16700c8683d2830229b8a70.png": {
+    "title": "lecture overview 2022.png",
+    "description": "lectures 2022",
     "tags": []
   }
 }
