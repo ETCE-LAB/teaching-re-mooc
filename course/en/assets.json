@@ -54,26 +54,6 @@
     "description": "RE 5 frame",
     "tags": []
   },
-  "1b91ec0a5b59794c5814ba5b2304808924b1d296.png": {
-    "title": "RE - Lecture title frames-06.png",
-    "description": "RE 6 slide",
-    "tags": []
-  },
-  "7f52b1bddf6c09e5b99289bfa69ff0e554b12d6f.png": {
-    "title": "RE - Lecture title frames-07.png",
-    "description": "RE 7 slide",
-    "tags": []
-  },
-  "8524e2473de12975920c8a6452fac0eab95bf965.png": {
-    "title": "RE - Lecture title frames-08.png",
-    "description": "RE 8 slide",
-    "tags": []
-  },
-  "1192bfe762ae118ece5e104b3c4326f40396308d.png": {
-    "title": "RE - Lecture title frames-09.png",
-    "description": "RE 9 frame",
-    "tags": []
-  },
   "c2e5649cf0e6787b3dcd1ce41a888e862ed7586d.png": {
     "title": "aggregation.png",
     "description": "Aggregation",
@@ -194,9 +174,79 @@
     "description": "3.2",
     "tags": []
   },
-  "a142439648de7a14b16700c8683d2830229b8a70.png": {
-    "title": "lecture overview 2022.png",
-    "description": "lectures 2022",
+  "14ef0270e662808a32c08de3c3d37ca5d3dc7b31.png": {
+    "title": "RE - Lecture title frames-16.png",
+    "description": "re doc models title\r\n",
+    "tags": []
+  },
+  "55d453aa2c07da3ecf94a544413484559e97d58b.png": {
+    "title": "RE - Lecture title frames-06.png",
+    "description": "re new val",
+    "tags": []
+  },
+  "5ad34e73e8632bd0f9ef30ec866b2713b26219ee.png": {
+    "title": "RE - Lecture title frames-09.png",
+    "description": "re newtool support",
+    "tags": []
+  },
+  "9da87bc1446309750505cc01ce778bc96e3a47a1.png": {
+    "title": "RE - Lecture title frames-17.png",
+    "description": "doc1\r\n",
+    "tags": []
+  },
+  "c6da7d2149a052b7c6b506aec4444db84d53a9fe.png": {
+    "title": "RE - Lecture title frames-18.png",
+    "description": "doc\r\n2",
+    "tags": []
+  },
+  "7be769e186ac75fad6b0dd2e82889f8441d25f93.png": {
+    "title": "RE - Lecture title frames-20.png",
+    "description": "docmodel1\r\n",
+    "tags": []
+  },
+  "034962b3d9e904b9a7b25d297e0b101a27ea7758.png": {
+    "title": "RE - Lecture title frames-21.png",
+    "description": "docmodels2\r\n",
+    "tags": []
+  },
+  "36796ec9bff05ea63b614b083e72c7cb64e3ddc3.png": {
+    "title": "process - validation.png",
+    "description": "val",
+    "tags": []
+  },
+  "e1473da61c5cabcbd736f684eadaea7dad3d7d25.png": {
+    "title": "process- dovcumentation.png",
+    "description": "doc\r\n",
+    "tags": []
+  },
+  "49659d9d42ed9018f24c01ff36e8c2eeedb21a53.png": {
+    "title": "RE - Lecture title frames-07.png",
+    "description": "traceability",
+    "tags": []
+  },
+  "a1a9f3c831b9bf756d09e956400066d800ccf4d3.png": {
+    "title": "RE - Lecture title frames-08.png",
+    "description": "change mgmt",
+    "tags": []
+  },
+  "385a31a78e4394db159583bd0dd6edf3aca08dfb.png": {
+    "title": "process change mgmt.png",
+    "description": "change mgt",
+    "tags": []
+  },
+  "51e3f92fa4ce1c5ed098928b8136a81c00516a75.png": {
+    "title": "process tracing.png",
+    "description": "tracre",
+    "tags": []
+  },
+  "12d0336f03df0d7f157a78b7cd66fc6361a94531.png": {
+    "title": "process all.png",
+    "description": "all",
+    "tags": []
+  },
+  "19282224dcea683086950b44b3b8c205c85395cb.png": {
+    "title": "RE - Lecture title frames-19.png",
+    "description": "exercise",
     "tags": []
   }
 }
