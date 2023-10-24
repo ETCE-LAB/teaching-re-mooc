@@ -6,7 +6,7 @@
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 173,
+  "_latestTrackingId": 175,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -454,7 +454,7 @@
   },
   "_vanilla": {
     "_favIcon": {
-      "_src": ""
+      "_src": "course/en/assets/090ec9e7ea24b9a3a250d7ce333bad6086f15497.png"
     }
   }
 }

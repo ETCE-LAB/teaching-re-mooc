@@ -7479,7 +7479,7 @@
     "_disableAccessibilityState": false,
     "title": "Course Organization",
     "displayTitle": "Course Organization",
-    "body": "<p><strong>Online Format:</strong> This course will be entirely online, which means that you won't need to physically attend any in-person classes. All course materials, including lectures, reading materials, assignments, and assessments, will be accessible online.</p><p><strong>Prerecorded Videos:</strong> Instead of live lectures, the course content will be delivered primarily through prerecorded video presentations. These videos have been created in advance by the instructor and will be available for you to watch at your own pace. You can rewind, pause, or replay them as needed to grasp the material effectively.</p><p><strong>Asynchronous Learning</strong>: The course is asynchronous, which means there are no fixed lecture times that you have to attend. You can access the course materials and complete assignments based on your own schedule. This flexibility allows you to manage your study time around your other commitments.</p><p><strong>Independent Learning</strong>: With the asynchronous format, you will have the opportunity to engage in independent learning. However, it's essential to manage your time effectively and stay on track with course deadlines, as assignments and assessments will have due dates.</p><p><strong>Discussion and Support</strong>: While the course is asynchronous, we will provide Q&amp;A sessions for communication and support. We will meet for exercise/ Q&amp;A sessions to discuss the course content with you, tutorials related to the exercises and to answer any questions you might still have. You can find more information below.</p><p>You will be able to find all content on this website. You can find the asynchronous learning material here and we will link the live lectures and slides here.&nbsp;Every week we will unlock the new learning material here. Additionally, all slides can be found on Github (<a href=\"https://github.com/ETCE-LAB/teaching-material/tree/master/Requirements-Engineering\">Link</a>).&nbsp;</p><p>&nbsp;</p><p><strong>Exercise / Q&amp;A:</strong></p><ul><li><span style=\"background-color:#e74c3c\">Mondays 4 pm to 5:30 pm (Berlin time) – 02.11.2022 to 08.02.2023</span></li><li><span style=\"background-color:#e74c3c\">Only via BigBlueButton (Link)</span></li></ul><p>Further questions? Write us an email: <a href=\"mailto:etce-re@tu-clausthal.de\">etce-re@tu-clausthal.de</a> ← We will only respond to emails written to this specific email address!</p>",
+    "body": "<p><strong>Online Format:</strong> This course will be entirely online, which means that you won't need to physically attend any in-person classes. All course materials, including lectures, reading materials, assignments, and assessments, will be accessible online.</p><p><strong>Prerecorded Videos:</strong> Instead of live lectures, the course content will be delivered primarily through prerecorded video presentations. These videos have been created in advance by the instructor and will be available for you to watch at your own pace. You can rewind, pause, or replay them as needed to grasp the material effectively.</p><p><strong>Asynchronous Learning</strong>: The course is asynchronous, which means there are no fixed lecture times that you have to attend. You can access the course materials and complete assignments based on your own schedule. This flexibility allows you to manage your study time around your other commitments.</p><p><strong>Independent Learning</strong>: With the asynchronous format, you will have the opportunity to engage in independent learning. However, it's essential to manage your time effectively and stay on track with course deadlines, as assignments and assessments will have due dates.</p><p><strong>Discussion and Support</strong>: While the course is asynchronous, we will provide Q&amp;A sessions for communication and support. We will meet for exercise/ Q&amp;A sessions to discuss the course content with you, tutorials related to the exercises and to answer any questions you might still have. You can find more information below.</p><p>You will be able to find all content on this website. You can find the asynchronous learning material here and we will link the live lectures and slides here. Additionally, all slides can be found on Github (<a href=\"https://github.com/ETCE-LAB/teaching-material/tree/master/Requirements-Engineering\">Link</a>).&nbsp;</p><p><strong>Live Lecture</strong><br />Monday 2:15 pm to 3:45&nbsp;pm (Berlin time) – on the 30.10.2023<br />Location: Goslar Gotec (Am Stollen 19 C, 38640 Goslar, Germany) or via BigBlueButton (<a href=\"https://webconf.tu-clausthal.de/b/ben-hsg-rt9-6ur\" rel=\"noreferrer noopener\" target=\"_blank\">Link</a>)</p><p><strong>Exercise / Q&amp;A</strong><br />Mondays, 4 pm to 5:30 pm (Berlin time) – 30.11.2023&nbsp;to 12.02.2024<br />Location: Goslar Gotec (Am Stollen 19 C, 38640 Goslar, Germany) or via BigBlueButton (<a href=\"https://webconf.tu-clausthal.de/rooms/ben-hsg-rt9-6ur/join\" rel=\"noreferrer noopener\" target=\"_blank\">Link</a>)</p><p><em>Further questions?</em> Write us an email: <a href=\"mailto:etce-re@tu-clausthal.de\">etce-re@tu-clausthal.de</a> ← We will only respond to emails written to this specific email address!</p>",
     "_id": "6512d6f511c15830dca4e326",
     "_parentId": "6512d6f211c15830dca4e213",
     "_type": "component",
@@ -7580,7 +7580,7 @@
     "_disableAccessibilityState": false,
     "title": "Exercise and Exam",
     "displayTitle": "Exercise and Exam",
-    "body": "<p><strong>Exercise</strong></p><p>Organization of the exercise:</p><ul><li>Individual work → no group submissions</li><li>Multiple-Choice or practical tasks</li><li>7-14 days to submit (depending on the task)</li><li>Submission deadline is always Wednesday at 1:59pm (right before the next lecture)</li><li>Submission of each exercise is mandatory</li></ul><p>Bonus task:</p><ul><li>You may miss/fail one of the regular exercises</li><li>Submitting AND passing the bonus task substitutes the missed/failed exercise</li><li>Bonus task will be very difficult → don’t “plan” with the bonus task. Rather submit&nbsp;and pass the regular exercises.</li></ul><p><strong>Exam</strong></p><p>Prerequisites for admission to the final exam (all criteria have to be fulfilled):</p><ul><li>Successful completion of the compulsory seven exercises</li><li>You pass an exercise if you score 50% (or more)</li><li>You have to submit every exercise</li></ul><p>Final exam:</p><ul><li>22.02.2023 → 14:00 – 16:00</li><li>Written exam (120min)</li></ul>",
+    "body": "<p><strong>Exercise</strong></p><p>Organization of the exercise:</p><ul><li>Individual work → no group submissions</li><li>Multiple-Choice or practical tasks</li><li>7-14 days to submit (depending on the task)</li><li>Submission deadline is always Wednesday at 1:59pm (right before the next lecture)</li><li>Submission of each exercise is mandatory</li></ul><p>Bonus task:</p><ul><li>You may miss/fail one of the regular exercises</li><li>Submitting AND passing the bonus task substitutes the missed/failed exercise</li><li>Bonus task will be very difficult → don’t “plan” with the bonus task. Rather submit&nbsp;and pass the regular exercises.</li></ul><p><strong>Exam</strong></p><p>Prerequisites for admission to the final exam (all criteria have to be fulfilled):</p><ul><li>Successful completion of the compulsory seven exercises</li><li>You pass an exercise if you score 50% (or more)</li><li>You have to submit every exercise</li></ul>",
     "_id": "6512d8b311c15830dca4ff84",
     "_parentId": "6512d8b311c15830dca4ff6a",
     "_type": "component",
@@ -8806,7 +8806,7 @@
     "_disableAccessibilityState": false,
     "title": "Lecture Plan",
     "displayTitle": "Lecture Plan",
-    "body": "<p>This course primarily consists of asynchronous, pre-produced learning material. Except for the first lecture, where we will discuss organisational matters and the Q&amp;A session for the exam, you will find all the material for this course on this website.&nbsp;</p><p><strong>Lecture Plan for the Current Semester<br /><span style=\"color:#f39c12\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:553px\"><tbody><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap; width:76px\"><span><span style=\"color:black\"><span><span><span><span>30.10</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L00 – Orga </span></span></span></span></span><span style=\"color:#f39c12\"><strong>(LIVE LECTURE)</strong></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>06.11</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L01 – Introduction</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>13.11</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L02 – System Context/Boundaries + Types of Requirements</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>20.11</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L03 – Elicitation (Part 1)</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>27.11</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L03 – Elicitation (Part 2)</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>&nbsp;04.12</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L04 – Negotiation</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>11.12</span></span></span></span></span></span></td><td rowspan=\"2\" style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><p><span><span style=\"color:black\"><span><span><span><span>&nbsp; L05 – Documentation</span></span></span></span></span></span></p></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>18.12</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>08.01</span></span></span></span></span></span></td><td rowspan=\"2\" style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><p><span><span style=\"color:black\"><span><span><span><span>&nbsp; L06 – Documentation Models</span></span></span></span></span></span></p></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>15.01</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>22.01</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L07 – Validation</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>29.01</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L08 – Management</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>05.02</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L09 – Traceability</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\">12.02</td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L10 – Tool Support</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>&nbsp;</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp;</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>26.02</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; Exam Q&amp;A </span></span></span></span></span><span style=\"color:#f39c12\"><strong>(LIVE LECTURE)</strong></span></span></td></tr></tbody></table>",
+    "body": "<p>This course primarily consists of asynchronous, pre-produced learning material. Except for the first lecture, where we will discuss organisational matters and the Q&amp;A session for the exam, you will find all the material for this course on this website.&nbsp;</p><p><strong>Lecture Plan for the Current Semester<br /><span style=\"color:#f39c12\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:473px\"><tbody><tr><td style=\"background-color:white; border-color:black; border-style:solid; border-width:1px; height:20px; text-align:center; vertical-align:middle; white-space:nowrap; width:62px\"><span><span style=\"color:black\"><span><span><span><span>30.10</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:middle; white-space:normal; width:410px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; 00 – Orga </span></span></span></span></span><span style=\"color:#f39c12\"><strong>(LIVE LECTURE)</strong></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>06.11</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:middle; white-space:normal; width:410px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; 01 – Introduction</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>13.11</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:middle; white-space:normal; width:410px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; 02 – System Context/Boundaries +<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Types of Requirements&nbsp;</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>20.11</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:middle; white-space:normal; width:410px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; 03 – Elicitation&nbsp;</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>27.11</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:middle; white-space:normal; width:410px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; 04 – Negotiation</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>04.12</span></span></span></span></span></span></td><td rowspan=\"2\" style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:middle; white-space:normal; width:410px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; 05 – Documentation</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>11.12</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>18.12</span></span></span></span></span></span></td><td rowspan=\"2\" style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:middle; white-space:normal; width:410px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; 06 – Documentation Models</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>08.01</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>15.01</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:middle; white-space:normal; width:410px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; 07 – Validation</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>22.01</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:middle; white-space:normal; width:410px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; 08 – Management</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>29.01</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:middle; white-space:normal; width:410px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; 09 – Traceability</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>05.02</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:middle; white-space:normal; width:410px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; 10 – Tool Support</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>12.02</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:middle; white-space:normal; width:410px\"><em><span><span style=\"color:black\"><span><span><span><span>&nbsp; -- no lecture --</span></span></span></span></span></span></em></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; text-align:center; vertical-align:middle; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>26.02</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:middle; white-space:normal; width:410px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; Exam Q&amp;A </span></span></span></span></span><span style=\"color:#f39c12\"><strong>(LIVE LECTURE)</strong></span></span></td></tr></tbody></table>",
     "_id": "653107b2dfe25c06743ab2e7",
     "_parentId": "653107afdfe25c06743ab27b",
     "_type": "component",
@@ -8849,9 +8849,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Exercise / Q&A",
-    "displayTitle": "Exercise / Q&A",
-    "body": "<p>This course primarily consists of asynchronous, pre-produced learning material. Except for the first lecture, where we will discuss organisational matters and the Q&amp;A session for the exam, you will find all the material for this course on this website.&nbsp;</p><p><strong>Q&amp;A Sessions in the Current Semester<br /><span style=\"color:#f39c12\">(Winter Semester 2023/24)</span></strong></p><p><strong><span style=\"background-color:#e74c3c\">ADD in at what days there will be an Q&amp;A and what the topic will be</span></strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:553px\"><tbody><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap; width:76px\">&nbsp;</td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span style=\"color:#000000\">&nbsp;&nbsp;</span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>13.11</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L01 – Introduction</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>20.11</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L02 – System Context/Boundaries + Types of Requirements</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>27.11</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L03 – Elicitation (Part 1)</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\">&nbsp;</td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L03 – Elicitation (Part 2)</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>&nbsp;04.12</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L04 – Negotiation</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\">&nbsp;</td><td rowspan=\"2\" style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><p><span><span style=\"color:black\"><span><span><span><span>&nbsp; L05 – Documentation</span></span></span></span></span></span></p></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>11.12</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>18.12</span></span></span></span></span></span></td><td rowspan=\"2\" style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><p><span><span style=\"color:black\"><span><span><span><span>&nbsp; L06 – Documentation Models</span></span></span></span></span></span></p></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>08.01</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>15.01</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L07 – Validation</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>22.01</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L08 – Management</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>29.01</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; L09 – Traceability</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>05.02</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\">&nbsp;</td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>12.02&nbsp;</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp;</span></span></span></span></span></span></td></tr><tr><td style=\"background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:25px; text-align:center; vertical-align:bottom; white-space:nowrap\"><span><span style=\"color:black\"><span><span><span><span>26.02</span></span></span></span></span></span></td><td style=\"background-color:white; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:bottom; white-space:normal; width:477px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; Exam Q&amp;A </span></span></span></span></span><span style=\"color:#f39c12\"><strong>(LIVE LECTURE)</strong></span></span></td></tr></tbody></table>",
+    "title": "Exercise Deadlines",
+    "displayTitle": "Exercise Deadlines",
+    "body": "<p><strong>Exercises and Submission Deadlines&nbsp;<br /><span style=\"color:#f39c12\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:627px\"><tbody><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><strong><span><span><span>Publication Date</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><strong><span><span><span>Submission Deadline</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><strong><span><span><span>Exercise</span></span></span></strong></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>13.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>20.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E01 – Knowledge Test (MC)</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>27.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>11.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E02 – Elicitation I, E02 – Elicitation II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>18.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E04 – Agent-Oriented Modeling</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E05 – CPN I, E06 – CPN II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E07 – Management</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>05.02.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E08 – Traceability</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>04.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>15.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; EXX – Bonus Task</span></span></span></span></span></span></td></tr></tbody></table>",
     "_id": "65310cf5dfe25c06743ad694",
     "_parentId": "65310cdcdfe25c06743ad473",
     "_type": "component",
@@ -14134,42 +14134,6 @@
     "title": "New Component Title",
     "displayTitle": "New Component Title",
     "body": "",
-    "_id": "65314919dfe25c06743ea940",
-    "_parentId": "653148c9dfe25c06743ea6a1",
-    "_type": "component",
-    "_layout": "full"
-  },
-  {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_id": "6531491ddfe25c06743eac34",
-    "_parentId": "6531491ddfe25c06743eac20",
-    "_type": "component",
-    "_layout": "full"
-  },
-  {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
     "_id": "65314923dfe25c06743eac9d",
     "_parentId": "65314923dfe25c06743eac89",
     "_type": "component",
@@ -14246,5 +14210,263 @@
     "_parentId": "6531494bdfe25c06743eba4c",
     "_type": "component",
     "_layout": "full"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Exercise",
+    "displayTitle": "Exercise",
+    "body": "<p><span><span><span><span><strong><span>Published on:</span></strong><span> 27.11.202</span></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong><span>Deadline: </span></strong><span>11.12.2023&nbsp;</span></span></span></span></span><span><span><span><span><span>– 2:59 pm</span></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong><span>Submission location:</span></strong><span> <strong><span style=\"color:#e67e22\">Moodle Course Page → Excercise 02 (</span><a href=\"https://moodle.tu-clausthal.de/course/view.php?id=2280\"><span style=\"color:#e67e22\">Link</span></a><span style=\"color:#e67e22\">)</span></strong></span></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong><span>Task(s):</span></strong></span></span></span></span></p><p style=\"margin-left:48px; text-align:justify\"><span><span><span><span><u><span>Submission guidlines:</span></u></span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span><span>max. 3 pages</span></span></span></span></span></li><li style=\"text-align:justify\"><span><span><span><span><span>Please upload a valid PDF file.</span></span></span></span></span></li><li style=\"text-align:justify\"><span><span><span><span><span>Please review and finalise your submission once you have uploaded all files and then click the Submit button.</span></span></span></span></span></li></ul><p style=\"text-align:justify\"><span><span><span><span><u><span>Scenario:</span></u><span> Your company has been tasked with the development of a university information system for teaching, learning and research. and research (Hochschulinformationssystem für Lehre, Studium und Forschung (LSF)). It offers options for recording, managing and displaying courses and research projects as well as the associated resources (facilities, people, rooms). The LSF is used as a study information, course management and planning system, so that different user groups can be effectively supported in their specific planning activities. Moreover,&nbsp; students can plan their studies more easily, and may use the system to access study and examination information.</span></span></span></span></span></p><p style=\"margin-left:48px; text-align:left\"><span><span><span><span><u><span>Task(s):</span></u></span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span><span><span>Identify and list the relevant project stakeholders.</span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span>Identify three applicable elicitation techniques and briefly list advantages/disadvantages in the context of the given scenario.</span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span>Prepare an interview with ten questions (choosing any one of your listed stakeholders) following the guidelines outlined in the elicitation lecture.</span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span>What are the advantages and disadvantages of the interview elicitation approach? What could be a complementary approach?</span></span></span></span></span></li></ol>",
+    "_id": "6537a617818c6f1b5c8ce109",
+    "_parentId": "6537a530818c6f1b5c8cdc2e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6537a775818c6f1b5c8ce8e5",
+    "_parentId": "653148c9dfe25c06743ea6a1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6537a78b818c6f1b5c8cec4c",
+    "_parentId": "6537a788818c6f1b5c8cec05",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/c0a8718e30aa6a0006205c3f461838dc9d3f3ea0.png",
+      "small": "course/en/assets/c0a8718e30aa6a0006205c3f461838dc9d3f3ea0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Click the image to the left to access the exercise sheet on our GitHub page.</p>",
+    "_id": "6537a8af818c6f1b5c8cf97a",
+    "_parentId": "6537a788818c6f1b5c8cec05",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6537a8ea818c6f1b5c8cfc6e",
+    "_parentId": "6537a8ea818c6f1b5c8cfc55",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
   }
 ]

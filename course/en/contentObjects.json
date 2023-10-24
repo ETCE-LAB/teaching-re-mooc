@@ -1842,10 +1842,10 @@
   {
     "title": "Exercise",
     "displayTitle": "Exercise",
-    "body": "<p>Here you can find E03 of the Requirements Engineering course.</p>",
+    "body": "<p>Here you can find E02 of the Requirements Engineering course.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Here you can find E03 of the Requirements Engineering course.</p>",
+    "pageBody": "<p>Here you can find E02 of the Requirements Engineering course.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -2876,98 +2876,6 @@
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/5ad34e73e8632bd0f9ef30ec866b2713b26219ee.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Exercise",
-    "displayTitle": "Exercise",
-    "body": "<p>Here you can find E03 of the Requirements Engineering course.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Here you can find E03 of the Requirements Engineering course.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6531491ddfe25c06743eabee",
-    "_parentId": "course",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/19282224dcea683086950b44b3b8c205c85395cb.png"
     },
     "_onScreen": {
       "_isEnabled": false,
