@@ -4768,7 +4768,7 @@
     "_disableAccessibilityState": false,
     "title": "Lecture Content",
     "displayTitle": "Lecture Content",
-    "body": "<p>Welcome to the second lecture of our Requirements Engineering course, where we comprehensively explore the critical elements that define software systems, their surroundings, and the diverse requirements that govern their existence.&nbsp;In this session, we've divided the lecture into four distinct parts:</p><p><strong>1. System Context</strong><br />We will begin by examining the broader context in which software systems operate. Understanding the environment and stakeholders surrounding a system is essential to grasp its purpose and relevance.</p><p><strong>2. System Boundary</strong><br />The system boundary acts as the perimeter that defines what's inside and what's outside, allowing us to focus on the core functionalities and interactions within.</p><p><strong>3. Context Boundary</strong><br />Beyond the system lies the context boundary, a crucial distinction that separates the system from its external environment. Here, we'll explore how this boundary influences requirements and project scope.</p><p><strong>4. Types of Requirements</strong><br />To round off our journey, we will delve into the requirements that drive software projects. We'll shed light on the critical elements that shape the software development landscape from functional to non-functional.</p><p>Throughout this lecture, we will unravel the complexities and intricacies of these concepts, providing you with the knowledge and tools necessary to navigate the world of Requirements Engineering effectively. So, let's dive into the depths of system context, boundaries, and requirements and discover how they lay the foundation for successful software development.</p>",
+    "body": "<p>Welcome to the second lecture of our Requirements Engineering course, where we comprehensively explore the critical elements that define software systems, their surroundings, and the diverse requirements that govern their existence.&nbsp;In this session, we've divided the lecture into four distinct parts:</p><p><strong>1. System Context</strong><br />We will begin by examining the broader context in which software systems operate. Understanding the environment and stakeholders surrounding a system is essential to grasp its purpose and relevance.</p><p><strong>2. System Boundary and&nbsp;Context Boundary</strong><br />The system boundary acts as the perimeter that defines what's inside and what's outside, allowing us to focus on the core functionalities and interactions within. Beyond the system lies the context boundary, a crucial distinction that separates the system from its external environment. Here, we'll explore how this boundary influences requirements and project scope.</p><p><strong>3. Types of Requirements</strong><br />To round off our journey, we will delve into the requirements that drive software projects. We'll shed light on the critical elements that shape the software development landscape from functional to non-functional.</p>",
     "_id": "650c46a4a7c33c09d4334867",
     "_parentId": "650c46a4a7c33c09d433479b",
     "_type": "component",
@@ -5109,82 +5109,6 @@
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "media",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Video",
-    "displayTitle": "",
-    "body": "",
-    "_id": "650c4776a7c33c09d4337166",
-    "_parentId": "650c4776a7c33c09d433714e",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Select the play button to start the video.",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://youtu.be/F5PuM7fwICU",
-      "type": "video/youtube",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": true,
-    "_startVolume": "70%",
-    "_allowFullScreen": true,
-    "_aspectRatio": "landscape",
-    "_pauseWhenOffScreen": false,
-    "_playsinline": false,
-    "_preventForwardScrubbing": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
   },
   {
     "_component": "graphic",
@@ -5878,7 +5802,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/p2FEmnAiBKI",
+      "source": "https://youtu.be/p2FEmnAiBKI?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -6100,7 +6024,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/U4Bf4gYbcgQ",
+      "source": "https://youtu.be/U4Bf4gYbcgQ?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -6176,7 +6100,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/fZMAvSEkbEc",
+      "source": "https://youtu.be/fZMAvSEkbEc?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -6384,7 +6308,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/E5UDnS1wlyg",
+      "source": "https://youtu.be/ATl7AunmKgs?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -6774,7 +6698,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/UI-phEtbYCo",
+      "source": "https://youtu.be/HGGA3ENPw6Q?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -6996,7 +6920,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/F5PuM7fwICU",
+      "source": "https://youtu.be/c0hIbGYjwyA?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -7072,7 +6996,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/E5UDnS1wlyg",
+      "source": "https://youtu.be/M_LqXIhRYv0?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -7479,7 +7403,7 @@
     "_disableAccessibilityState": false,
     "title": "Course Organization",
     "displayTitle": "Course Organization",
-    "body": "<p><strong>Online Format:</strong> This course will be entirely online, which means that you won't need to physically attend any in-person classes. All course materials, including lectures, reading materials, assignments, and assessments, will be accessible online.</p><p><strong>Prerecorded Videos:</strong> Instead of live lectures, the course content will be delivered primarily through prerecorded video presentations. These videos have been created in advance by the instructor and will be available for you to watch at your own pace. You can rewind, pause, or replay them as needed to grasp the material effectively.</p><p><strong>Asynchronous Learning</strong>: The course is asynchronous, which means there are no fixed lecture times that you have to attend. You can access the course materials and complete assignments based on your own schedule. This flexibility allows you to manage your study time around your other commitments.</p><p><strong>Independent Learning</strong>: With the asynchronous format, you will have the opportunity to engage in independent learning. However, it's essential to manage your time effectively and stay on track with course deadlines, as assignments and assessments will have due dates.</p><p><strong>Discussion and Support</strong>: While the course is asynchronous, we will provide Q&amp;A sessions for communication and support. We will meet for exercise/ Q&amp;A sessions to discuss the course content with you, tutorials related to the exercises and to answer any questions you might still have. You can find more information below.</p><p>You will be able to find all content on this website. You can find the asynchronous learning material here and we will link the live lectures and slides here. Additionally, all slides can be found on Github (<a href=\"https://github.com/ETCE-LAB/teaching-material/tree/master/Requirements-Engineering\">Link</a>).&nbsp;</p><p><strong>Live Lecture</strong><br />Monday 2:15 pm to 3:45&nbsp;pm (Berlin time) – on the 30.10.2023<br />Location: Goslar Gotec (Am Stollen 19 C, 38640 Goslar, Germany) or via BigBlueButton (<a href=\"https://webconf.tu-clausthal.de/b/ben-hsg-rt9-6ur\" rel=\"noreferrer noopener\" target=\"_blank\">Link</a>)</p><p><strong>Exercise / Q&amp;A</strong><br />Mondays, 4 pm to 5:30 pm (Berlin time) – 30.11.2023&nbsp;to 12.02.2024<br />Location: Goslar Gotec (Am Stollen 19 C, 38640 Goslar, Germany) or via BigBlueButton (<a href=\"https://webconf.tu-clausthal.de/rooms/ben-hsg-rt9-6ur/join\" rel=\"noreferrer noopener\" target=\"_blank\">Link</a>)</p><p><em>Further questions?</em> Write us an email: <a href=\"mailto:etce-re@tu-clausthal.de\">etce-re@tu-clausthal.de</a> ← We will only respond to emails written to this specific email address!</p>",
+    "body": "<p><strong>Online Format:</strong> This course will be entirely online, which means that you won't need to physically attend any in-person classes. All course materials, including lectures, reading materials, assignments, and assessments, will be accessible online.</p><p><strong>Prerecorded Videos:</strong> Instead of live lectures, the course content will be delivered primarily through prerecorded video presentations. These videos have been created in advance by the instructor and will be available for you to watch at your own pace. You can rewind, pause, or replay them as needed to grasp the material effectively.</p><p><strong>Asynchronous Learning</strong>: The course is asynchronous, which means there are no fixed lecture times that you have to attend. You can access the course materials and complete assignments based on your own schedule. This flexibility allows you to manage your study time around your other commitments.</p><p><strong>Independent Learning</strong>: With the asynchronous format, you will have the opportunity to engage in independent learning. However, it's essential to manage your time effectively and stay on track with course deadlines, as assignments and assessments will have due dates.</p><p><strong>Discussion and Support</strong>: While the course is asynchronous, we will provide Q&amp;A sessions for communication and support. We will meet for exercise/ Q&amp;A sessions to discuss the course content with you, tutorials related to the exercises and to answer any questions you might still have. You can find more information below.</p><p>You will be able to find all content on this website. You can find the asynchronous learning material here and we will link the live lectures and slides here. Additionally, all slides can be found on Github (<a href=\"https://github.com/ETCE-LAB/teaching-material/tree/master/Requirements-Engineering\">Link</a>).&nbsp;</p><p><strong>Live Lecture</strong><br />Monday 2:15 pm to 3:45&nbsp;pm (Berlin time) – on the 30.10.2023<br />Location: Goslar Gotec (Am Stollen 19 C, 38640 Goslar, Germany) or via BigBlueButton (<a href=\"https://webconf.tu-clausthal.de/b/ben-hsg-rt9-6ur\" rel=\"noreferrer noopener\" target=\"_blank\">Link</a>)</p><p><strong>Exercise / Q&amp;A</strong><br />Mondays, 4 pm to 5:30 pm (Berlin time) – 30.11.2023&nbsp;to 12.02.2024<br />Location: BigBlueButton (<a href=\"https://webconf.tu-clausthal.de/rooms/ben-hsg-rt9-6ur/join\" rel=\"noreferrer noopener\" target=\"_blank\">Link</a>)</p><p><em>Further questions?</em> Write us an email: <a href=\"mailto:etce-re@tu-clausthal.de\">etce-re@tu-clausthal.de</a> ← We will only respond to emails written to this specific email address!</p>",
     "_id": "6512d6f511c15830dca4e326",
     "_parentId": "6512d6f211c15830dca4e213",
     "_type": "component",
@@ -7670,7 +7594,7 @@
     "_disableAccessibilityState": false,
     "title": "Question 1",
     "displayTitle": "",
-    "body": "<p><strong>Question 1:</strong> Which of the following are Traceability documentation techniques?</p>",
+    "body": "<p><strong>Question 01:</strong> Which of the following are Traceability documentation techniques?</p>",
     "_id": "653101cfdfe25c067439a02d",
     "_parentId": "653101cedfe25c0674399eb0",
     "_type": "component",
@@ -8151,7 +8075,7 @@
     "_disableAccessibilityState": false,
     "title": "Question 1",
     "displayTitle": "",
-    "body": "<p><strong>Question 1:</strong> The three types of change requests are:</p>",
+    "body": "<p><strong>Question 01:</strong> The three types of change requests are:</p>",
     "_id": "653101d4dfe25c067439a486",
     "_parentId": "653101d4dfe25c067439a309",
     "_type": "component",
@@ -8482,7 +8406,7 @@
     "_disableAccessibilityState": false,
     "title": "Question 4",
     "displayTitle": "",
-    "body": "<p><strong>Question 12:&nbsp;</strong>Change requests should be submitted informally since they should not occur anyway.</p>",
+    "body": "<p><strong>Question 04:&nbsp;</strong>Change requests should be submitted informally since they should not occur anyway.</p>",
     "_id": "653101d5dfe25c067439a5b2",
     "_parentId": "653101d4dfe25c067439a3cf",
     "_type": "component",
@@ -8851,7 +8775,7 @@
     "_disableAccessibilityState": false,
     "title": "Exercise Deadlines",
     "displayTitle": "Exercise Deadlines",
-    "body": "<p><strong>Exercises and Submission Deadlines&nbsp;<br /><span style=\"color:#f39c12\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:627px\"><tbody><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><strong><span><span><span>Publication Date</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><strong><span><span><span>Submission Deadline</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><strong><span><span><span>Exercise</span></span></span></strong></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>13.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>20.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E01 – Knowledge Test (MC)</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>27.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>11.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E02 – Elicitation I, E02 – Elicitation II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>18.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E04 – Agent-Oriented Modeling</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E05 – CPN I, E06 – CPN II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E07 – Management</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>05.02.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E08 – Traceability</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>04.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>15.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; EXX – Bonus Task</span></span></span></span></span></span></td></tr></tbody></table>",
+    "body": "<p><strong>Exercises and Submission Deadlines&nbsp;<br /><span style=\"color:#f39c12\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:627px\"><tbody><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><strong><span><span><span>Publication Date</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><strong><span><span><span>Submission Deadline</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><strong><span><span><span>Exercise</span></span></span></strong></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>13.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>20.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E01 – Knowledge Test (MC)</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>27.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>11.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E02 – Elicitation I, E03 – Elicitation II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>18.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E04 – Agent-Oriented Modeling</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E05 – CPN I, E06 – CPN II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E07 – Management</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>05.02.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E08 – Traceability</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>04.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>15.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; EXX – Bonus Task</span></span></span></span></span></span></td></tr></tbody></table>",
     "_id": "65310cf5dfe25c06743ad694",
     "_parentId": "65310cdcdfe25c06743ad473",
     "_type": "component",
@@ -9090,7 +9014,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/7mnQIcfKCp8",
+      "source": "https://youtu.be/ekZQ0J5JVoY?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -9312,7 +9236,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/ueWxMK6xznE",
+      "source": "https://youtu.be/0KVqY7QhmWo?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -9388,7 +9312,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/z3QFWqIeXzg",
+      "source": "https://youtu.be/9VsCQ9V8vDo?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -9464,7 +9388,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/CBxcTs5-t4s",
+      "source": "https://youtu.be/oE5nkh8tLjw?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -9652,7 +9576,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/7mnQIcfKCp8",
+      "source": "https://youtu.be/dH0lqbPrKz4?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -9874,7 +9798,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/ueWxMK6xznE",
+      "source": "https://youtu.be/eBYmC3nM72U?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -9950,7 +9874,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/z3QFWqIeXzg",
+      "source": "https://youtu.be/sRLiihpp3-k?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -10026,7 +9950,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/CBxcTs5-t4s",
+      "source": "https://youtu.be/VdEKZ3hOATE",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -10214,7 +10138,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/7mnQIcfKCp8",
+      "source": "https://youtu.be/rCSZBjx7bmI?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -10436,7 +10360,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/ueWxMK6xznE",
+      "source": "https://youtu.be/PXQ-rqKUIZE?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -10512,7 +10436,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/z3QFWqIeXzg",
+      "source": "https://youtu.be/HzX1Otyv4Fs?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -10588,7 +10512,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/CBxcTs5-t4s",
+      "source": "https://youtu.be/aA4zzImV3Ts?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -10720,7 +10644,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/7mnQIcfKCp8",
+      "source": "https://youtu.be/k9FM_lHxmFE?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -10942,7 +10866,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/ueWxMK6xznE",
+      "source": "https://youtu.be/-0yogdWsy0A?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -11018,7 +10942,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/z3QFWqIeXzg",
+      "source": "https://youtu.be/TV_riGt0k8Y?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -11150,7 +11074,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/CBxcTs5-t4s",
+      "source": "https://youtu.be/t4sx2to_G3U?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -11338,7 +11262,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/7mnQIcfKCp8",
+      "source": "https://youtu.be/-bboUgQxT-A?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -11560,7 +11484,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/ueWxMK6xznE",
+      "source": "https://youtu.be/ie9nBZ8Er4w?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -11636,7 +11560,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/z3QFWqIeXzg",
+      "source": "https://youtu.be/J4IiZO-9qTc?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -11712,7 +11636,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/CBxcTs5-t4s",
+      "source": "https://youtu.be/tDYTHgVr56c?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -12349,7 +12273,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/7mnQIcfKCp8",
+      "source": "https://youtu.be/5-4HD-gcmuM?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -12672,7 +12596,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/ueWxMK6xznE",
+      "source": "https://youtu.be/PzNgWjX569k?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -12748,7 +12672,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/z3QFWqIeXzg",
+      "source": "https://youtu.be/6l9ytT3dtew?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -12824,7 +12748,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/CBxcTs5-t4s",
+      "source": "https://youtu.be/1yWdjGuyI4g?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -12956,7 +12880,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/7mnQIcfKCp8",
+      "source": "https://youtu.be/2m_lookP7dA?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -13279,7 +13203,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/ueWxMK6xznE",
+      "source": "https://youtu.be/jLSAFF56-3w?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -13355,7 +13279,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/z3QFWqIeXzg",
+      "source": "https://youtu.be/2UFq0IuS0kc?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -13487,7 +13411,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/7mnQIcfKCp8",
+      "source": "https://youtu.be/-hGc55XbI_E?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -13810,7 +13734,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/ueWxMK6xznE",
+      "source": "https://youtu.be/Mwj_l6V2ILA?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -13886,7 +13810,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/z3QFWqIeXzg",
+      "source": "https://youtu.be/V6smByIm-jU?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -13962,7 +13886,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/CBxcTs5-t4s",
+      "source": "https://youtu.be/R_UPqBoxSis?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -14094,7 +14018,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/CBxcTs5-t4s",
+      "source": "https://youtu.be/xPqKrB26jOg?feature=shared",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -14122,96 +14046,6 @@
     "_playerOptions": ""
   },
   {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_id": "65314923dfe25c06743eac9d",
-    "_parentId": "65314923dfe25c06743eac89",
-    "_type": "component",
-    "_layout": "full"
-  },
-  {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_id": "65314930dfe25c06743eafe9",
-    "_parentId": "65314930dfe25c06743eafd5",
-    "_type": "component",
-    "_layout": "full"
-  },
-  {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_id": "6531493ddfe25c06743eb4f0",
-    "_parentId": "6531493ddfe25c06743eb4dc",
-    "_type": "component",
-    "_layout": "full"
-  },
-  {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_id": "65314946dfe25c06743eb9f7",
-    "_parentId": "65314946dfe25c06743eb9e3",
-    "_type": "component",
-    "_layout": "full"
-  },
-  {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_id": "6531494bdfe25c06743eba60",
-    "_parentId": "6531494bdfe25c06743eba4c",
-    "_type": "component",
-    "_layout": "full"
-  },
-  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -14221,9 +14055,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Exercise",
-    "displayTitle": "Exercise",
-    "body": "<p><span><span><span><span><strong><span>Published on:</span></strong><span> 27.11.202</span></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong><span>Deadline: </span></strong><span>11.12.2023&nbsp;</span></span></span></span></span><span><span><span><span><span>– 2:59 pm</span></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong><span>Submission location:</span></strong><span> <strong><span style=\"color:#e67e22\">Moodle Course Page → Excercise 02 (</span><a href=\"https://moodle.tu-clausthal.de/course/view.php?id=2280\"><span style=\"color:#e67e22\">Link</span></a><span style=\"color:#e67e22\">)</span></strong></span></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong><span>Task(s):</span></strong></span></span></span></span></p><p style=\"margin-left:48px; text-align:justify\"><span><span><span><span><u><span>Submission guidlines:</span></u></span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span><span>max. 3 pages</span></span></span></span></span></li><li style=\"text-align:justify\"><span><span><span><span><span>Please upload a valid PDF file.</span></span></span></span></span></li><li style=\"text-align:justify\"><span><span><span><span><span>Please review and finalise your submission once you have uploaded all files and then click the Submit button.</span></span></span></span></span></li></ul><p style=\"text-align:justify\"><span><span><span><span><u><span>Scenario:</span></u><span> Your company has been tasked with the development of a university information system for teaching, learning and research. and research (Hochschulinformationssystem für Lehre, Studium und Forschung (LSF)). It offers options for recording, managing and displaying courses and research projects as well as the associated resources (facilities, people, rooms). The LSF is used as a study information, course management and planning system, so that different user groups can be effectively supported in their specific planning activities. Moreover,&nbsp; students can plan their studies more easily, and may use the system to access study and examination information.</span></span></span></span></span></p><p style=\"margin-left:48px; text-align:left\"><span><span><span><span><u><span>Task(s):</span></u></span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span><span><span>Identify and list the relevant project stakeholders.</span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span>Identify three applicable elicitation techniques and briefly list advantages/disadvantages in the context of the given scenario.</span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span>Prepare an interview with ten questions (choosing any one of your listed stakeholders) following the guidelines outlined in the elicitation lecture.</span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span>What are the advantages and disadvantages of the interview elicitation approach? What could be a complementary approach?</span></span></span></span></span></li></ol>",
+    "title": "E02 – Elicitation I",
+    "displayTitle": "E02 – Elicitation I",
+    "body": "<p><span><span><span><span><strong><span>Submission location:</span></strong><span> <strong><span style=\"color:#e67e22\">Moodle Course Page → Exercise 02 (</span><a href=\"https://moodle.tu-clausthal.de/course/view.php?id=2280\"><span style=\"color:#e67e22\">Link</span></a><span style=\"color:#e67e22\">)</span></strong></span></span></span></span></span></p><ul></ul><p style=\"text-align:justify\"><span><span><span><span><u><span>Scenario:</span></u><span> Your company has been tasked with the development of a university information system for teaching, learning and research. and research (Hochschulinformationssystem für Lehre, Studium und Forschung (LSF)). It offers options for recording, managing and displaying courses and research projects as well as the associated resources (facilities, people, rooms). The LSF is used as a study information, course management and planning system, so that different user groups can be effectively supported in their specific planning activities. Moreover,&nbsp; students can plan their studies more easily, and may use the system to access study and examination information.</span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span><u><span>Task(s):</span></u></span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span><span><span>Identify and list the relevant project stakeholders.</span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span>Identify three applicable elicitation techniques and briefly list advantages/disadvantages in the context of the given scenario.</span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span>Prepare an interview with ten questions (choosing any one of your listed stakeholders) following the guidelines outlined in the elicitation lecture.</span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span>What are the advantages and disadvantages of the interview elicitation approach? What could be a complementary approach?</span></span></span></span></span></li></ol><p style=\"text-align:left\"><span><span><span><span><u><span>Submission guidlines:</span></u></span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span><span>max. 3 pages</span></span></span></span></span></li><li style=\"text-align:justify\"><span><span><span><span><span>Please upload a valid PDF file.</span></span></span></span></span></li><li style=\"text-align:justify\"><span><span><span><span><span>Please review and finalise your submission once you have uploaded all files and then click the Submit button.</span></span></span></span></span></li></ul>",
     "_id": "6537a617818c6f1b5c8ce109",
     "_parentId": "6537a530818c6f1b5c8cdc2e",
     "_type": "component",
@@ -14362,7 +14196,7 @@
       "large": "course/en/assets/c0a8718e30aa6a0006205c3f461838dc9d3f3ea0.png",
       "small": "course/en/assets/c0a8718e30aa6a0006205c3f461838dc9d3f3ea0.png",
       "attribution": "",
-      "_url": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/Requirements-Engineering",
       "_target": null
     },
     "_isScrollable": false,
@@ -14468,5 +14302,867 @@
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Exercises and Submission Deadlines&nbsp;<br /><span style=\"color:#f39c12\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:627px\"><tbody><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><strong><span><span><span>Publication Date</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><strong><span><span><span>Submission Deadline</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><strong><span><span><span>Exercise</span></span></span></strong></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>13.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>20.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E01 – Knowledge Test (MC)</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><strong><span><span style=\"color:black\"><span><span><span><span>27.11.2023</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><strong><span><span style=\"color:black\"><span><span><span><span>11.12.2023</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><strong><span><span style=\"color:black\"><span><span><span><span>&nbsp; E02 – Elicitation I, E03 – Elicitation II</span></span></span></span></span></span></strong></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>18.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E04 – Agent-Oriented Modeling</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E05 – CPN I, E06 – CPN II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E07 – Management</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>05.02.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E08 – Traceability</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>04.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>15.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; EXX – Bonus Task</span></span></span></span></span></span></td></tr></tbody></table>",
+    "_id": "653a206ab013f70c283a8e49",
+    "_parentId": "653a2068b013f70c283a8e1a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "E03 – Elicitation II",
+    "displayTitle": "E03 – Elicitation II",
+    "body": "<p><span><span><span><span><strong><span>Submission location:</span></strong><span> <strong><span style=\"color:#e67e22\">Moodle Course Page → Exercise 03 (</span><a href=\"https://moodle.tu-clausthal.de/course/view.php?id=2280\"><span style=\"color:#e67e22\">Link</span></a><span style=\"color:#e67e22\">)</span></strong></span></span></span></span></span><br />&nbsp;</p><p><span><span><span><span style=\"color:#000000\"><u>Task(s):</u></span></span></span></span></p><ol><li style=\"list-style-type:decimal\"><span><span><span><span style=\"color:#000000\">Define the term “functional requirement”.</span></span></span></span></li><li style=\"list-style-type:decimal\"><span><span><span><span style=\"color:#000000\">What are the three perspectives on functional requirements? Explain each perspective in </span></span></span><span><span><span style=\"color:#000000\"><u><strong>ONE</strong></u></span></span></span><span><span><span style=\"color:#000000\"> sentence.</span></span></span></span></li><li style=\"list-style-type:decimal\"><span><span><span><span style=\"color:#000000\">For each of these perspectives, describe an example requirement that may arise in the development of an online shop. </span></span></span></span></li><li style=\"list-style-type:decimal\"><span><span><span><span style=\"color:#000000\">Extract the requirements from the project description below. If necessary, expand the requirements to avoid insufficient requirements engineering.</span></span></span></span></li></ol><p style=\"margin-left:80px\"><span><span><span><span style=\"color:#000000\">“</span></span></span><span><span><span style=\"color:#000000\"><em>The client must be able to connect to the server without any problems. The precondition is that the server h</em></span></span></span><span><span><span style=\"color:#000000\"><em>as already been booted and must have its own IP. Then the client can connect to the server. The connection between client and server must work smoothly after half of the project duration. The client should offer the possibility to add friends permanently. </em></span></span></span></span></p><p style=\"margin-left:80px\"><span><span><span><span style=\"color:#000000\"><em>Once two clients are connected to the same server at the sa</em></span></span></span><span><span><span style=\"color:#000000\"><em>me time, it must be possible to send messages between clients. The use of the client should be kept simple so that the user can use the client without much effort. Furthermore, the client should run on most common operating systems and be easy to install.”</em></span></span></span></span></p><p>&nbsp;</p><p><span><span style=\"color:#000000\"><u>Submission </u></span></span><span><span style=\"color:#000000\"><u>guidlines</u></span></span><span><span style=\"color:#000000\"><u>:</u></span></span></p><ul><li><span><span><span><span><span style=\"color:#000000\">max. 2 pages</span></span></span></span></span></li><li><span><span><span><span><span style=\"color:#000000\">Please upload a valid PDF file.</span></span></span></span></span></li><li><span><span><span><span><span style=\"color:#000000\">Please review and finalise your submission once you have uploaded all files and then click the Submit button.</span></span></span></span></span></li></ul>",
+    "_id": "653a20fcb013f70c283a93e8",
+    "_parentId": "653a20fcb013f70c283a93cd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "653a21f1b013f70c283aa5d1",
+    "_parentId": "653a21f1b013f70c283aa562",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "E04 – AOM",
+    "displayTitle": "E04 – AOM",
+    "body": "<p><span><span><span><span><strong><span>Submission location:</span></strong><span> <strong><span style=\"color:#e67e22\">Moodle Course Page → Exercise 04 (</span><a href=\"https://moodle.tu-clausthal.de/course/view.php?id=2280\"><span style=\"color:#e67e22\">Link</span></a><span style=\"color:#e67e22\">)</span></strong></span></span></span></span></span></p><ul></ul><p style=\"text-align:justify\"><span><span><span><span style=\"color:#000000\"><u>Scenario:</u></span></span></span><span><span><span style=\"color:#000000\"> You are tasked with the development of an E-Scooter ride-share system. It allows registered commuters to approach an idle E-Scooter and reserve it, following which they use the E-Scooter to commute a certa</span></span></span><span><span><span style=\"color:#000000\">in distance (that is not known prior to use). Finally, after the commuter reaches their destination,&nbsp; they end the ride, which prompts an automatic computation of the ride fees. which is automatically debited using the commuters registered payment details.</span></span></span></span></p><p><span><span><span><span style=\"color:#000000\"><u>Task(s):</u></span></span></span></span></p><ol><li style=\"list-style-type: decimal;\"><span><span><span><span style=\"color:#000000\">Identify and list the relevant Agents, Roles and Goals (Functional and Quality) of the system.&nbsp; Make sure that you encompass commuter registration, E-Scooter reservation/use, and the final payment process. </span></span></span></span></li><li style=\"list-style-type: decimal;\"><span><span><span><span style=\"color:#000000\">Please use at least one of </span></span></span><span><span><span style=\"color:#000000\"><em>time</em></span></span></span><span><span><span style=\"color:#000000\"> and </span></span></span><span><span><span style=\"color:#000000\"><em>distance</em></span></span></span><span><span><span style=\"color:#000000\"> to compute ride cost. The specific computation formula used is up to you.</span></span></span></span></li><li style=\"list-style-type: decimal;\"><span><span><span><span style=\"color:#000000\">Create an AOM Goal diagram based on your identified Roles and Goals. Please make sure your diagram has at least 3 levels of hierarchy.</span></span></span></span></li><li style=\"list-style-type: decimal;\"><span><span><span><span><span style=\"color:#000000\">Create an AOM Behavioural Interface Model that is consistant with your AOM Goal model (For the entire model, not just a subset).</span></span></span></span></span></li></ol><p style=\"list-style-type:decimal\">&nbsp;</p><p style=\"text-align:justify\"><span><span><span><span><span style=\"color:#000000\"><u>Submission </u></span></span></span><span><span><span style=\"color:#000000\"><u>guidlines</u></span></span></span><span><span><span style=\"color:#000000\"><u>:</u></span></span></span></span></span></p><ul><li style=\"text-align: justify;\"><span><span><span><span><span style=\"color:#000000\">Please upload a valid PDF file with the list of Roles, Goals and the BIM.</span></span></span></span></span></li><li style=\"text-align: justify;\"><span><span><span><span><span style=\"color:#000000\">The maxium page limit for the list of Roles, Goals and the BIM is 4.</span></span></span></span></span></li><li style=\"text-align: justify;\"><span><span><span><span><span style=\"color:#000000\">Additionally upload a PDF of your AOM Goal Model (Make sure the diagram is clearly visible).</span></span></span></span></span></li><li style=\"text-align: justify;\"><span><span><span><span><span style=\"color:#000000\">You can upload a maximum of 2 files that collectively make up your submission.</span></span></span></span></span></li><li><span><span><span><span><span style=\"color:#000000\">Please review your submission once you have uploaded all files and then click the Submit button.</span></span></span></span></span></li></ul>",
+    "_id": "653a21f1b013f70c283aa5ea",
+    "_parentId": "653a21f1b013f70c283aa574",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "653a21f1b013f70c283aa5ff",
+    "_parentId": "653a21f1b013f70c283aa586",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/c0a8718e30aa6a0006205c3f461838dc9d3f3ea0.png",
+      "small": "course/en/assets/c0a8718e30aa6a0006205c3f461838dc9d3f3ea0.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/Requirements-Engineering",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Click the image to the left to access the exercise sheet on our GitHub page.</p>",
+    "_id": "653a21f1b013f70c283aa618",
+    "_parentId": "653a21f1b013f70c283aa586",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "653a21f1b013f70c283aa62d",
+    "_parentId": "653a21f1b013f70c283aa598",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Exercises and Submission Deadlines&nbsp;<br /><span style=\"color:#f39c12\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:627px\"><tbody><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><strong><span><span><span>Publication Date</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><strong><span><span><span>Submission Deadline</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><strong><span><span><span>Exercise</span></span></span></strong></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>13.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>20.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E01 – Knowledge Test (MC)</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>27.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>11.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E02 – Elicitation I, E03 – Elicitation II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><strong><span><span style=\"color:black\"><span><span><span><span>18.12.2023</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><strong><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><strong><span><span style=\"color:black\"><span><span><span><span>&nbsp; E04 – Agent-Oriented Modeling</span></span></span></span></span></span></strong></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><strong><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><strong><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><strong><span><span style=\"color:black\"><span><span><span><span>&nbsp; E05 – CPN I, E06 – CPN II</span></span></span></span></span></span></strong></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E07 – Management</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>05.02.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E08 – Traceability</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>04.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>15.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; EXX – Bonus Task</span></span></span></span></span></span></td></tr></tbody></table>",
+    "_id": "653a21f1b013f70c283aa646",
+    "_parentId": "653a21f1b013f70c283aa5aa",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "E05 – CPN I (simple)",
+    "displayTitle": "E05 – CPN I (simple)",
+    "body": "<p><span><span><span><span><strong><span>Submission location:</span></strong><span> <strong><span style=\"color:#e67e22\">Moodle Course Page → Exercise 05 (</span><a href=\"https://moodle.tu-clausthal.de/course/view.php?id=2280\"><span style=\"color:#e67e22\">Link</span></a><span style=\"color:#e67e22\">)</span></strong></span></span></span></span></span></p><ul></ul><ul></ul><p><span><span><span><span style=\"color:#000000\"><u>cenario:</u></span></span></span>&nbsp;<span><span><span style=\"color:#000000\">In the video we simulated the simple example of a Process reading a file and then writing back to it. Now, imagine the scenario, with two Process trying to read or write to the same file.</span></span></span></span></p><p><span><span><span><span style=\"color:#000000\"><u>Task(s):</u></span></span></span></span></p><ul><li><span><span><span><span><span style=\"color:#000000\"><span><span><span style=\"color:#000000\">Try to implement any form of locking mechanism of your choice, so that the file is not written to while another Process is writing to it, and vice versa.</span></span></span></span></span></span></span></span></li></ul><p>&nbsp;</p><p style=\"text-align:justify\"><span><span><span><span><span style=\"color:#000000\"><u>Submission </u></span></span></span><span><span><span style=\"color:#000000\"><u>guidlines</u></span></span></span><span><span><span style=\"color:#000000\"><u>:</u></span></span></span></span></span></p><ul><li style=\"list-style-type:disc; text-align:justify\"><span><span><span><span><span style=\"background-color:#ffffff\"><span style=\"color:#000000\">Please use CPN Tools V4.0.1 ONLY.</span></span></span></span></span></span></li></ul>",
+    "_id": "653a2316b013f70c283acdf4",
+    "_parentId": "653a2316b013f70c283acdd9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "CPN Tools Tutorial",
+    "displayTitle": "CPN Tools Tutorial",
+    "body": "<p>For the following exercises, you will have to use CPN Tools. To understand how it works, watch the video before you start your exercise.</p>",
+    "_id": "653a24d8b013f70c283b0024",
+    "_parentId": "653a24d5b013f70c283b0000",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/4lRWtRn4_fA",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "E06 – CPN II (complex)",
+    "displayTitle": "E06 – CPN II (complex)",
+    "body": "<p><span><span><span><span><strong><span>Submission location:</span></strong><span> <strong><span style=\"color:#e67e22\">Moodle Course Page → Exercise 06 (</span><a href=\"https://moodle.tu-clausthal.de/course/view.php?id=2280\"><span style=\"color:#e67e22\">Link</span></a><span style=\"color:#e67e22\">)</span></strong></span></span></span></span></span></p><ul></ul><ul></ul><ul></ul><p><span><span><span><span style=\"color:#000000\"><u>cenario:</u></span></span></span><span><span><span style=\"color:#000000\"> </span></span></span></span><span class=\"docData;DOCY;v5;1930;BQiAAgAAEYQCAAAGiAIAAANTBQAABWEFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxwIAAADCAgAAAZIAAAAVBgYAAAA3ADEAMwABBgwAAAAkBNACAAAmBAAAAAAFAQEJBhUAAAAnBFQBAAALAQIoBAAAAAApBHgAAAARBiQAAAASBgwAAAArAQgqBDcCAAAjAQQSBgwAAAArAQIqBNACAAAjAQQaBiAAAAAZBgoAAABlAG4ALQBVAFMAGgYKAAAAYQByAC0AUwBBABsGAAAAAAImAgAABfQBAAABawAAAAIBCwQGFgAAAEQAZQBqAGEAVgB1ACAAUwBhAG4AcwAFBhYAAABEAGUAagBhAFYAdQAgAFMAYQBuAHMAGQYKAAAAZQBuAC0AVQBTABoGCgAAAGEAcgAtAFMAQQAbBgoAAABkAGUALQBEAEUACH8BAAAAegEAAEkAbgAgAHQAaABlACAATABlAGMAdAB1AHIAZQAgAHcAZQAgAHMAaQBtAHUAbABhAHQAZQBkACAAdABoAGUAIABzAGkAbQBwAGwAZQAgAGUAeABhAG0AcABsAGUAIABvAGYAIABhACAAUAByAG8AYwBlAHMAcwAgAHIAZQBhAGQAaQBuAGcAIABhACAAZgBpAGwAZQAgAGEAbgBkACAAdABoAGUAbgAgAHcAcgBpAHQAaQBuAGcAIABiAGEAYwBrACAAdABvACAAaQB0AC4AIABOAG8AdwAsACAAaQBtAGEAZwBpAG4AZQAgAHQAaABlACAAcwBjAGUAbgBhAHIAaQBvACwAIAB3AGkAdABoACAAdAB3AG8AIABQAHIAbwBjAGUAcwBzACAAdAByAHkAaQBuAGcAIAB0AG8AIAByAGUAYQBkACAAbwByACAAdwByAGkAdABlACAAdABvACAAdABoAGUAIABzAGEAbQBlACAAZgBpAGwAZQAuAAUKAAAAAQAAAAAIAAAAAAUKAAAAAQAAAAAIAAAAAAUKAAAACAUAAAANAAAAAAoAAAAAAAAAABEAAAAAJQIAAAASAAAAAQYAAAAACQYAAAAAGwYAAAAAAUUAAAAoAQcpAQcqAQYrAQUTAQEWBBYAAAAZBgoAAABlAG4ALQBVAFMAGgYKAAAAaABpAC0ASQBOABsGCgAAAHoAaAAtAEMATgACvwEAAAC6AQAAAQYAAAA3ADEAMwACDAAAAE4AbwByAG0AYQBsAAkBAAAAAwgBAAAAAQoBAAAAAQWjAAAAAAEAAQEAAgELAwEABAYKAAAAQQByAGkAYQBsAAUGCgAAAEEAcgBpAGEAbAAqAQYrAQUIBBYAAAAKAQAMAQAmBAAAAAAPAQAQAQARAQAnBAAAAAAUAQAVAQAWBBYAAAAXAQAYAQAZBgoAAABlAG4ALQBVAFMAGgYKAAAAYQByAC0AUwBBABsGCgAAAHoAaAAtAEMATgAcBgIAAAAAAB4BAC4BAAbfAAAAAAEAAQYSAAAAJAQAAAAAJQQAAAAAJgQAAAAABQEDBgEABwEACAEACQYbAAAAJwRoAQAACwEBHAEAKAR4AAAAHQEAKQR4AAAADgYIAAAAAAEBAQP///8ZAQEbBn0AAAAAFAAAAAADAAAABQQAAAAABgQEAAAAAwEAARQAAAAAAwAAAAUEAAAAAAYEBAAAAAMBAAIUAAAAAAMAAAAFBAAAAAAGBAQAAAADAQADFAAAAAADAAAABQQAAAAABgQEAAAAAwEACxQAAAAAAwAAAAUEAAAAAAYEBAAAAAMBACwBAA==\"><span><span style=\"color:#000000\">In the video we simulated the simple example of a Process reading a file and then writing back to it. Now, imagine the scenario, with two Process trying to read or write to the same file.</span></span></span></p><p><span><span><span><span style=\"color:#000000\"><u>Task(s):</u></span></span></span></span></p><ol><li style=\"list-style-type: decimal;\"><span><span><span><span style=\"color:#000000\">Create a CPN model based on the AOM Goal and Behavioural Interface Models using the mapping heuristics discussed in the lecture.</span></span></span></span></li><li style=\"list-style-type: decimal;\"><span><span><span><span style=\"color:#000000\">The initial tokens (initial state) of your system should reflect at least 2 scooters and 2 commuters. More generally → Please ensure a level of complexity similar to the CPN model example given in the lecture.</span></span></span></span></li><li style=\"list-style-type: decimal;\"><span><span><span><span><span style=\"color:#000000\">You can use the CPN model example used in the lecture and modify it to suit your needs.</span></span></span></span></span></li><li style=\"list-style-type: decimal;\"><span><span><span><span style=\"color:#000000\">You are welcome to use hierarchical CPNs to follow the Goal hierchy if you like, but it is not mandatory.</span></span></span></span></li><li style=\"list-style-type: decimal;\"><span><span><span><span style=\"color:#000000\">You can choose a simple subset of the goals and only model those, </span></span></span><span><span><span style=\"color:#000000\"><strong>however:</strong></span></span></span><span><span><span style=\"color:#000000\"> this subset should include the </span></span></span><span><span><span style=\"color:#000000\"><em>interesting</em></span></span></span><span><span><span style=\"color:#000000\"> component of the system, i.e., the reserving, riding the E-Scooter, and computation of the ride cost. Optionally you can also include registration and payment process. </span></span></span></span></li><li style=\"list-style-type: decimal;\"><span><span><span><span style=\"color:#000000\">You can modify your AOM models if you feel the need to, as long as the updated model meets the task description from Excercise 4.</span></span></span></span></li><li style=\"list-style-type: decimal;\"><span><span><span><span style=\"color:#000000\"><strong>Please upload your AOM Goal and Behaviour Interface models again even if you do not modify them.</strong></span></span></span></span></li><li style=\"list-style-type: decimal;\"><span><span><span><span><span style=\"background-color:#ffffff\"><span style=\"color:#000000\"><span><span><span style=\"color:#000000\">Please make sure that your CPN model has no errors.</span></span></span></span></span></span></span></span></span></li></ol><p style=\"list-style-type:disc; text-align:justify\">&nbsp;</p><p style=\"text-align:justify\"><span><span><span><span><span style=\"color:#000000\"><u>Submission </u></span></span></span><span><span><span style=\"color:#000000\"><u>guidlines</u></span></span></span><span><span><span style=\"color:#000000\"><u>:</u></span></span></span></span></span></p><ul><li style=\"list-style-type:disc; text-align:justify\"><span><span><span><span><span style=\"color:#000000\">Please upload exactly ONE .cpn file and your AOM Goal and Behaviour Interface models as PDF files.</span></span></span></span></span></li><li style=\"list-style-type:disc; text-align:justify\"><span><span><span><span><span style=\"color:#000000\">Please use CPN Tools V4.0.1 ONLY.</span></span></span></span></span></li><li style=\"list-style-type:disc; text-align:justify\"><span><span><span><span><span style=\"color:#000000\">You can upload a maximum of 3 files that collectively make up your submission.</span></span></span></span></span></li><li style=\"list-style-type:disc\"><span><span><span><span><span style=\"color:#000000\">Please review your submission once you have uploaded the CPN model and then click the Submit button.</span></span></span></span></span></li></ul>",
+    "_id": "653a24eeb013f70c283b03cd",
+    "_parentId": "653a24eeb013f70c283b03b0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "653a26bbb013f70c283b0dc2",
+    "_parentId": "653a26bbb013f70c283b0da4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "653a26c0b013f70c283b0fcf",
+    "_parentId": "653a26c0b013f70c283b0fb0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "653a26cab013f70c283b120e",
+    "_parentId": "653a26cab013f70c283b11ee",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Exercises and Submission Deadlines&nbsp;<br /><span style=\"color:#f39c12\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:627px\"><tbody><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><strong><span><span><span>Publication Date</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><strong><span><span><span>Submission Deadline</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><strong><span><span><span>Exercise</span></span></span></strong></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><strong><span><span style=\"color:black\"><span><span><span><span>13.11.2023</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><strong><span><span style=\"color:black\"><span><span><span><span>20.11.2023</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><strong><span><span style=\"color:black\"><span><span><span><span>&nbsp; E01 – Knowledge Test (MC)</span></span></span></span></span></span></strong></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>27.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>11.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E02 – Elicitation I, E03 – Elicitation II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>18.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E04 – Agent-Oriented Modeling</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E05 – CPN I, E06 – CPN II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E07 – Management</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>05.02.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E08 – Traceability</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>04.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>15.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; EXX – Bonus Task</span></span></span></span></span></span></td></tr></tbody></table>",
+    "_id": "653a26f1b013f70c283b1e5a",
+    "_parentId": "653a26eeb013f70c283b1e36",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p><strong>Exercises and Submission Deadlines&nbsp;<br /><span style=\"color:#f39c12\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:627px\"><tbody><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><strong><span><span><span>Publication Date</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><strong><span><span><span>Submission Deadline</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><strong><span><span><span>Exercise</span></span></span></strong></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>13.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>20.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E01 – Knowledge Test (MC)</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>27.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>11.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E02 – Elicitation I, E03 – Elicitation II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>18.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E04 – Agent-Oriented Modeling</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E05 – CPN I, E06 – CPN II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><strong><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><strong><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><strong><span><span style=\"color:black\"><span><span><span><span>&nbsp; E07 – Management</span></span></span></span></span></span></strong></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>05.02.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E08 – Traceability</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>04.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>15.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; EXX – Bonus Task</span></span></span></span></span></span></td></tr></tbody></table>",
+    "_id": "653a27bcb013f70c283b583d",
+    "_parentId": "653a27b6b013f70c283b56c0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Exercises and Submission Deadlines&nbsp;<br /><span style=\"color:#f39c12\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:627px\"><tbody><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><strong><span><span><span>Publication Date</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><strong><span><span><span>Submission Deadline</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><strong><span><span><span>Exercise</span></span></span></strong></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>13.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>20.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E01 – Knowledge Test (MC)</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>27.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>11.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E02 – Elicitation I, E03 – Elicitation II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>18.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E04 – Agent-Oriented Modeling</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E05 – CPN I, E06 – CPN II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E07 – Management</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><strong><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><strong><span><span style=\"color:black\"><span><span><span><span>05.02.2024</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><strong><span><span style=\"color:black\"><span><span><span><span>&nbsp; E08 – Traceability</span></span></span></span></span></span></strong></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>04.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>15.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; EXX – Bonus Task</span></span></span></span></span></span></td></tr></tbody></table>",
+    "_id": "653a27eab013f70c283b6bce",
+    "_parentId": "653a27e4b013f70c283b6a50",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
   }
 ]

@@ -1,12 +1,12 @@
 {
   "title": "Requirements Engineering",
   "displayTitle": "",
-  "body": "<p style=\"text-align:justify\">Welcome to the course \"Requirements Engineering\". This course is taught by the ETCE Lab at the Clausthal University of Technology. In today's fast-paced and dynamic world, the success of any project hinges on the ability to accurately define, document, and manage its requirements. Whether you're an aspiring software engineer or a seasoned project manager, this course is designed to provide you with a deep understanding of the critical discipline of Requirements Engineering.</p><p style=\"text-align:justify\">Through engaging learning videos, real-world examples, and interactive exercises, you will gain insights into translating user needs into concrete technical specifications while mastering techniques to ensure alignment between clients, users, and development teams.</p><p style=\"text-align:justify\">Find out more about the work of the ETCE Lab here:&nbsp;<a href=\"https://etce-lab.com/\">https://etce-lab.com/</a></p>",
+  "body": "<p style=\"text-align:justify\">Welcome to the course \"Requirements Engineering\". This course is taught by the ETCE Lab at the Clausthal University of Technology. In today's fast-paced and dynamic world, the success of any project hinges on the ability to accurately define, document, and manage its requirements. Whether you're an aspiring software engineer or a seasoned project manager, this course is designed to provide you with a deep understanding of the critical discipline of Requirements Engineering.</p><p style=\"text-align:justify\">Through engaging learning videos, real-world examples, and interactive exercises, you will gain insights into translating user needs into concrete technical specifications while mastering techniques to ensure alignment between clients, users, and development teams.</p><p><span>Find out more about the work of the ETCE Lab here:&nbsp;</span><a href=\"https://etce-lab.com/\" style=\"text-align: justify;\">https://etce-lab.com/</a></p>",
   "subtitle": "Course Material and Exercises",
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 175,
+  "_latestTrackingId": 185,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
