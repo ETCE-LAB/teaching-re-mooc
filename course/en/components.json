@@ -4729,7 +4729,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/Try0SZIk4zI",
+      "source": "https://youtu.be/LWtpprC3A8c",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -4768,7 +4768,7 @@
     "_disableAccessibilityState": false,
     "title": "Lecture Content",
     "displayTitle": "Lecture Content",
-    "body": "<p>Welcome to the second lecture of our Requirements Engineering course, where we comprehensively explore the critical elements that define software systems, their surroundings, and the diverse requirements that govern their existence.&nbsp;In this session, we've divided the lecture into four distinct parts:</p><p><strong>1. System Context</strong><br />We will begin by examining the broader context in which software systems operate. Understanding the environment and stakeholders surrounding a system is essential to grasp its purpose and relevance.</p><p><strong>2. System Boundary and&nbsp;Context Boundary</strong><br />The system boundary acts as the perimeter that defines what's inside and what's outside, allowing us to focus on the core functionalities and interactions within. Beyond the system lies the context boundary, a crucial distinction that separates the system from its external environment. Here, we'll explore how this boundary influences requirements and project scope.</p><p><strong>3. Types of Requirements</strong><br />To round off our journey, we will delve into the requirements that drive software projects. We'll shed light on the critical elements that shape the software development landscape from functional to non-functional.</p>",
+    "body": "<p>Welcome to the second lecture of our Requirements Engineering course, where we comprehensively explore the critical elements that define software systems, their surroundings, and the diverse requirements that govern their existence.&nbsp;In this session, we've divided the lecture into three distinct parts:</p><p><strong>1. System Context</strong><br />We will begin by examining the broader context in which software systems operate. Understanding the environment and stakeholders surrounding a system is essential to grasp its purpose and relevance.</p><p><strong>2. System Boundary and&nbsp;Context Boundary</strong><br />The system boundary acts as the perimeter that defines what's inside and what's outside, allowing us to focus on the core functionalities and interactions within. Beyond the system lies the context boundary, a crucial distinction that separates the system from its external environment. Here, we'll explore how this boundary influences requirements and project scope.</p><p><strong>3. Types of Requirements</strong><br />To round off our journey, we will delve into the requirements that drive software projects. We'll shed light on the critical elements that shape the software development landscape from functional to non-functional.</p>",
     "_id": "650c46a4a7c33c09d4334867",
     "_parentId": "650c46a4a7c33c09d433479b",
     "_type": "component",
@@ -5027,7 +5027,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/Z_ARoO34Wj4",
+      "source": "https://youtu.be/C4p-fgYzCFI",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -7813,7 +7813,7 @@
         "_instruction": ""
       }
     },
-    "instruction": "Select as many non-redudant choices as possible.",
+    "instruction": "Choose one or more options then select Submit.",
     "ariaQuestion": "",
     "_items": [
       {
@@ -7890,7 +7890,7 @@
     "_disableAccessibilityState": false,
     "title": "Question 04",
     "displayTitle": "",
-    "body": "<p><strong>Question 04:</strong>&nbsp;What aspects do NOT need to be managed as part of the requirements management?</p>",
+    "body": "<p><strong>Question 04:</strong>&nbsp;What aspects need to be managed as part of the requirements management?</p>",
     "_id": "653101cfdfe25c067439a0c0",
     "_parentId": "653101cedfe25c0674399f2e",
     "_type": "component",
@@ -7926,35 +7926,35 @@
     "_items": [
       {
         "text": "Priorities",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "Stakeholders",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "Architecture Descriptions",
+        "text": "Stakeholders",
         "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Architecture Descriptions",
+        "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
         "text": "Definitions",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
         "text": "Requirements",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
@@ -7970,553 +7970,6 @@
     "_hasItemScoring": false,
     "_questionWeight": 1,
     "_selectable": 10,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Question 1",
-    "displayTitle": "",
-    "body": "<p><strong>Question 01:</strong> The three types of change requests are:</p>",
-    "_id": "653101d4dfe25c067439a486",
-    "_parentId": "653101d4dfe25c067439a309",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
-    "ariaQuestion": "",
-    "_items": [
-      {
-        "text": "Requirement changes, definition changes and documentation changes",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "Corrective changes, exceptional changes and adaptive changes",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "Corrective changes, vision changes and major changes",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": false,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_hasItemScoring": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Question 2",
-    "displayTitle": "",
-    "body": "<p><strong>Question 02:</strong>&nbsp;Which of the following statements is true?</p>",
-    "_id": "653101d4dfe25c067439a4ef",
-    "_parentId": "653101d4dfe25c067439a363",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
-    "ariaQuestion": "",
-    "_items": [
-      {
-        "text": "The change management impact analysis estimates the affected requirements and determines the efforts of a change.",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "The change management impact analysis estimates the efforts of a change and determines the affected requirements.",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": false,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_hasItemScoring": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Question 03",
-    "displayTitle": "",
-    "body": "<p><strong>Question 03:&nbsp;</strong>Change requests are a bad thing and should be avoided</p>",
-    "_id": "653101d4dfe25c067439a504",
-    "_parentId": "653101d4dfe25c067439a375",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Select as many non-redudant choices as possible.",
-    "ariaQuestion": "",
-    "_items": [
-      {
-        "text": "True",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "False",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": false,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_hasItemScoring": false,
-    "_questionWeight": 1,
-    "_selectable": 4,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Question 4",
-    "displayTitle": "",
-    "body": "<p><strong>Question 04:&nbsp;</strong>Change requests should be submitted informally since they should not occur anyway.</p>",
-    "_id": "653101d5dfe25c067439a5b2",
-    "_parentId": "653101d4dfe25c067439a3cf",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
-    "ariaQuestion": "",
-    "_items": [
-      {
-        "text": "True",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "False",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": false,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_hasItemScoring": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Question 5",
-    "displayTitle": "",
-    "body": "<p><strong>Question 05:</strong>&nbsp;The requirements engineer is the chair person of the change control board and decides which change requests are approved or not.</p>",
-    "_id": "653101d5dfe25c067439a5f1",
-    "_parentId": "653101d4dfe25c067439a405",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
-    "ariaQuestion": "",
-    "_items": [
-      {
-        "text": "True",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "False",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": false,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_hasItemScoring": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
     "_feedback": {
       "title": "",
       "correct": "",
@@ -8609,7 +8062,7 @@
       },
       {
         "text": "False",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
@@ -9180,7 +8633,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/0KVqY7QhmWo?feature=shared",
+      "source": "https://youtu.be/74WZEtPCMSg",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -9256,7 +8709,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/9VsCQ9V8vDo?feature=shared",
+      "source": "https://youtu.be/DWfrAI1imdQ",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -9332,7 +8785,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/oE5nkh8tLjw?feature=shared",
+      "source": "https://youtu.be/ainlVFs01MM",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -10380,7 +9833,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/HzX1Otyv4Fs?feature=shared",
+      "source": "https://youtu.be/BL_dovR_C_M",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -10588,7 +10041,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/k9FM_lHxmFE?feature=shared",
+      "source": "https://youtu.be/V3FRz2_hyrM",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -15030,51 +14483,6 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "<p><strong>Exercises and Submission Deadlines&nbsp;<br /><span style=\"color:#f39c12\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:627px\"><tbody><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><strong><span><span><span>Publication Date</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><strong><span><span><span>Submission Deadline</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><strong><span><span><span>Exercise</span></span></span></strong></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>13.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>20.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E01 – Knowledge Test (MC)</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>27.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>04.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E02 – Elicitation I, E03 – Elicitation II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>18.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E04 – Agent-Oriented Modeling</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E05 – CPN I, E06 – CPN II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><strong><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><strong><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><strong><span><span style=\"color:black\"><span><span><span><span>&nbsp; E07 – Management</span></span></span></span></span></span></strong></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>05.02.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E08 – Traceability</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>04.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>15.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; EXX – Bonus Task</span></span></span></span></span></span></td></tr></tbody></table>",
-    "_id": "653a27bcb013f70c283b583d",
-    "_parentId": "653a27b6b013f70c283b56c0",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
     "displayTitle": "",
     "body": "<p><strong>Exercises and Submission Deadlines&nbsp;<br /><span style=\"color:#f39c12\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:627px\"><tbody><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><strong><span><span><span>Publication Date</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><strong><span><span><span>Submission Deadline</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><strong><span><span><span>Exercise</span></span></span></strong></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>13.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>20.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E01 – Knowledge Test (MC)</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>27.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>04.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E02 – Elicitation I, E03 – Elicitation II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>18.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E04 – Agent-Oriented Modeling</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E05 – CPN I, E06 – CPN II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E07 – Management</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><strong><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><strong><span><span style=\"color:black\"><span><span><span><span>05.02.2024</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><strong><span><span style=\"color:black\"><span><span><span><span>&nbsp; E08 – Traceability</span></span></span></span></span></span></strong></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>04.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>15.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; EXX – Bonus Task</span></span></span></span></span></span></td></tr></tbody></table>",
     "_id": "653a27eab013f70c283b6bce",
@@ -15184,5 +14592,2411 @@
       "transcriptLink": ""
     },
     "_playerOptions": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 1",
+    "displayTitle": "",
+    "body": "<p><strong>Question 01:</strong> The three types of change requests are:</p>",
+    "_id": "6555e9dc72934619e8cf9132",
+    "_parentId": "6555e9dc72934619e8cf90c3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Requirement changes, definition changes and documentation changes",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Corrective changes, exceptional changes and adaptive changes",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Corrective changes, vision changes and major changes",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 2",
+    "displayTitle": "",
+    "body": "<p><strong>Question 02:</strong>&nbsp;Who is the \"Applicant\" in a change request?</p>",
+    "_id": "6555e9dc72934619e8cf9147",
+    "_parentId": "6555e9dc72934619e8cf90d5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "The person who filed the change request",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The person responsible for implementing the change",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The person who approves the change request",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The person who reviews the change request",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 03",
+    "displayTitle": "",
+    "body": "<p><strong>Question 03:&nbsp;</strong>Change requests are a bad thing and should be avoided</p>",
+    "_id": "6555e9dc72934619e8cf915c",
+    "_parentId": "6555e9dc72934619e8cf90e7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select as many non-redudant choices as possible.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 4",
+    "displayTitle": "",
+    "body": "<p><strong>Question 04:&nbsp;</strong>Change requests should be submitted informally since they should not occur anyway.</p>",
+    "_id": "6555e9dc72934619e8cf9171",
+    "_parentId": "6555e9dc72934619e8cf90f9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 5",
+    "displayTitle": "",
+    "body": "<p><strong>Question 05:</strong>&nbsp;What information does the title of a change request contain?</p>",
+    "_id": "6555e9dc72934619e8cf9186",
+    "_parentId": "6555e9dc72934619e8cf910b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Name of the person who filed the change request",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Summary of the key concern in the change request",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Reasons why the change is necessary",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Unique identification of change request ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p><strong>Exercises and Submission Deadlines&nbsp;<br /><span style=\"color:#f39c12\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" style=\"border-collapse:collapse; width:627px\"><tbody><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><strong><span><span><span>Publication Date</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><strong><span><span><span>Submission Deadline</span></span></span></strong></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><strong><span><span><span>Exercise</span></span></span></strong></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>13.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>20.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E01 – Knowledge Test (MC)</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>27.11.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>04.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E02 – Elicitation I, E03 – Elicitation II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>18.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E04 – Agent-Oriented Modeling</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>08.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E05 – CPN I, E06 – CPN II</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><strong><span><span style=\"color:black\"><span><span><span><span>22.01.2024</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><strong><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></strong></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><strong><span><span style=\"color:black\"><span><span><span><span>&nbsp; E07 – Management</span></span></span></span></span></span></strong></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>29.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>05.02.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; E08 – Traceability</span></span></span></span></span></span></td></tr><tr><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; text-align:center; vertical-align:middle; white-space:normal; width:165px\"><span><span style=\"color:black\"><span><span><span><span>04.12.2023</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:normal; width:161px\"><span><span style=\"color:black\"><span><span><span><span>15.01.2024</span></span></span></span></span></span></td><td dir=\"LTR\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:left; vertical-align:middle; white-space:normal; width:300px\"><span><span style=\"color:black\"><span><span><span><span>&nbsp; EXX – Bonus Task</span></span></span></span></span></span></td></tr></tbody></table>",
+    "_id": "6555e9dc72934619e8cf919b",
+    "_parentId": "6555e9dc72934619e8cf911d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 6",
+    "displayTitle": "",
+    "body": "<p><strong>Question 06:&nbsp;</strong>Which of the following factors influence the need for requirements management? (Select all that apply)</p>",
+    "_id": "6555eae572934619e8cfabc3",
+    "_parentId": "6555eae572934619e8cfaba7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Availability of stakeholders",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Heterogeneous nature of stakeholder opinions",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Future reusability",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Number of expected releases",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 7",
+    "displayTitle": "",
+    "body": "<p><strong>Question 07: </strong>The change management impact analysis estimates the <strong>[BLANK-A]</strong> and determines the <strong>[BLANK-B]</strong>.</p>",
+    "_id": "6555ec3372934619e8cfc3e4",
+    "_parentId": "6555eadc72934619e8cfab8a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose an option from each dropdown list and select Submit.",
+    "ariaQuestion": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_isRandomQuestionOrder": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_allowOnlyUniqueAnswers": false,
+    "placeholder": "A",
+    "_items": [
+      {
+        "text": "[BLANK-A]",
+        "_options": [
+          {
+            "text": "effort of a change",
+            "_isCorrect": true,
+            "_score": 0
+          },
+          {
+            "text": "affected requirements",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "[BLANK-B]",
+        "_options": [
+          {
+            "text": "effort of a change",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "affected requirements",
+            "_isCorrect": true,
+            "_score": 0
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 8",
+    "displayTitle": "",
+    "body": "<p><strong>Question 08:&nbsp;</strong>What types of changes can be made to requirements?</p>",
+    "_id": "6555ed6072934619e8cfd5c8",
+    "_parentId": "6555ed5f72934619e8cfd5ab",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Only changes related to individual requirements",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Only changes related to the requirements document itself",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Both changes related to individual requirements and the requirements document",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "No changes are allowed in the requirements",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 10",
+    "displayTitle": "",
+    "body": "<p><strong>Question 10:&nbsp;</strong>What is the purpose of a change control board?</p>",
+    "_id": "6555ed6372934619e8cfd76c",
+    "_parentId": "6555ed6372934619e8cfd74e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "To create change requests",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "To evaluate and approve/reject changes",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "To manage project requirements",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "To handle project documentation",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 09",
+    "displayTitle": "",
+    "body": "<p><strong>Question 09:&nbsp;</strong>Changes in the requirements document can only refer to individual requirements.</p>",
+    "_id": "6555eda672934619e8cfdbf5",
+    "_parentId": "6555eda672934619e8cfdbd6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select as many non-redudant choices as possible.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 11",
+    "displayTitle": "",
+    "body": "<p><strong>Question 11:&nbsp;</strong>Who can perform change effort estimation? (Select all that apply)</p>",
+    "_id": "6555ee2872934619e8cfe985",
+    "_parentId": "6555ee2872934619e8cfe965",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "The change control board",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The project manager",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "A third party",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Only the stakeholders",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 12",
+    "displayTitle": "",
+    "body": "<p><strong>Question 12:&nbsp;</strong>What criteria does the change control board use to evaluate change requests?&nbsp;</p>",
+    "_id": "6555ee6e72934619e8cffaea",
+    "_parentId": "6555ee6e72934619e8cffac9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Cost/benefit ratio ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Time/effort ratio ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Complexity/impact ratio ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Quality/quantity ratio",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 13",
+    "displayTitle": "",
+    "body": "<p><strong>Question 13:&nbsp;</strong>Changes should be kept to a minimum in order to define requirements change and/or new requirements.</p>",
+    "_id": "6555ee9e72934619e8d00084",
+    "_parentId": "6555ee9d72934619e8d00062",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 14",
+    "displayTitle": "",
+    "body": "<p><strong>Question 14:&nbsp;</strong>The requirements engineer is the chairperson of the change control board and decides which change requests are approved or not.</p>",
+    "_id": "6555ef6c72934619e8d02236",
+    "_parentId": "6555ef6c72934619e8d02213",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 06",
+    "displayTitle": "",
+    "body": "<p><strong>Question 06</strong>:&nbsp;Why is maintaining a large traceability matrix difficult?</p>",
+    "_id": "6555f04b72934619e8d04164",
+    "_parentId": "6555f04b72934619e8d04148",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "It requires specialized software tools.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "It can become overwhelming and time-consuming to update and manage.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "It leads to confusion and errors in traceability.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "It increases the risk of losing important traceability links.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 07",
+    "displayTitle": "",
+    "body": "<p><strong>Question 07</strong>:&nbsp;What is one disadvantage of using textual references and hyperlinks?</p>",
+    "_id": "6555f08a72934619e8d0494a",
+    "_parentId": "6555f08a72934619e8d0492d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "They require specialized software tools to implement. ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "They can be visually distracting and clutter the requirements.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": " Maintenance of textual references and hyperlinks is time-consuming and tedious.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Achieving bidirectionality is easy.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 08",
+    "displayTitle": "",
+    "body": "<p><strong>Question 08</strong>:&nbsp;Traceable requirements help in identifying which other artifacts are affected by a change.</p>",
+    "_id": "6555f09572934619e8d04d3c",
+    "_parentId": "6555f09572934619e8d04d1e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 09",
+    "displayTitle": "",
+    "body": "<p><strong>Question 09</strong>:&nbsp;Which of the following relationship states that Artefact A has influenced the definition of Artefact B?</p>",
+    "_id": "6555f11972934619e8d05404",
+    "_parentId": "6555f11972934619e8d053e5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Derived ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Based On",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Refines ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Formalizes",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 10",
+    "displayTitle": "",
+    "body": "<p><strong>Question 08</strong>:&nbsp;The following are the Classes of Traceability Relationships:</p>",
+    "_id": "6555f12372934619e8d058ac",
+    "_parentId": "6555f12372934619e8d0588c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Evolution ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Content",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "References",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Hyperlinks",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Miscellaneous",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 7,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 11",
+    "displayTitle": "",
+    "body": "<p><strong>Question 11</strong>:&nbsp;How can traceable requirements help in identifying gold-plated solutions in the system?</p>",
+    "_id": "6555f15872934619e8d06611",
+    "_parentId": "6555f15872934619e8d065f0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "By facilitating process improvements ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "By enabling change management",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "By simplifying cause-effect analysis ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "By checking each function for requirement implementation",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
   }
 ]

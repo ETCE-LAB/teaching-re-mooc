@@ -1012,98 +1012,6 @@
     }
   },
   {
-    "title": "Exercise",
-    "displayTitle": "Exercise",
-    "body": "<p>Here you can find the multiple choice questions for L08 of the Requirements Engineering course.</p>",
-    "_classes": "",
-    "subtitle": "Multiple Choice Quiz",
-    "pageBody": "<p>Here you can find the multiple choice questions for L08 of the Requirements Engineering course.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653101d4dfe25c067439a2e1",
-    "_parentId": "653101aedfe25c0674399be5",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/933c130fc386da55cfc983689c7ddf9460069574.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Guidelines and Specifications",
     "displayTitle": "Guidelines and Specifications",
     "body": "<p>The second part of the lecture on documentation, covers&nbsp;textual requirements specification, the challenges of&nbsp;ambiguity, te importance of guidelines and syntactic requirements patterns.</p>",
@@ -1553,6 +1461,98 @@
           "_backgroundRepeat": "no-repeat",
           "_backgroundSize": "cover",
           "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise",
+    "displayTitle": "Exercise",
+    "body": "<p>Here you can find the multiple choice questions for L08 of the Requirements Engineering course.</p>",
+    "_classes": "",
+    "subtitle": "Multiple Choice Quiz",
+    "pageBody": "<p>Here you can find the multiple choice questions for L08 of the Requirements Engineering course.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6555e9dc72934619e8cf909a",
+    "_parentId": "653101aedfe25c0674399be5",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/933c130fc386da55cfc983689c7ddf9460069574.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
         },
         "_minimumHeights": {
           "_xlarge": null,
