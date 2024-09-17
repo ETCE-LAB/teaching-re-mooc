@@ -17,8 +17,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419ad8c",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61b6",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
@@ -109,18 +109,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "650c46a4a7c33c09d4334704",
-    "_parentId": "65003bdb8217fa25e419ad9e",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61b8",
+    "_parentId": "66e8021767cc9a1050ae61aa",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/c0985a86bf6e95182fc52f80989079c3d3a86ee6.png"
+      "src": "course/en/assets/737c964aa40b0b0e044a9e8f4e2d3e962c020434.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -129,12 +135,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -201,9 +201,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6512ab8611c15830dca2c397",
-    "_parentId": "65003bdb8217fa25e419ad90",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61ba",
+    "_parentId": "66e8021767cc9a1050ae61ac",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -276,103 +276,11 @@
     }
   },
   {
-    "title": "Introduction and Document Structure",
-    "displayTitle": "Introduction and Document Structure",
-    "body": "<p>In the first part of the lecture, we will cover the introduction to documentation, criteria for good requirements, document structure and&nbsp;document templates.</p>",
-    "_classes": "",
-    "subtitle": "Lecture L05",
-    "pageBody": "<p>In the first part of the lecture, we will cover the introduction to documentation, criteria for good requirements, document structure and&nbsp;document templates.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6531148bdfe25c06743b2e6d",
-    "_parentId": "65003bdb8217fa25e419ad92",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/9da87bc1446309750505cc01ce778bc96e3a47a1.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "contain",
-          "_backgroundPosition": "left center"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Introduction to Different Types of Models",
     "displayTitle": "Introduction to Different Types of Models",
     "body": "<p>Documentation models are frameworks or structures used to systematically capture and communicate information about a system or a process. They play a crucial role in requirements and software engineering, and other fields where complex systems need to be conceptualized, analyzed, and communicated.</p>",
     "_classes": "",
-    "subtitle": "Lecture L06",
+    "subtitle": "Lecture L08",
     "pageBody": "<p>The first part of this lecture will give you an introduction to documentation models in general and give you an overview over goal models, use cases, looking at the data, functional and behavioural perspective and introduce you to agent oriented modelling.</p>",
     "instruction": "",
     "_htmlClasses": "",
@@ -385,18 +293,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653129ccdfe25c06743c15e9",
-    "_parentId": "6530ffacdfe25c0674397255",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61be",
+    "_parentId": "66e8021767cc9a1050ae61b0",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/7be769e186ac75fad6b0dd2e82889f8441d25f93.png"
+      "src": "course/en/assets/90be72a59c45162ff054207abb931057fca388fe.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -405,12 +319,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -460,11 +368,11 @@
     }
   },
   {
-    "title": "Traceability",
-    "displayTitle": "Traceability",
+    "title": "Requirements Traceability",
+    "displayTitle": "Requirements Traceability",
     "body": "<p>Tracing requirements allows you to analyse and understand the relations among requirements, requirements sources and development artefacts.</p>",
     "_classes": "",
-    "subtitle": "Lecture L09",
+    "subtitle": "Lecture L12",
     "pageBody": "<p>Tracing requirements allows you to analyse and understand the relations among requirements, requirements sources and development artefacts.</p>",
     "instruction": "",
     "_htmlClasses": "",
@@ -477,9 +385,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6531396adfe25c06743d56b0",
-    "_parentId": "653101dbdfe25c067439a71d",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61c0",
+    "_parentId": "66e8021767cc9a1050ae61b4",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -490,6 +398,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -497,12 +411,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -552,11 +460,11 @@
     }
   },
   {
-    "title": "Change Management",
-    "displayTitle": "Change Management",
+    "title": "Requirements Management",
+    "displayTitle": "Requirements Management",
     "body": "<p>Change management is a systematic process within project management that entails evaluating, implementing, and controlling alterations to a project's scope, requirements, or objectives.&nbsp;</p>",
     "_classes": "",
-    "subtitle": "Lecture L08",
+    "subtitle": "Lecture L11",
     "pageBody": "<p>Change management is a systematic process within project management that entails evaluating, implementing, and controlling alterations to a project's scope, requirements, or objectives. It aims to ensure effective adaptation to evolving circumstances while maintaining project coherence and minimizing disruptions.</p>",
     "instruction": "",
     "_htmlClasses": "",
@@ -569,9 +477,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65313aabdfe25c06743d6fbe",
-    "_parentId": "653101aedfe25c0674399be5",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61c2",
+    "_parentId": "66e8021767cc9a1050ae61b2",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -582,6 +490,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -589,12 +503,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -644,8 +552,284 @@
     }
   },
   {
-    "title": "Exercise",
-    "displayTitle": "Exercise",
+    "title": "Negotiation",
+    "displayTitle": "Negotiation",
+    "body": "<p>During the negotiation phase all stakeholders have to gain a&nbsp;common understanding of the requirements.&nbsp;Conflict management plays a vital part during the negotiation.</p>",
+    "_classes": "",
+    "subtitle": "Lecture L04",
+    "pageBody": "<p>During the negotiation phase all stakeholders have to gain a&nbsp;common understanding of the requirements.&nbsp;Conflict management plays a vital part during the negotiation.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e83c6967cc9a1050ae64bc",
+    "_parentId": "66e83b4367cc9a1050ae6497",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/737c964aa40b0b0e044a9e8f4e2d3e962c020434.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "contain",
+          "_backgroundPosition": "left center"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Textual Requirements Specification",
+    "displayTitle": "Textual Requirements Specification",
+    "body": "<p>This part of the lecture on documentation, covers&nbsp;textual requirements specification, the challenges of&nbsp;ambiguity, the importance of guidelines, and syntactic requirements patterns.</p>",
+    "_classes": "",
+    "subtitle": "Lecture L07",
+    "pageBody": "<p>This part of the lecture on documentation, covers&nbsp;textual requirements specification, the challenges of&nbsp;ambiguity, the importance of guidelines, and syntactic requirements patterns.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8892467cc9a1050ae65af",
+    "_parentId": "66e8881767cc9a1050ae65ac",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/737c964aa40b0b0e044a9e8f4e2d3e962c020434.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "contain",
+          "_backgroundPosition": "left center"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Formal Requirements Specification",
+    "displayTitle": "Formal Requirements Specification",
+    "body": "",
+    "_classes": "",
+    "subtitle": "Lecture L09",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e88b2667cc9a1050ae65e6",
+    "_parentId": "66e88aae67cc9a1050ae65e5",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/737c964aa40b0b0e044a9e8f4e2d3e962c020434.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise 01",
+    "displayTitle": "Exercise 01",
     "body": "<p>Here you can find the multiple choice questions for L02 of the Requirements Engineering course. It will cover both the content of the introductory lecture and the second lecture.&nbsp;</p>",
     "_classes": "",
     "subtitle": "Multiple Choice Quiz",
@@ -661,9 +845,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419adb2",
-    "_parentId": "65003bdb8217fa25e419ad9e",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61c4",
+    "_parentId": "66e8021767cc9a1050ae61aa",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -674,6 +858,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -681,12 +871,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -753,8 +937,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003c188217fa25e419ca76",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61c6",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
@@ -845,9 +1029,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6512ab8f11c15830dca2c95c",
-    "_parentId": "65003bdb8217fa25e419ad90",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61c8",
+    "_parentId": "66e8021767cc9a1050ae61ac",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -858,6 +1042,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -865,12 +1055,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -920,12 +1104,12 @@
     }
   },
   {
-    "title": "Exercise",
-    "displayTitle": "Exercise",
-    "body": "<p>Here you can find the multiple choice questions for L09 of the Requirements Engineering course.&nbsp;</p>",
+    "title": "Exercise E08",
+    "displayTitle": "Exercise E08",
+    "body": "<p>Here you can find the multiple choice questions for L12 of the Requirements Engineering course.&nbsp;</p>",
     "_classes": "",
     "subtitle": "Multiple Choice Quiz",
-    "pageBody": "<p>Here you can find the multiple choice questions for L09 of the Requirements Engineering course.</p>",
+    "pageBody": "<p>Here you can find the multiple choice questions for L12 of the Requirements Engineering course.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -937,9 +1121,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653101cedfe25c0674399e7e",
-    "_parentId": "653101dbdfe25c067439a71d",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61ca",
+    "_parentId": "66e8021767cc9a1050ae61b4",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -950,6 +1134,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -957,12 +1147,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1012,12 +1196,12 @@
     }
   },
   {
-    "title": "Guidelines and Specifications",
-    "displayTitle": "Guidelines and Specifications",
-    "body": "<p>The second part of the lecture on documentation, covers&nbsp;textual requirements specification, the challenges of&nbsp;ambiguity, te importance of guidelines and syntactic requirements patterns.</p>",
+    "title": "Colored Petri Nets",
+    "displayTitle": "Colored Petri Nets",
+    "body": "<p>Documentation models are frameworks or structures used to systematically capture and communicate information about a system or a process. They play a crucial role in requirements and software engineering, and other fields where complex systems need to be conceptualized, analyzed, and communicated.</p>",
     "_classes": "",
-    "subtitle": "Lecture L05",
-    "pageBody": "<p>The second part of the lecture on documentation, covers&nbsp;textual requirements specification, the challenges of&nbsp;ambiguity, the importance of guidelines and syntactic requirements patterns.</p>",
+    "subtitle": "Lecture L08",
+    "pageBody": "<p><strong>1. Introduction and CPNs</strong><br />In this segment, we will discuss Colored Petri Nets (CPNs). CPNs are modelling language that allows us to represent systems with complex interactions and parallel processes. They use colors to convey additional information, enabling a more nuanced representation of system behaviour. We'll explore the basics of CPNs and understand how they are powerful tools for modelling and analysing dynamic systems.</p><p><strong>2. AOM → CPN Mapping</strong><br />Moving on, we explore the connection between Agent-Oriented Modeling (AOM) that we discussed previously and Colored Petri Nets through a mapping process. AOM, focusing on intelligent agents and decentralised control, brings a unique perspective to system modelling. We'll unravel how AOM concepts can be translated and mapped onto CPNs.</p><p><strong>3. Summary</strong><br />As we conclude our lecture on documentation models, CPNs, and AOM mappings, we gather the key insights and takeaways.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1029,18 +1213,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65311dabdfe25c06743b9772",
-    "_parentId": "65003bdb8217fa25e419ad92",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021867cc9a1050ae61ce",
+    "_parentId": "66e8021767cc9a1050ae61b0",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/c6da7d2149a052b7c6b506aec4444db84d53a9fe.png"
+      "src": "course/en/assets/c32c4e44091a7f58ce02b18d2387ac6a2f36c3a4.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -1049,12 +1239,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1104,12 +1288,12 @@
     }
   },
   {
-    "title": "Colored Petri Nets",
-    "displayTitle": "Colored Petri Nets",
-    "body": "<p>Documentation models are frameworks or structures used to systematically capture and communicate information about a system or a process. They play a crucial role in requirements and software engineering, and other fields where complex systems need to be conceptualized, analyzed, and communicated.</p>",
+    "title": "Exercise E07",
+    "displayTitle": "Exercise E07",
+    "body": "<p>Here you can find the multiple choice questions for L08 of the Requirements Engineering course.</p>",
     "_classes": "",
-    "subtitle": "Lecture L06",
-    "pageBody": "<p><strong>1. Introduction and CPNs</strong><br />In this segment, we will discuss Colored Petri Nets (CPNs). CPNs are modelling language that allows us to represent systems with complex interactions and parallel processes. They use colors to convey additional information, enabling a more nuanced representation of system behaviour. We'll explore the basics of CPNs and understand how they are powerful tools for modelling and analysing dynamic systems.</p><p><strong>2. AOM → CPN Mapping</strong><br />Moving on, we explore the connection between Agent-Oriented Modeling (AOM) that we discussed previously and Colored Petri Nets through a mapping process. AOM, focusing on intelligent agents and decentralised control, brings a unique perspective to system modelling. We'll unravel how AOM concepts can be translated and mapped onto CPNs.</p><p><strong>3. Summary</strong><br />As we conclude our lecture on documentation models, CPNs, and AOM mappings, we gather the key insights and takeaways.</p>",
+    "subtitle": "Multiple Choice Quiz",
+    "pageBody": "<p>Here you can find the multiple choice questions for L08 of the Requirements Engineering course.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1121,18 +1305,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65312ac1dfe25c06743c27d0",
-    "_parentId": "6530ffacdfe25c0674397255",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021867cc9a1050ae61d4",
+    "_parentId": "66e8021767cc9a1050ae61b2",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/034962b3d9e904b9a7b25d297e0b101a27ea7758.png"
+      "src": "course/en/assets/933c130fc386da55cfc983689c7ddf9460069574.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -1141,12 +1331,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1182,9 +1366,285 @@
           "_small": ""
         },
         "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise XX",
+    "displayTitle": "Exercise XX",
+    "body": "<p>Bonus Task (not mandatory)</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Bonus Task (not mandatory)</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e889cc67cc9a1050ae65dd",
+    "_parentId": "66e8881767cc9a1050ae65ac",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/19282224dcea683086950b44b3b8c205c85395cb.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
           "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "contain",
-          "_backgroundPosition": "left center"
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E05",
+    "displayTitle": "Exercise E05",
+    "body": "<p>Here you can find the exercises for this lecture of the Requirements Engineering course.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Here you can find the exercises for this lecture of the Requirements Engineering course.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e88bc667cc9a1050ae65ec",
+    "_parentId": "66e88aae67cc9a1050ae65e5",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/19282224dcea683086950b44b3b8c205c85395cb.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E02",
+    "displayTitle": "Exercise E02",
+    "body": "<p>Here you can find the exercises for this lecture of the Requirements Engineering course.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Here you can find the exercises for this lecture of the Requirements Engineering course.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e92b7467cc9a1050ae6613",
+    "_parentId": "66e83b4367cc9a1050ae6497",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/19282224dcea683086950b44b3b8c205c85395cb.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -1213,8 +1673,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419ad9e",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61aa",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -1305,9 +1765,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653148c9dfe25c06743ea67b",
-    "_parentId": "65003bdb8217fa25e419ad90",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021867cc9a1050ae61d0",
+    "_parentId": "66e8021767cc9a1050ae61ac",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1380,8 +1840,8 @@
     }
   },
   {
-    "title": "Exercise",
-    "displayTitle": "Exercise",
+    "title": "Exercise E04",
+    "displayTitle": "Exercise E04",
     "body": "<p>Here you can find the exercises for this lecture of the Requirements Engineering course.</p>",
     "_classes": "",
     "subtitle": "",
@@ -1397,9 +1857,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653a21f1b013f70c283aa539",
-    "_parentId": "6530ffacdfe25c0674397255",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021867cc9a1050ae61d2",
+    "_parentId": "66e8021767cc9a1050ae61b0",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1410,6 +1870,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -1417,12 +1883,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1472,12 +1932,12 @@
     }
   },
   {
-    "title": "Exercise",
-    "displayTitle": "Exercise",
-    "body": "<p>Here you can find the multiple choice questions for L08 of the Requirements Engineering course.</p>",
+    "title": "Elicitation I",
+    "displayTitle": "Elicitation I",
+    "body": "<p>Elicitation is the first and one of the most crucial steps during the Requirements Engineering process. Part 1 gives a general overview of the elicitation process and introduces some techniques.</p>",
     "_classes": "",
-    "subtitle": "Multiple Choice Quiz",
-    "pageBody": "<p>Here you can find the multiple choice questions for L08 of the Requirements Engineering course.</p>",
+    "subtitle": "Lecture L03",
+    "pageBody": "<p>Elicitation is the first and one of the most crucial steps during the Requirements Engineering process. Part 1 gives a general overview of the elicitation process and introduces some techniques.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1489,18 +1949,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6555e9dc72934619e8cf909a",
-    "_parentId": "653101aedfe25c0674399be5",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e83ce667cc9a1050ae64e1",
+    "_parentId": "course",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/933c130fc386da55cfc983689c7ddf9460069574.png"
+      "src": "course/en/assets/c0dd7dbac3c1ce0b423e20da36e0681372c55156.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -1509,12 +1975,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1550,9 +2010,9 @@
           "_small": ""
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "contain",
+          "_backgroundPosition": "left center"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -1564,12 +2024,12 @@
     }
   },
   {
-    "title": "Elicitation",
-    "displayTitle": "Elicitation",
-    "body": "<p>This lecture introduces different techniques to elicit the correct information from various stakeholders and sources. Elicitation is the first and one of the most crucial steps during the Requirements Engineering process.</p>",
+    "title": "Elicitation II",
+    "displayTitle": "Elicitation II",
+    "body": "<p>In part 2 of the lecture on Requirements Elicitation, you will be introduced to some additional techniques to elicit information and get a summary of the whole process.</p>",
     "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>This lecture introduces different techniques to elicit the correct information from various stakeholders and sources. Elicitation is the first and one of the most crucial steps during the Requirements Engineering process.</p>",
+    "subtitle": "Lecture L04",
+    "pageBody": "<p>In part 2 of the lecture on Requirements Elicitation, you will be introduced to some additional techniques to elicit information and get a summary of the whole process.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1581,18 +2041,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419ad90",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e83d1367cc9a1050ae6508",
     "_parentId": "course",
-    "_type": "menu",
+    "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/4b28fe60323e6b426d958b885c2c10a721afa62f.png"
+      "src": "course/en/assets/1231e85ae1cb4d7c7c83db5a21ad72ae254fa116.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -1601,12 +2067,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1642,9 +2102,9 @@
           "_small": ""
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "contain",
+          "_backgroundPosition": "left center"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -1658,10 +2118,10 @@
   {
     "title": "Negotiation",
     "displayTitle": "Negotiation",
-    "body": "<p>During the negotiation phase all stakeholders have to gain a&nbsp;common understanding of the requirements.&nbsp;Conflict management plays a vital part during the negotiation.</p>",
+    "body": "<p>During the negotiation phase, all stakeholders have to gain a&nbsp;common understanding of the requirements.&nbsp;Conflict management plays a vital part during the negotiation.</p>",
     "_classes": "",
-    "subtitle": "Lecture L04",
-    "pageBody": "<p>During the negotiation phase all stakeholders have to gain a&nbsp;common understanding of the requirements.&nbsp;Conflict management plays a vital part during the negotiation.</p>",
+    "subtitle": "",
+    "pageBody": "<p>During the negotiation phase, all stakeholders have to gain a&nbsp;common understanding of the requirements.&nbsp;Conflict management plays a vital part during the negotiation.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1673,18 +2133,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6512bd4e11c15830dca41a47",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e83b4367cc9a1050ae6497",
     "_parentId": "course",
-    "_type": "page",
+    "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/6ea2880177e0f770aa6881de5c4527cdb0287010.png"
+      "src": "course/en/assets/d346350cd49b35f9e6267e196351e04c4ca0eb67.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -1694,11 +2160,97 @@
       "_isEnabled": true,
       "_level": "inherit"
     },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Documentation - Introduction",
+    "displayTitle": "Documentation - Introduction",
+    "body": "<p>In this part of the lecture, we will cover the introduction to documentation, criteria for good requirements, document structure, and&nbsp;document templates.</p>",
+    "_classes": "",
+    "subtitle": "Lecture L06",
+    "pageBody": "<p>In this part of the lecture, we will cover the introduction to documentation, criteria for good requirements, document structure, and&nbsp;document templates.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e87ef067cc9a1050ae6533",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/875d413dd23bec118a36c6bdd502835609aceaa4.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1748,12 +2300,12 @@
     }
   },
   {
-    "title": "Documentation",
-    "displayTitle": "Documentation",
-    "body": "<p>During the requirements engineering process, documentation is essential to ensure a successful collaboration. Here, you will be introduced to different documentation techniques.</p>",
+    "title": "Documentation - Textual Requirements Specification",
+    "displayTitle": "Documentation - Textual Requirements Specification",
+    "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>During the requirements engineering process, documentation is essential to ensure a successful collaboration. Here, you will be introduced to different documentation techniques.</p>",
+    "pageBody": "",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1765,18 +2317,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65003bdb8217fa25e419ad92",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8881767cc9a1050ae65ac",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/51cc6567c5c9a6b2b2583e86e6eada7f85fe8891.png"
+      "src": "course/en/assets/c0212737457161aded75740869edc8457fe03ccd.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -1785,12 +2343,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1803,9 +2355,9 @@
         "_small": ""
       },
       "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
       },
       "_responsiveClasses": {
         "_xlarge": "",
@@ -1826,9 +2378,9 @@
           "_small": ""
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -1840,11 +2392,11 @@
     }
   },
   {
-    "title": "Documentation Models",
-    "displayTitle": "Documentation Models",
-    "body": "<p>Documentation models are frameworks or structures used to systematically capture and communicate information about a system or a process.&nbsp;</p>",
+    "title": "Documentation - Model-based Requirements Documentation",
+    "displayTitle": "Documentation - Model-based Requirements Documentation",
+    "body": "<p>Documentation models are frameworks or structures used to systematically capture and communicate information about a system or a process.&nbsp; They play a crucial role in requirements and software engineering, and other fields where complex systems need to be conceptualized, analyzed, and communicated.</p>",
     "_classes": "",
-    "subtitle": "",
+    "subtitle": "Lecture L08",
     "pageBody": "<p>Documentation models are frameworks or structures used to systematically capture and communicate information about a system or a process. They play a crucial role in requirements and software engineering, and other fields where complex systems need to be conceptualized, analyzed, and communicated.</p>",
     "instruction": "",
     "_htmlClasses": "",
@@ -1857,18 +2409,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6530ffacdfe25c0674397255",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61b0",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/14ef0270e662808a32c08de3c3d37ca5d3dc7b31.png"
+      "src": "course/en/assets/bdff89a66a1040681d755e08b6d2fd21b266815d.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -1877,12 +2435,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1932,11 +2484,103 @@
     }
   },
   {
-    "title": "Validation",
-    "displayTitle": "Validation",
+    "title": "Documentation - Formal Requirements Specification",
+    "displayTitle": "Documentation - Formal Requirements Specification",
+    "body": "",
+    "_classes": "",
+    "subtitle": "Lecture L09",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e88aae67cc9a1050ae65e5",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/d3b03dca5443bdc4a232643842f5383b4bb70475.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Requirements Validation",
+    "displayTitle": "Requirements Validation",
     "body": "<p>The validation steps of the Requirements Engineering process ensures that&nbsp;the implemented requirements are consistent with and meet the stakeholder's needs.</p>",
     "_classes": "",
-    "subtitle": "Lecture L07",
+    "subtitle": "Lecture L10",
     "pageBody": "<p>The validation steps of the Requirements Engineering process ensures that&nbsp;the implemented requirements are consistent with and meet the stakeholder's needs.</p>",
     "instruction": "",
     "_htmlClasses": "",
@@ -1949,18 +2593,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653133efdfe25c06743c9e3b",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021867cc9a1050ae61d8",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/55d453aa2c07da3ecf94a544413484559e97d58b.png"
+      "src": "course/en/assets/14266ca93564a1c096678a0d4457b6288466d213.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -1969,12 +2619,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -2024,11 +2668,11 @@
     }
   },
   {
-    "title": "Change Management",
-    "displayTitle": "Change Management",
+    "title": "Requirements Management",
+    "displayTitle": "Requirements Management",
     "body": "<p>Change management is a systematic process within project management that entails evaluating, implementing, and controlling alterations to a project's scope, requirements, or objectives.&nbsp;</p>",
     "_classes": "",
-    "subtitle": "",
+    "subtitle": "Lecture L11",
     "pageBody": "<p>Change management is a systematic process within project management that entails evaluating, implementing, and controlling alterations to a project's scope, requirements, or objectives.</p>",
     "instruction": "",
     "_htmlClasses": "",
@@ -2041,18 +2685,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653101aedfe25c0674399be5",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61b2",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/a1a9f3c831b9bf756d09e956400066d800ccf4d3.png"
+      "src": "course/en/assets/2b1e1f02aece5e006a3b98c4b549263d6e525f62.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -2061,12 +2711,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -2116,8 +2760,8 @@
     }
   },
   {
-    "title": "Traceability",
-    "displayTitle": "Traceability",
+    "title": "Requirements Traceability",
+    "displayTitle": "Requirements Traceability",
     "body": "<p>Tracing requirements allows you to analyse and understand the relations among requirements, requirements sources and development artefacts.</p>",
     "_classes": "",
     "subtitle": "",
@@ -2133,18 +2777,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653101dbdfe25c067439a71d",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61b4",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/49659d9d42ed9018f24c01ff36e8c2eeedb21a53.png"
+      "src": "course/en/assets/91528c13ce1923b1678ec466fefa1c9f00bb585b.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -2153,12 +2803,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -2212,7 +2856,7 @@
     "displayTitle": "Tool Support",
     "body": "<p>Tool support for Requirements Engineering (RE) refers to the use of software tools designed to facilitate and enhance various aspects of the requirements management process.</p>",
     "_classes": "",
-    "subtitle": "Lecture L10",
+    "subtitle": "Lecture L13",
     "pageBody": "<p>Tool support for Requirements Engineering (RE) refers to the use of software tools designed to facilitate and enhance various aspects of the requirements management process. These tools assist in capturing, analyzing, documenting, and tracking requirements throughout the project lifecycle. They often provide features such as requirement elicitation, traceability, version control, collaboration, and visualization, contributing to increased efficiency, accuracy, and collaboration within the RE process.</p>",
     "instruction": "",
     "_htmlClasses": "",
@@ -2225,18 +2869,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65314296dfe25c06743e139e",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021867cc9a1050ae61da",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/5ad34e73e8632bd0f9ef30ec866b2713b26219ee.png"
+      "src": "course/en/assets/56da286ce858d6ef81f8071754f41744e227af17.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -2245,12 +2895,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -2289,6 +2933,98 @@
           "_backgroundRepeat": "no-repeat",
           "_backgroundSize": "contain",
           "_backgroundPosition": "left center"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Elicitation",
+    "displayTitle": "Elicitation",
+    "body": "<p>This lecture introduces different techniques to elicit the correct information from various stakeholders and sources. Elicitation is the first and one of the most crucial steps during the Requirements Engineering process.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>This lecture introduces different techniques to elicit the correct information from various stakeholders and sources. Elicitation is the first and one of the most crucial steps during the Requirements Engineering process.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": false,
+    "_isHidden": false,
+    "_isVisible": false,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e8021767cc9a1050ae61ac",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/4b28fe60323e6b426d958b885c2c10a721afa62f.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
         },
         "_minimumHeights": {
           "_xlarge": null,

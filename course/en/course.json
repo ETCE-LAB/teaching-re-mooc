@@ -6,7 +6,8 @@
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 200,
+  "_isA11yCompletionDescriptionEnabled": true,
+  "_latestTrackingId": 235,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -65,8 +66,11 @@
         "incorrect": "Incorrect",
         "correct": "Correct",
         "locked": "Locked",
-        "visited": "Visited"
-      }
+        "visited": "Visited",
+        "required": "Required",
+        "optional": "Optional"
+      },
+      "altFeedbackTitle": "Feedback"
     },
     "_extensions": {
       "_resources": {
@@ -116,6 +120,10 @@
             "_navOrder": 0
           }
         ]
+      },
+      "_bookmarking": {
+        "resumeButtonText": "Resume",
+        "resumeButtonAriaLabel": "Navigate to your furthest point of progress."
       }
     },
     "_components": {
@@ -165,7 +173,9 @@
       "_narrative": {
         "ariaRegion": "Slide show. Select the next button to progress.",
         "previous": "{{#if title}}Back to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
-        "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
+        "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}",
+        "titleDialog": "Item {{itemNumber}} of {{totalItems}}",
+        "titleStrapline": "Find out more"
       },
       "_media": {
         "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}.",
