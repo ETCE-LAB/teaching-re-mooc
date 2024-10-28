@@ -6710,7 +6710,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Team",
     "displayTitle": "Team",
-    "body": "<p>This course is taught by Prof. Dr. Benjamin Leiding, M.Sc.&nbsp;Anant&nbsp;Sujatanagarjuna and B.Sc. Nisha Muthuraju&nbsp;from the Clausthal University of Technology. They are working at the&nbsp;<strong>E</strong>merging <strong>T</strong>echnologies for the <strong>C</strong>ircular <strong>E</strong>conomy (ETCE) Lab.&nbsp;</p><p>The research of the ETCE Lab is focused mainly on:</p><ul><li>Intersection of IT and sustainability</li><li>Circular Economy</li><li>Self-organized, decentralized and distributed systems</li><li>Machine-to-Everything Economy (M2X Economy)</li></ul><p>Other courses that we teach:</p><ul><li>Emerging Technologies for the Circular Economy</li><li>IoT and Digitalization for Circular Economy&nbsp;</li><li>The Limits to Growth – Sustainability and the Circular Economy</li></ul><p>If you want to find out more about our work, you can visit the ETCE website (<a href=\"https://etce-lab.com\">Link</a>) to find what we are currently working on, the openly accessible material for all of our courses and a list of theses and project topics.</p>",
+    "body": "<p>This course is taught by Prof. Dr. Benjamin Leiding, M.Sc.&nbsp;Anant&nbsp;Sujatanagarjuna and M.Sc. Elsyprema Rajan from the Clausthal University of Technology. They are working at the&nbsp;<strong>E</strong>merging <strong>T</strong>echnologies for the <strong>C</strong>ircular <strong>E</strong>conomy (ETCE) Lab.&nbsp;</p><p>The research of the ETCE Lab is focused mainly on:</p><ul><li>Intersection of IT and Sustainability</li><li>Circular Economy</li><li>Self-organized, decentralized and distributed systems</li><li>Machine-to-Everything Economy (M2X Economy)</li></ul><p>Other courses that we teach:</p><ul><li>Emerging Technologies for the Circular Economy</li><li>IoT and Digitalization for Circular Economy&nbsp;</li><li>The Limits to Growth – Sustainability and the Circular Economy</li></ul><p>If you want to find out more about our work, you can visit the ETCE website (<a href=\"https://etce-lab.com\">Link</a>) to find what we are currently working on, the openly accessible material for all of our courses and a list of theses and project topics.</p>",
     "_id": "66e8022a67cc9a1050ae63b9",
     "_parentId": "66e8022067cc9a1050ae629a",
     "_type": "component",
@@ -6741,8 +6741,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
