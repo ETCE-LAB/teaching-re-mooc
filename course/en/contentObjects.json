@@ -1106,10 +1106,10 @@
   {
     "title": "Exercise E08",
     "displayTitle": "Exercise E08",
-    "body": "<p>Here you can find the multiple choice questions for L12 of the Requirements Engineering course.&nbsp;</p>",
+    "body": "<p>Here, you can find the multiple choice questions for L12 of the Requirements Engineering course.&nbsp;</p>",
     "_classes": "",
     "subtitle": "Multiple Choice Quiz",
-    "pageBody": "<p>Here you can find the multiple choice questions for L12 of the Requirements Engineering course.</p>",
+    "pageBody": "<p>Here, you can find the multiple choice questions for L12 of the Requirements Engineering course.</p><p><span style=\"background-color:#f1c40f\">Questions? →&nbsp;&nbsp;</span><strong><span style=\"background-color:#f1c40f\">etce-re@tu-clausthal.de</span></strong></p><p><span style=\"background-color:#f1c40f\">We will ignore all emails to our private email accounts!</span></p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1293,7 +1293,7 @@
     "body": "<p>Here, you can find the multiple-choice questions for L11 of the Requirements Engineering course.</p>",
     "_classes": "",
     "subtitle": "Multiple Choice Quiz",
-    "pageBody": "<p>You can find the multiple-choice questions for L11 of the Requirements Engineering course.</p>",
+    "pageBody": "<p>You can find the multiple-choice questions for L11 of the Requirements Engineering course.</p><p><span style=\"background-color:#f1c40f\">Questions? → </span><span style=\"background-color:#f1c40f\">&nbsp;</span><strong><span style=\"background-color:#f1c40f\">etce-re@tu-clausthal.de</span></strong></p><p><span style=\"background-color:#f1c40f\">We will ignore all emails to our private email accounts!</span></p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1382,10 +1382,10 @@
   {
     "title": "Exercise XX",
     "displayTitle": "Exercise XX",
-    "body": "<p>Here, you can find the bonus task exercise for this lecture of the Requirements Engineering course, which is not mandatory.</p>",
+    "body": "<p>Here, you can find the <em>bonus task</em> exercise for this lecture of the Requirements Engineering course, which is <strong>not </strong>mandatory.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Here, you can find the bonus task exercise for this lecture of the Requirements Engineering course, which is not mandatory.</p>",
+    "pageBody": "<p>Here, you can find the <em>bonus task</em> exercise for this lecture of the Requirements Engineering course, which is <strong>not </strong>mandatory.</p><p><span style=\"background-color:#f1c40f\">Questions? → </span><span style=\"background-color:#f1c40f\">&nbsp;</span><strong><span style=\"background-color:#f1c40f\">etce-re@tu-clausthal.de</span></strong></p><p><span style=\"background-color:#f1c40f\">We will ignore all emails to our private email accounts!</span></p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1474,10 +1474,10 @@
   {
     "title": "Exercise E05",
     "displayTitle": "Exercise E05",
-    "body": "<p>Here you can find the exercises for this lecture of the Requirements Engineering course.</p>",
+    "body": "<p>Here, you can find the exercises for this lecture of the Requirements Engineering course.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Here you can find the exercises for this lecture of the Requirements Engineering course.</p>",
+    "pageBody": "<p>Here, you can find the exercises for this lecture of the Requirements Engineering course</p><p><span style=\"background-color:#f1c40f\">Questions? → </span><span style=\"background-color:#f1c40f\">&nbsp;</span><strong><span style=\"background-color:#f1c40f\">etce-re@tu-clausthal.de</span></strong></p><p><span style=\"background-color:#f1c40f\">We will ignore all emails to our private email accounts!</span></p><p>.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1569,7 +1569,7 @@
     "body": "<p>Here, you can find the exercises for this lecture of the Requirements Engineering course.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Here, you can find the exercises for this lecture of the Requirements Engineering course.</p>",
+    "pageBody": "<p>Here, you can find the exercises for this lecture of the Requirements Engineering course.</p><p><span style=\"background-color:#f1c40f\">Questions? → </span><span style=\"background-color:#f1c40f\">&nbsp;</span><strong><span style=\"background-color:#f1c40f\">etce-re@tu-clausthal.de</span></strong></p><p><span style=\"background-color:#f1c40f\">We will ignore all emails to our private email accounts!</span></p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1842,10 +1842,10 @@
   {
     "title": "Exercise E04",
     "displayTitle": "Exercise E04",
-    "body": "<p>Here you can find the exercises for this lecture of the Requirements Engineering course.</p>",
+    "body": "<p>Here, you can find the exercises for this lecture of the Requirements Engineering course.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Here you can find the exercises for this lecture of the Requirements Engineering course.</p>",
+    "pageBody": "<p>Here, you can find the exercises for this lecture of the Requirements Engineering course.</p><p><span style=\"background-color:#f1c40f\">Questions? → </span><span style=\"background-color:#f1c40f\">&nbsp;</span><strong><span style=\"background-color:#f1c40f\">etce-re@tu-clausthal.de</span></strong></p><p><span style=\"background-color:#f1c40f\">We will ignore all emails to our private email accounts!</span></p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1860,6 +1860,190 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "_id": "66e8021867cc9a1050ae61d2",
     "_parentId": "66e8021767cc9a1050ae61b0",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/19282224dcea683086950b44b3b8c205c85395cb.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E03",
+    "displayTitle": "Exercise E03",
+    "body": "<p>Here, you can find the exercises for this lecture of the Requirements Engineering course.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Here, you can find the exercises for this lecture of the Requirements Engineering course.</p><p><span style=\"background-color:#f1c40f\">Questions? → </span><span style=\"background-color:#f1c40f\">&nbsp;</span><strong><span style=\"background-color:#f1c40f\">etce-re@tu-clausthal.de</span></strong></p><p><span style=\"background-color:#f1c40f\">We will ignore all emails to our private email accounts!</span></p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "6720b28e68434a659025567c",
+    "_parentId": "66e83b4367cc9a1050ae6497",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/19282224dcea683086950b44b3b8c205c85395cb.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E06",
+    "displayTitle": "Exercise E06",
+    "body": "<p>Here, you can find the exercises for this lecture of the Requirements Engineering course.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Here, you can find the exercises for this lecture of the Requirements Engineering course</p><p><span style=\"background-color:#f1c40f\">Questions? → </span><span style=\"background-color:#f1c40f\">&nbsp;</span><strong><span style=\"background-color:#f1c40f\">etce-re@tu-clausthal.de</span></strong></p><p><span style=\"background-color:#f1c40f\">We will ignore all emails to our private email accounts!</span></p><p>.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "6720b77b68434a6590255699",
+    "_parentId": "66e88aae67cc9a1050ae65e5",
     "_type": "page",
     "_graphic": {
       "alt": "",
