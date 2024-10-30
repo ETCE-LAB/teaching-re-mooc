@@ -12661,23 +12661,23 @@
         "_instruction": ""
       }
     },
-    "instruction": "",
+    "instruction": "Select the play button to start the video.",
     "_media": {
       "mp4": "",
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/Zmwvjn3cF70",
-      "type": "",
+      "source": "https://youtu.be/oTpTjCEDv8Q",
+      "type": "video/youtube",
       "poster": "",
       "cc": []
     },
     "_setCompletionOn": "play",
     "_useClosedCaptions": false,
     "_startLanguage": "en",
-    "_showVolumeControl": false,
+    "_showVolumeControl": true,
     "_startVolume": "80%",
-    "_allowFullScreen": false,
+    "_allowFullScreen": true,
     "_aspectRatio": "landscape",
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
@@ -20314,83 +20314,6 @@
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "media",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "671f7a6268434a659025540e",
-    "_parentId": "671f7a6268434a659025540d",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "Select the play button to start the video.",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://youtu.be/Zmwvjn3cF70",
-      "type": "video/youtube",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": false,
-    "_startVolume": "80%",
-    "_allowFullScreen": false,
-    "_aspectRatio": "landscape",
-    "_pauseWhenOffScreen": false,
-    "_playsinline": false,
-    "_preventForwardScrubbing": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
   },
   {
     "_component": "graphic",
