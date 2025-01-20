@@ -552,98 +552,6 @@
     }
   },
   {
-    "title": "Lecture L09",
-    "displayTitle": "Lecture L09",
-    "body": "",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e88b2667cc9a1050ae65e6",
-    "_parentId": "66e88aae67cc9a1050ae65e5",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/737c964aa40b0b0e044a9e8f4e2d3e962c020434.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Lecture L01",
     "displayTitle": "Lecture L01",
     "body": "<p>This lecture is about</p><ul><li>exploring how Requirement Engineering is crucial for project success</li><li>how bad requirements can jeopardize projects</li><li>how Requirement Engineering goes beyond merely \"getting the requirements and writing them down.\"</li></ul>",
@@ -1012,104 +920,12 @@
     }
   },
   {
-    "title": "Lecture L08",
-    "displayTitle": "Lecture L08",
+    "title": "Lecture 08",
+    "displayTitle": "Lecture 08",
     "body": "<p>This lecture is about:</p><ul><li>exploring conceptual models for requirements documentation, balancing abstraction and overview with learning a modelling language while ensuring the model fits its purpose.</li><li>making use of the versatility of UML in modelling and other alternative approaches.</li></ul>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Documentation models are vital in software engineering and other fields that require the conceptualization and communication of complex systems.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "672747e48239de36a80ea954",
-    "_parentId": "66e8021767cc9a1050ae61b0",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/737c964aa40b0b0e044a9e8f4e2d3e962c020434.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Introduction to Different Types of Models",
-    "displayTitle": "Introduction to Different Types of Models",
-    "body": "<p>Documentation models are frameworks or structures used to systematically capture and communicate information about a system or a process. They play a crucial role in requirements and software engineering, and other fields where complex systems need to be conceptualized, analyzed, and communicated.</p>",
-    "_classes": "",
-    "subtitle": "Lecture L08",
-    "pageBody": "<p>The first part of this lecture will give you an introduction to documentation models in general and give you an overview over goal models, use cases, looking at the data, functional and behavioural perspective and introduce you to agent oriented modelling.</p>",
+    "pageBody": "<p>The lecture will give you an introduction to documentation models in general and give you an overview of goal models, use cases, looking at the data, functional and behavioural perspectives and introduce you to agent-oriented modelling.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1123,11 +939,11 @@
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
     "_id": "6727480c8239de36a80ea957",
-    "_parentId": "672747e48239de36a80ea954",
+    "_parentId": "66e8021767cc9a1050ae61b0",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/90be72a59c45162ff054207abb931057fca388fe.png"
+      "src": "course/en/assets/737c964aa40b0b0e044a9e8f4e2d3e962c020434.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -1308,6 +1124,98 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "_id": "67275a9e8239de36a80ea9ce",
     "_parentId": "67275a518239de36a80ea9cb",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/737c964aa40b0b0e044a9e8f4e2d3e962c020434.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "contain",
+          "_backgroundPosition": "left center"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Lecture 09",
+    "displayTitle": "Lecture 09",
+    "body": "<p>This lecture is about:</p><ul><li>coloured Petri Nets (including mapping from AOM)</li><li>four variable model</li><li>other specification techniques that might be suitable for projects</li></ul>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>This lecture will provide an introduction to documentation models (Colored Petri Nets), discuss the mapping of Agent-Oriented Modelling to Colored Petri Nets,&nbsp;and wrap up with a summary that combines all of these ideas for a thorough grasp of modelling techniques.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "678e24c7d8b5347ea4e3985d",
+    "_parentId": "66e88aae67cc9a1050ae65e5",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2116,98 +2024,6 @@
     }
   },
   {
-    "title": "Colored Petri Nets",
-    "displayTitle": "Colored Petri Nets",
-    "body": "<p>Documentation models are frameworks or structures that systematically capture and communicate information about a system or a process. They play a crucial role in requirements and software engineering, as well as other fields where complex systems need to be conceptualized, analyzed, and communicated.</p>",
-    "_classes": "",
-    "subtitle": "Lecture L08",
-    "pageBody": "<p>This lecture will provide an introduction to documentation models (Colored Petri Nets), discuss the mapping of Agent-Oriented Modelling to Colored Petri Nets,&nbsp;and wrap up with a summary that combines all of these ideas for a thorough grasp of modelling techniques.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "672748198239de36a80ea97f",
-    "_parentId": "672747e48239de36a80ea954",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/c32c4e44091a7f58ce02b18d2387ac6a2f36c3a4.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "contain",
-          "_backgroundPosition": "left center"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "System Context Boundaries and Types of Requirements",
     "displayTitle": "System Context Boundaries and Types of Requirements",
     "body": "<p>In this lecture, you will learn what differentiates systems and context, what different types of boundaries exist and why they are essential for the Requirements Engineering process.</p>",
@@ -2473,6 +2289,98 @@
           "_backgroundRepeat": "no-repeat",
           "_backgroundSize": "cover",
           "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Colored Petri Nets",
+    "displayTitle": "Colored Petri Nets",
+    "body": "<p>Documentation models are frameworks or structures that systematically capture and communicate information about a system or a process. They play a crucial role in requirements and software engineering, as well as other fields where complex systems need to be conceptualized, analyzed, and communicated.</p>",
+    "_classes": "",
+    "subtitle": "Lecture L08",
+    "pageBody": "<p>This lecture will provide an introduction to documentation models (Colored Petri Nets), discuss the mapping of Agent-Oriented Modelling to Colored Petri Nets,&nbsp;and wrap up with a summary that combines all of these ideas for a thorough grasp of modelling techniques.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "672748198239de36a80ea97f",
+    "_parentId": "66e8021767cc9a1050ae61b0",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/c32c4e44091a7f58ce02b18d2387ac6a2f36c3a4.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "contain",
+          "_backgroundPosition": "left center"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -3038,10 +2946,10 @@
   {
     "title": "Documentation - Formal Requirements Specification",
     "displayTitle": "Documentation - Formal Requirements Specification",
-    "body": "",
+    "body": "<p>Modern system analysis and design are based on written formal requirements specification. Learn how to turn complicated processes into manageable models using tools like coloured Petri Nets and AOM -&gt; CPN mapping. These approaches play a key role in software engineering and requirement analysis, where complex conceptualization is required.&nbsp;</p>",
     "_classes": "",
     "subtitle": "Lecture L09",
-    "pageBody": "",
+    "pageBody": "<p>We&nbsp;explore&nbsp;the&nbsp;intricacies&nbsp;of&nbsp;formal requirements&nbsp;specification,&nbsp;addressing tools and frameworks that provide insights about ensuring system functioning and reliability.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -3485,6 +3393,98 @@
           "_backgroundRepeat": "no-repeat",
           "_backgroundSize": "cover",
           "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Colored Petri Nets",
+    "displayTitle": "Colored Petri Nets",
+    "body": "<p>Documentation models are frameworks or structures that systematically capture and communicate information about a system or a process. They play a crucial role in requirements and software engineering, as well as other fields where complex systems need to be conceptualized, analyzed, and communicated.</p>",
+    "_classes": "",
+    "subtitle": "Lecture L08",
+    "pageBody": "<p>This lecture will provide an introduction to documentation models (Colored Petri Nets), discuss the mapping of Agent-Oriented Modelling to Colored Petri Nets,&nbsp;and wrap up with a summary that combines all of these ideas for a thorough grasp of modelling techniques.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "678e2490d8b5347ea4e39836",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/c32c4e44091a7f58ce02b18d2387ac6a2f36c3a4.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "contain",
+          "_backgroundPosition": "left center"
         },
         "_minimumHeights": {
           "_xlarge": null,
