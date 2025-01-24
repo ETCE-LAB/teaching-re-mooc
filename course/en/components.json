@@ -5409,7 +5409,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Lecture Content",
     "displayTitle": "Lecture Content",
-    "body": "<p>Imagine the traceability process, like connecting the dots in a big picture. It's a way to show how different parts of a project link together. In simple terms, it helps us understand where everything comes from, how it's connected, and what happens to it as the project unfolds. This process is crucial for tracking requirements, their origins, and how they evolve over time, helping everyone involved stay on the same page and ensuring that the project progresses in the right direction.</p><p><strong>1. Introduction and Traceability</strong><br />Requirements traceability involves the capacity to track and describe the entire lifespan of a requirement. This encompasses both forward and backward directions, starting from its origin, progressing through development and specification, to its deployment and utilisation, and through continuous refinement and iteration across all these phases.</p><p><strong>2. Classification</strong><br />in this section, we will discuss different classifications of traceability. Pre-traceability involves establishing relationships from requirement artefacts to aspects in four context facets: subject, usage, IT system, and development. Post-traceability focuses on relationships between requirement artefacts and their successor artefacts, capturing the evolution of project elements. Traceability among requirements includes connections such as refinement, generalisation, or replacement between conditions, providing a comprehensive understanding of their interrelationships.</p><p><strong>3. Documentation</strong><br />Documenting traces is a vital step in maintaining a comprehensive record of requirement relationships. Different types of atoms can be reported using techniques such as textual references, which describe connections in written form, hyperlinks that provide digital shortcuts, traceability models offering visual representations, matrices for structured overviews, and graphs for intuitive depictions. These methods ensure that the complex web of relationships between requirements is well-documented and easily accessible, facilitating effective traceability in the Requirements Engineering process.</p><p><strong>4. Summary</strong><br />Traceability is crucial as it enables the analysis and understanding of relationships among requirements, their sources, and development artefacts. It is a foundation for various activities and is especially valuable during maintenance. For instance, it allows the analysis of the impact of requirement changes, a task essential for ensuring that modifications do not inadvertently affect other parts of the project. While maintaining robust traceability can be challenging, it is pivotal in enhancing overall project understanding and supporting activities that ensure the project's coherence and effectiveness. Utilising tools for traceability can streamline this intricate process, making it more manageable and efficient.</p>",
+    "body": "<p>Traceability helps us understand where everything comes from, how it connects, and what happens as the project unfolds. This process is crucial for tracking requirements, their origins, and how they evolve over time. It helps everyone involved stay on the same page and ensures the project progresses in the right direction.</p><p><strong>1. Introduction and Traceability</strong><br />Requirements traceability involves the capacity to track and describe the entire lifespan of a requirement. This encompasses both forward and backward directions, starting from its origin, progressing through development and specification, to its deployment and utilisation, and through continuous refinement and iteration across all these phases.</p><p><strong>2. Classification</strong><br />in this section, we will discuss different classifications of traceability. Pre-traceability involves establishing relationships from requirement artefacts to aspects in four context facets: subject, usage, IT system, and development. Post-traceability focuses on relationships between requirement artefacts and their successor artefacts, capturing the evolution of project elements. Traceability among requirements includes connections such as refinement, generalisation, or replacement between conditions, providing a comprehensive understanding of their interrelationships.</p><p><strong>3. Documentation</strong><br />Documenting traces is vital in maintaining a comprehensive record of requirement relationships. Different types of atoms can be reported using techniques such as textual references, which describe connections in written form, hyperlinks that provide digital shortcuts, traceability models offering visual representations, matrices for structured overviews, and graphs for intuitive depictions. These methods ensure that the complex web of relationships between requirements is well-documented and easily accessible, facilitating effective traceability in the Requirements Engineering process.</p><p><strong>4. Summary</strong><br />Traceability is crucial as it enables the analysis and understanding of relationships among requirements, their sources, and development artefacts. It is a foundation for various activities and is especially valuable during maintenance. For instance, it allows the analysis of the impact of requirement changes, a task essential for ensuring that modifications do not inadvertently affect other parts of the project. While maintaining robust traceability can be challenging, it is pivotal in enhancing overall project understanding and supporting activities that ensure the project's coherence and effectiveness. Utilising tools for traceability can streamline this intricate process, making it more manageable and efficient.</p>",
     "_id": "66e8022d67cc9a1050ae642b",
     "_parentId": "66e8021f67cc9a1050ae6287",
     "_type": "component",
@@ -6018,7 +6018,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Lecture Content",
     "displayTitle": "Lecture Content",
-    "body": "<p>Change management in the Requirements Engineering (RE) process involves modifying or updating the initially defined requirements. There are many reasons why requirements may change during a project: number/scope of requirements and further information, expected product lifetime, rate of changes to requirements and related docs, number of stakeholders, etc. Changes are not inherently negative; they may even be necessary. However, it is crucial not to lose sight of what requirements have changed and why. In this step, you will learn how to manage these changes during the project.&nbsp;</p><p><strong>1. Introduction and Managing Requirements</strong><br />When you're working on a project and discover something needs to change—maybe a new feature is necessary, or a requirement wasn't clear—change management kicks in. It includes processes for evaluating the impact of the change, understanding how it affects other parts of the project, and deciding whether to accept or reject the change. It's crucial to keep the project flexible and responsive to evolving needs.</p><p><strong>2. Change Management</strong><br />Change management is necessary to structure and process change requests for requirements properly. This structured process leads to justifiable decisions on whether and how requests are approved.</p><p><strong>3. Summary</strong><br />Managing requirements for complex projects is crucial because these requirements can change during the project. Change management is the structured process of handling these changes. It involves a Change Control Board that evaluates and decides whether to approve or reject changes. Dealing with change requests is a whole process on its own to ensure that adjustments are made smoothly and don't disrupt the overall project.</p>",
+    "body": "<p>There are many reasons why requirements may change during a project: number/scope of requirements and further information, expected product lifetime, rate of changes to requirements and related docs, number of stakeholders, etc. Changes are not inherently negative; they may even be necessary. However, it is crucial not to lose sight of what requirements have changed and why. In this step, you will learn how to manage these changes during the project.&nbsp;</p><p><strong>1. Introduction and Managing Requirements</strong><br />When you're working on a project and discover something needs to change—maybe a new feature is necessary, or a requirement wasn't clear—change management kicks in. It includes processes for evaluating the change's impact, understanding how it affects other parts of the project, and deciding whether to accept or reject it. Change management is crucial for keeping the project flexible and responsive to evolving needs.</p><p><strong>2. Change Management</strong><br />Change management is necessary to structure and process change requests for requirements properly. This structured process leads to justifiable decisions on whether and how requests are approved.</p><p><strong>3. Summary</strong><br />Managing requirements for complex projects is crucial because these requirements can change during the project. Change management is the structured process of handling these changes. It involves a Change Control Board that evaluates and decides whether to approve or reject changes. Dealing with change requests is a process that ensures adjustments are made smoothly and doesn't disrupt the overall project.</p>",
     "_id": "66e8022d67cc9a1050ae643b",
     "_parentId": "66e8021f67cc9a1050ae628a",
     "_type": "component",
@@ -10271,7 +10271,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Lecture Content",
     "displayTitle": "Lecture Content",
-    "body": "<p>Welcome to our in-depth exploration of \"Documentation\" as part of the Requirements Engineering process. In total, we will have<s> two full lectures (L05 and L06)</s>&nbsp;four full lectures (L06 - L09) to discuss the importance of the documentation step, what different steps it entails, and what tools and models exist to help you during this process. During this second part, i.e. L07, we will discuss&nbsp;textual requirements specification, the challenges of&nbsp;ambiguity, the importance of guidelines and syntactic requirements patterns.</p><p><strong>1. Textual Requirements Specification:</strong> Textual requirements specification involves expressing system requirements using natural language, providing a narrative description of the desired functionality. This method allows for a comprehensive and flexible articulation of requirements but can present challenges related to clarity and precision.</p><p><strong>2. Ambiguity During Requirements Documentation:</strong> Ambiguity poses a significant challenge during requirements documentation, as unclear or imprecise language can lead to misinterpretations, misunderstandings, and potential pitfalls in system development. Addressing ambiguity is crucial to ensure that all stakeholders share a common and precise understanding of the requirements, mitigating the risk of errors and enhancing the overall quality of the process.</p><p><strong>3. Importance of Guidelines:</strong> Guidelines play a pivotal role in overcoming the challenges of ambiguity in requirements documentation. They provide a framework for precise, consistent, and unambiguous expression of requirements. Adhering to guidelines can enhance the quality and effectiveness of requirements documentation and minimise the likelihood of misinterpretations.</p><p><strong>4. Syntactic Requirements Patterns:</strong> Syntactic requirements patterns involve using structured language constructs or templates to enhance the clarity and consistency of requirements specifications. These patterns provide a standardised way of expressing standard requirements, reducing ambiguity and promoting a systematic approach to documentation.</p>",
+    "body": "<p>In this <u>second part</u>, we will discuss&nbsp;textual requirements specification, the challenges of&nbsp;ambiguity, the importance of guidelines and syntactic requirements patterns.</p><p><strong>1. Textual Requirements Specification:</strong> Textual requirements specification involves expressing system requirements using natural language, providing a narrative description of the desired functionality. This method allows for a comprehensive and flexible articulation of requirements but can present challenges related to clarity and precision.</p><p><strong>2. Ambiguity During Requirements Documentation:</strong> Ambiguity poses a significant challenge during requirements documentation, as unclear or imprecise language can lead to misinterpretations, misunderstandings, and potential pitfalls in system development. Addressing ambiguity is crucial to ensure that all stakeholders share a common and precise understanding of the requirements, mitigating the risk of errors and enhancing the overall quality of the process.</p><p><span style=\"box-sizing:border-box; margin:0px; padding:0px\"><strong>3. Importance of Guidelines:</strong>&nbsp;Guidelines play a pivotal role in overcoming the challenges of ambiguity in requirements documentation. They provide a framework for expressing precise, consistent, and unambiguous requirements. Adhering to guidelines can enhance the quality and effectiveness of requirements documentation and minimise the likelihood of misinterpretations.</span></p><p><strong>4. Syntactic Requirements Patterns:</strong> Syntactic requirements patterns involve using structured language constructs or templates to enhance the clarity and consistency of requirements specifications. These patterns provide a standardised way of expressing standard requirements, reducing ambiguity and promoting a systematic approach to documentation.</p>",
     "_id": "66e8892567cc9a1050ae65c5",
     "_parentId": "66e8892567cc9a1050ae65b8",
     "_type": "component",
@@ -15818,7 +15818,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Lecture Content",
     "displayTitle": "Lecture Content",
-    "body": "<p>The lecture on Elicitation is divided into two parts. In this second part, we will cover the following:</p><p><strong>6. Document-Centric Techniques</strong><br />Documents often contain valuable information, and document-centric techniques allow us to extract requirements from existing documentation, such as user manuals, project reports, and contracts. This video will discuss effectively reviewing and analysing documents to uncover implicit requirements, dependencies, and constraints.</p><p><strong>7. Observation Techniques</strong><br />Sometimes, stakeholders may be unable to articulate their needs or even be aware of them. In such cases, observation techniques come to the rescue. In this video, we'll explore the power of direct observation, contextual inquiry, and ethnographic studies in understanding user behaviour, pain points, and requirements within their natural environments.</p><p><strong>8. Support Techniques and Summary</strong><br />To wrap up our series, we'll touch on support techniques that can enhance the effectiveness of your elicitation efforts. These include tools, templates, and software solutions to streamline requirements gathering. Finally, we'll summarise the key takeaways from our series on Requirements Elicitation, highlighting the critical role it plays in project success and providing guidance on applying these techniques in your projects.</p>",
+    "body": "<p>The lecture on Elicitation is divided into two parts. In this <u>second part</u>, we will cover the following:</p><p><strong>6. Document-Centric Techniques</strong><br />Documents often contain valuable information, and document-centric techniques allow us to extract requirements from existing documentation, such as user manuals, project reports, and contracts. This video will discuss effectively reviewing and analysing documents to uncover implicit requirements, dependencies, and constraints.</p><p><strong>7. Observation Techniques</strong><br />Sometimes, stakeholders may be unable to articulate their needs or even be aware of them. In such cases, observation techniques come to the rescue. In this video, we'll explore the power of direct observation, contextual inquiry, and ethnographic studies in understanding user behaviour, pain points, and requirements within their natural environments.</p><p><strong>8. Support Techniques and Summary</strong><br />To wrap up our series, we'll touch on support techniques that can enhance the effectiveness of your elicitation efforts. These include tools, templates, and software solutions to streamline requirements gathering. Finally, we'll summarise the key takeaways from our series on Requirements Elicitation, highlighting the critical role it plays in project success and providing guidance on applying these techniques in your projects.</p>",
     "_id": "67228c9068434a6590255751",
     "_parentId": "67228c9068434a6590255742",
     "_type": "component",
@@ -15893,8 +15893,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -15903,7 +15901,7 @@
       "small": "course/en/assets/2aa0c3fc7f4504999491a9b4ab8e09d046cc3ef0.png",
       "attribution": "",
       "_url": "",
-      "_target": null
+      "_target": ""
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
@@ -16466,7 +16464,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Lecture Content",
     "displayTitle": "Lecture Content",
-    "body": "<p>Welcome to our in-depth exploration of \"<strong>Documentation</strong>\" as part of the Requirements Engineering process. In total, we will have <s>two full lectures (L05 and L06)</s>&nbsp;four lectures (L06 - L09) to discuss the importance of the documentation step, what different steps it entails and what tools and models exist to help you during this process. This first part of lecture L06 focuses more generally on giving you an introduction to the topic. It&nbsp;is structured into four subparts, each offering a nuanced perspective.</p><p><strong>1. Introduction and Documentation in General:</strong> This segment initiates our discussion by delving into the multifaceted relationship between documentation and requirements. The emphasis is on establishing a foundational understanding of documentation within the broader requirements engineering process.</p><p><strong>2. Criteria for Good Requirements:</strong> This section dissects the criteria that demarcate high-quality from low-quality requirements. We will introduce the most important characteristics of reasonable requirements and give you examples for each to help you understand them.</p><p><strong>3. Document Structure:</strong> How should a document be structured? The next section will discuss this, including a comprehensive breakdown of document elements and their respective roles in precisely conveying requirements.</p><p><strong>4. Document Templates and Summary:</strong> In the final subchapter, we introduce the practical utility of document templates. We delve into how templates provide a standardised framework, ensuring consistency and completeness across diverse projects. The first part of lecture L05 concludes with a summary of key insights from this lecture.&nbsp;</p>",
+    "body": "<p><span>This&nbsp;<u>first part</u>&nbsp;focuses more generally on providing an introduction to the topic. It is structured into four subparts, each offering a nuanced perspective.</span></p><p><strong>1. Introduction and Documentation in General:</strong> This segment initiates our discussion by delving into the multifaceted relationship between documentation and requirements. The emphasis is on establishing a foundational understanding of documentation within the broader requirements engineering process.</p><p><span><strong>2. Criteria for Good Requirements:</strong>&nbsp;This section dissects the criteria distinguishing high-quality from low-quality requirements. We introduce the most important characteristics of reasonable requirements and provide examples for each to help you understand them.</span></p><p><span><strong>3. Document Structure:</strong>&nbsp;How should a document be structured? The next section will discuss this, including a comprehensive breakdown of document elements and their respective roles in conveying requirements precisely.</span></p><p><strong>4. Document Templates and Summary:</strong> In the final subchapter, we introduce the practical utility of document templates. We delve into how templates provide a standardised framework, ensuring consistency and completeness across diverse projects. The first part of lecture L05 concludes with a summary of key insights from this lecture.&nbsp;</p>",
     "_id": "672293d568434a6590255783",
     "_parentId": "672293d468434a6590255772",
     "_type": "component",
@@ -17189,7 +17187,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Lecture Content",
     "displayTitle": "Lecture Content",
-    "body": "<p>Welcome to our in-depth exploration of \"<strong>Documentation</strong>\" as part of the Requirements Engineering process. We have two full lectures (<em>L08 and L09</em>) to discuss the importance of the documentation step, what different steps it entails, and what tools and models exist to help you during this process. This first part of lecture L06 focuses more generally on introducing you to the topic of documentation models and some different types of models.</p><p><strong>1. Introduction and Models in General</strong><br />Documentation models are structured frameworks or representations used to document and communicate information about a system, process, or project. They provide a systematic way to capture and organize details related to various aspects of the subject, such as requirements, design, functionality, and interactions.</p><p><strong>2. Goal Models</strong><br />Goal models focus on representing the objectives or goals of a system. They help stakeholders understand the overarching purpose and desired outcomes of the system.</p><p><strong>3. Use Cases</strong><br />Use case models depict different scenarios or interactions between users and a system. They are beneficial for understanding system behaviour from an end-user perspective.</p><p><strong>4. Data, Functional, and Behavioral Perspectives</strong><br />These perspectives provide different viewpoints for documenting system requirements. The data perspective focuses on how data is managed, the functional perspective outlines system operations, and the behavioural perspective describes how the system responds to stimuli.</p><p><strong>5. Agent-Oriented Modeling (AOM)</strong><br />Agent-oriented models center around the concept of intelligent agents, representing entities that can autonomously make decisions and interact with their environment. These models are often used in systems with distributed and autonomous components.</p>",
+    "body": "<p><span style=\"box-sizing:border-box; margin:0px; padding:0px\">This&nbsp;<u>third part</u>&nbsp;will introduce you to documentation models in general, give you an overview of goal models and use cases, and examine the data and functional and behavioural perspectives. It will also introduce you to agent-oriented modelling.</span></p><p><strong>1. Introduction and Models in General</strong><br />Documentation models are structured frameworks or representations that document and communicate information about a system, process, or project. They provide a systematic way to capture and organize details related to various subject aspects, such as requirements, design, functionality, and interactions.</p><p><strong>2. Goal Models</strong><br />Goal models focus on representing the objectives or goals of a system. They help stakeholders understand the overarching purpose and desired outcomes of the system.</p><p><strong>3. Use Cases</strong><br />Use case models depict different scenarios or interactions between users and a system. They are beneficial for understanding system behaviour from an end-user perspective.</p><p><strong>4. Data, Functional, and Behavioral Perspectives</strong><br />These perspectives provide different viewpoints for documenting system requirements. The data perspective focuses on managing data, the functional perspective outlines system operations, and the behavioural perspective describes how the system responds to stimuli.</p><p><strong>5. Agent-Oriented Modeling (AOM)</strong><br />Agent-oriented models centre around the concept of intelligent agents, representing entities that can autonomously make decisions and interact with their environment. These models are often used in systems with distributed and autonomous components.</p>",
     "_id": "6727480d8239de36a80ea970",
     "_parentId": "6727480c8239de36a80ea960",
     "_type": "component",
@@ -19710,7 +19708,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Lecture Content",
     "displayTitle": "Lecture Content",
-    "body": "<p>Welcome to our in-depth exploration of \"<strong>Documentation</strong>\" as part of the Requirements Engineering process. We have two full lectures (L08 and L09) to discuss the importance of the documentation step, what different steps it entails, and what tools and models exist to help you during this process. This first part of lecture L08 focuses more generally on introducing you to the topic of documentation models and some different types of models.</p><p>1. <strong>Introduction and CPNs</strong><br />In this segment, we will discuss Colored Petri Nets (CPNs). CPNs are modelling language that allows us to represent systems with complex interactions and parallel processes. They use colors to convey additional information, enabling a more nuanced representation of system behaviour. We'll explore the basics of CPNs and understand how they are powerful tools for modelling and analysing dynamic systems.</p><p>2. <strong>AOM → CPN Mapping</strong><br />Moving on, we explore the connection between Agent-Oriented Modeling (AOM), which we discussed previously, and Colored Petri Nets through a mapping process. AOM, focusing on intelligent agents and decentralised control, brings a unique perspective to system modelling. We'll unravel how AOM concepts can be translated and mapped onto CPNs.</p><p>3. <strong>Summary</strong><br />As we conclude our lecture on documentation models, CPNs, and AOM mappings, we gather the key insights and takeaways.</p>",
+    "body": "<p>In this <u>fourth and last part</u>, you will learn documentation models (Colored Petri Nets), discuss the mapping of Agent-Oriented Modelling to Colored Petri Nets,&nbsp;and wrap up with a summary combining all these ideas for a thorough grasp of modelling techniques.</p><p>1. <strong>Introduction and CPNs</strong><br />In this segment, we will discuss Colored Petri Nets (CPNs). CPNs are modelling language that allows us to represent systems with complex interactions and parallel processes. They use colours to convey additional information, enabling a more nuanced representation of system behaviour. We'll explore the basics of CPNs and understand how they are powerful tools for modelling and analysing dynamic systems.</p><p>2. <strong>AOM → CPN Mapping</strong><br />Moving on, we explore the connection between Agent-Oriented Modeling (AOM), which we discussed previously, and Colored Petri Nets through a mapping process. AOM, focusing on intelligent agents and decentralised control, brings a unique perspective to system modelling. We'll unravel how AOM concepts can be translated and mapped onto CPNs.</p><p>3. <strong>Summary</strong><br />As we conclude our lecture on documentation models, CPNs, and AOM mappings, we gather the key insights and takeaways.</p>",
     "_id": "678e24c8d8b5347ea4e39874",
     "_parentId": "678e24c8d8b5347ea4e39866",
     "_type": "component",
@@ -20175,5 +20173,335 @@
       }
     },
     "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6793bc3dd8b5347ea4e3988b",
+    "_parentId": "6793bc38d8b5347ea4e3988a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6793be1ad8b5347ea4e3988f",
+    "_parentId": "6793be17d8b5347ea4e3988e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6793beb8d8b5347ea4e39893",
+    "_parentId": "6793beb5d8b5347ea4e39892",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6793bf4dd8b5347ea4e39897",
+    "_parentId": "6793bf4ad8b5347ea4e39896",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6793bfd1d8b5347ea4e3989b",
+    "_parentId": "6793bfced8b5347ea4e3989a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6793c01ed8b5347ea4e3989f",
+    "_parentId": "6793c01bd8b5347ea4e3989e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
   }
 ]
