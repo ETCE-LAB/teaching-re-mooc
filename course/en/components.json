@@ -7187,7 +7187,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": true,
+    "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
@@ -7230,7 +7230,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/oTpTjCEDv8Q",
+      "source": "https://youtu.be/l2sWeB1EcoA",
       "type": "video/youtube",
       "poster": "",
       "cc": []
