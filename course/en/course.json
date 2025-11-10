@@ -147,7 +147,9 @@
       "_matching": {
         "ariaRegion": "Matching. Select from lists and then submit.",
         "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
+        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}",
+        "correctAnswerPrefix": "The correct answer is",
+        "correctAnswersPrefix": "The correct answers are"
       },
       "_textinput": {
         "ariaRegion": "Text input. Type your answer and then submit."
