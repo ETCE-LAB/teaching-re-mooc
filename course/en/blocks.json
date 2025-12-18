@@ -17078,7 +17078,7 @@
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
@@ -17089,9 +17089,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_trickle": {
       "_isEnabled": false,
@@ -17124,6 +17121,9 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_pageLevelProgress": {
       "_isEnabled": false,
