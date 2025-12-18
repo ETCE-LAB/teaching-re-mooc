@@ -4450,7 +4450,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise and Exam",
     "displayTitle": "Exercise and Exam",
-    "body": "<p><u><strong>Exercise</strong></u></p><p>Organization of the exercise:</p><ul><li>Individual work → no group submissions</li><li>Multiple-choice or practical tasks</li><li>7-14 days to submit (depending on the task)</li><li>Submission deadline is always Monday at 1:59 pm (right before the following lecture)</li><li>Submission of each exercise is mandatory</li></ul><p>Bonus task:</p><ul><li>You may miss/fail <strong>one</strong> of the regular exercises</li><li>Submitting <strong>AND</strong> passing the bonus task <em>substitutes</em> the missed/failed exercise</li><li>The bonus task will be challenging → don’t “plan” with the bonus task. Instead, submit&nbsp;and pass the regular exercises.</li></ul><p><u><strong>Exam</strong></u></p><p>Prerequisites for admission to the final exam (all criteria have to be fulfilled):</p><ul><li>Successful completion of the compulsory seven exercises.</li><li>You pass an exercise if you score 50% (or more).</li><li>You have to submit every exercise.</li></ul>",
+    "body": "<p><u><strong>Exercise</strong></u></p><p>Organization of the exercise:</p><ul><li>Individual work → no group submissions</li><li>Multiple-choice or practical tasks</li><li>7-14 days to submit (depending on the task)</li><li>Submission deadline is always Monday at 1:59 pm (right before the following lecture)</li><li>Submission of each exercise is mandatory</li></ul><p>&nbsp;</p><p><u><strong>Exam</strong></u></p><p>Prerequisites for admission to the final exam (all criteria have to be fulfilled):</p><ul><li>Successful completion of the compulsory seven exercises.</li><li>You pass an exercise if you score 50% (or more).</li><li>You have to submit every exercise.</li></ul>",
     "_id": "66e8022a67cc9a1050ae63be",
     "_parentId": "66e8022267cc9a1050ae62c7",
     "_type": "component",
@@ -4465,6 +4465,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
