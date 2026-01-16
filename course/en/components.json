@@ -19709,7 +19709,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Lecture Content",
     "displayTitle": "Lecture Content",
-    "body": "<p>In this <u>fourth and last part</u>, you will learn documentation models (Colored Petri Nets), discuss the mapping of Agent-Oriented Modelling to Colored Petri Nets,&nbsp;and wrap up with a summary combining all these ideas for a thorough grasp of modelling techniques.</p><p>1. <strong>Introduction and CPNs</strong><br />In this segment, we will discuss Colored Petri Nets (CPNs). CPNs are modelling language that allows us to represent systems with complex interactions and parallel processes. They use colours to convey additional information, enabling a more nuanced representation of system behaviour. We'll explore the basics of CPNs and understand how they are powerful tools for modelling and analysing dynamic systems.</p><p>2. <strong>AOM → CPN Mapping</strong><br />Moving on, we explore the connection between Agent-Oriented Modeling (AOM), which we discussed previously, and Colored Petri Nets through a mapping process. AOM, focusing on intelligent agents and decentralised control, brings a unique perspective to system modelling. We'll unravel how AOM concepts can be translated and mapped onto CPNs.</p><p>3. <strong>Summary</strong><br />As we conclude our lecture on documentation models, CPNs, and AOM mappings, we gather the key insights and takeaways.</p>",
+    "body": "<p>In this <u>fourth and last part</u>, you will learn documentation models (Colored Petri Nets), discuss the mapping of Agent-Oriented Modelling to Colored Petri Nets,&nbsp;and wrap up with a summary combining all these ideas for a thorough grasp of modelling techniques.</p><p>1. <strong>Introduction and CPNs</strong><br />In this segment, we will discuss Colored Petri Nets (CPNs). CPNs are modelling language that allows us to represent systems with complex interactions and parallel processes. They use colours to convey additional information, enabling a more nuanced representation of system behaviour. We'll explore the basics of CPNs and understand how they are powerful tools for modelling and analysing dynamic systems.</p><p>2. <strong>AOM → CPN Mapping</strong><br />Moving on, we explore the connection between Agent-Oriented Modeling (AOM), which we discussed previously, and Colored Petri Nets through a mapping process. AOM, focusing on intelligent agents and decentralised control, brings a unique perspective to system modelling. We'll unravel how AOM concepts can be translated and mapped onto CPNs.</p><p>3. <strong>Using SNAKES for CPNs</strong></p><p>SNAKES offers a Python-based environment for building and running Colored Petri Nets. It enables models to be instantiated, run, and explored, thereby bridging abstract theory with concrete behavioural validation.</p><p>4. <strong>Summary</strong><br />As we conclude our lecture on documentation models, CPNs, and AOM mappings, we gather the key insights and takeaways.</p>",
     "_id": "678e24c8d8b5347ea4e39874",
     "_parentId": "678e24c8d8b5347ea4e39866",
     "_type": "component",
@@ -19724,6 +19724,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -20504,5 +20505,82 @@
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Video",
+    "displayTitle": "",
+    "body": "",
+    "_id": "696a49f62db36b16641a36d7",
+    "_parentId": "696a49f62db36b16641a36d6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/kH7FRCuD3Ws",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "70%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
   }
 ]
