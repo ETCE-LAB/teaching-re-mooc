@@ -11271,61 +11271,6 @@
     "instruction": ""
   },
   {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e934bf67cc9a1050ae662e",
-    "_parentId": "66e88bc667cc9a1050ae65ee",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
-      "small": "course/en/assets/7687b671edd02b14e29fa6cad731140ea866f348.png",
-      "attribution": "",
-      "_url": "",
-      "_target": ""
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -12117,7 +12062,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "CPN Tools Tutorial",
     "displayTitle": "CPN Tools Tutorial",
-    "body": "<p>You will have to use CPN Tools for the following exercises. Before you start your exercise, watch the video to understand how it works.</p>",
+    "body": "<p>You will have to use CPN Tools for the following tasks. Before you start your exercise, watch the video below to understand how CPN works.</p>",
     "_id": "66fab6884cea846ad470bc39",
     "_parentId": "66fab6794cea846ad470bc38",
     "_type": "component",
@@ -12132,6 +12077,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -12148,7 +12094,7 @@
         "_instruction": ""
       }
     },
-    "instruction": "Select the play button to start the video.",
+    "instruction": "",
     "_media": {
       "mp4": "",
       "ogv": "",
@@ -12191,9 +12137,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "E05 – CPN I (simple)",
-    "displayTitle": "E05 – CPN I (simple)",
-    "body": "<p><strong>Submission Location:</strong> <strong><span style=\"color:#e67e22\">Moodle Course Page → Exercise 05 (</span><a href=\"https://moodle.tu-clausthal.de/course/view.php?id=2612\" target=\"_blank\"><span style=\"color:#e67e22\">Link</span></a><span style=\"color:#e67e22\">)</span></strong></p><ul></ul><ul></ul><p><strong><u>Scenario:</u></strong>&nbsp;</p><p>In the video, we simulated the simple example of a Process reading a file and then writing back to it. Now, imagine the scenario with two Processes trying to read or write to the same file.</p><p><strong><u>Task(s):</u></strong></p><ul><li>Try to implement any form of locking mechanism of your choice so that the file is not written to while another Process is writing to it, and vice versa.</li></ul><p>&nbsp;</p><p><strong><u>Submission </u><u>guidelines</u><u>:</u></strong></p><ul><li>Please use CPN Tools V4.0.1 <strong>ONLY</strong></li><li>Upload a valid <strong>.cpn</strong> file <strong>ONLY</strong></li></ul>",
+    "title": "E05 – CPN I ",
+    "displayTitle": "E05 – CPN I ",
+    "body": "<p><strong>Submission Location:</strong> <strong><span style=\"color:#e67e22\">Moodle Course Page&nbsp;</span></strong></p><ul></ul><ul></ul><p><strong><u>Scenario:</u></strong>&nbsp;</p><p>In the Lecture we simulated the simple example of a Process reading a file and then writing back to it. Now imagine the scenario in which two Processes try to read or write to the same file.</p><p><strong><u>Task(s):</u></strong></p><ol><li>Try to implement any form of locking mechanism of your choice so that the file is not written to while another Process is writing to it, and vice versa.</li><li>Hint: Inhibitor arcs?</li><li>You can find the example file used during the lecture and the simulation tools provided here: <a href=\"https://github.com/ETCE-LAB/RE-CPNExercises\">https://github.com/ETCE-LAB/RE-CPNExercises</a></li></ol><p>&nbsp;</p><p><strong><u>Submission </u><u>guidelines</u><u>:</u></strong></p><ul><li>Please use <a href=\"https://snakes.ibisc.univ-evry.fr/\">SNAKES CPN</a> ONLY.</li><li>Upload a valid Python file and Simulation State PNG Images</li></ul>",
     "_id": "66fab6ea4cea846ad470bc3b",
     "_parentId": "66fab6e64cea846ad470bc3a",
     "_type": "component",
@@ -12208,6 +12154,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -20565,6 +20512,83 @@
     "_startLanguage": "en",
     "_showVolumeControl": true,
     "_startVolume": "70%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "CPN Tools Tutorial",
+    "displayTitle": "CPN Tools Tutorial",
+    "body": "<p>You will have to use CPN Tools for the following tasks. <span><span>Watch how to use SNAKES for the CPN tasks</span></span>.</p>",
+    "_id": "696e45335567246c2cb7da87",
+    "_parentId": "696e45325567246c2cb7da86",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/kH7FRCuD3Ws",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
     "_allowFullScreen": true,
     "_aspectRatio": "landscape",
     "_pauseWhenOffScreen": false,
