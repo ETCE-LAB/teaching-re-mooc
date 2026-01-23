@@ -13393,7 +13393,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "E06 – CPN II (complex)",
     "displayTitle": "E06 – CPN II (complex)",
-    "body": "<p><strong>Submission Location:</strong> <strong><span style=\"color:#e67e22\">Moodle Course Page → Exercise 06 (</span><a href=\"https://moodle.tu-clausthal.de/course/view.php?id=2280\" target=\"_blank\"><span style=\"color:#e67e22\">Link</span></a><span style=\"color:#e67e22\">)</span></strong></p><ul></ul><ul></ul><ul></ul><p><strong><u>Scenario:</u></strong></p><p>In the video, we simulated the simple example of a Process reading a file and then writing back to it.&nbsp;Now, imagine the scenario with two Processes trying to read or write to the same file.</p><p><strong><u>Task(s):</u></strong></p><ol><li>Create a CPN model based on the AOM Goal and Behavioural Interface Models using the mapping heuristics discussed in the lecture.</li><li>Your system's initial tokens (initial state) should reflect at least two scooters and two commuters. More generally, → Please ensure a level of complexity similar to the CPN model example given in the lecture.</li><li>You can modify the CPN model example used in the lecture to suit your needs.</li><li>You are welcome to use hierarchical CPNs to follow the Goal hierarchy, but it is not mandatory.</li><li>You can choose a simple subset of the goals and only model those.&nbsp;<strong>However,</strong>&nbsp;this subset should include the&nbsp;<em>interesting</em>&nbsp;system components, i.e., reserving, riding the E-Scooter, and computing the ride cost. Optionally, you can also include the registration and payment process.</li><li>You can modify your AOM models if necessary as long as the updated model meets the task description from Exercise 4.</li><li><strong>Please upload your AOM Goal and Behaviour Interface models again, even if you have not modified them.</strong></li><li>Please make sure that your CPN model has <em>no errors</em>.</li></ol><p>&nbsp;</p><p><strong><u>Submission </u><u>guidelines</u><u>:</u></strong></p><ul><li>Please upload exactly <strong>ONE </strong>.cpn file and your AOM Goal and Behaviour Interface models as PDF files.</li><li>Please use CPN Tools V4.0.1 <strong>ONLY</strong>.</li><li>You can upload a maximum of <strong>3</strong> files that collectively make up your submission.</li><li>Please review your submission once you have uploaded the CPN model and click the Submit button.</li></ul>",
+    "body": "<p><strong>Submission Location:</strong> <strong><span style=\"color:#e67e22\">Moodle Course Page → Exercise 06</span></strong></p><ul></ul><ul></ul><ul></ul><p><strong><u>Scenario:</u></strong></p><p>Same as Exercise 04.</p><p><strong><u>Task(s):</u></strong></p><ol><li>Create a CPN model based on the AOM Goal and Behavioral Interface Models using the mapping heuristics discussed in the lecture.</li><li>The initial tokens (initial state) of your system should reflect at least 2 scooters and 2 commuters. More generally → Please ensure a level of complexity similar to the EV Charging CPN model example given in the lecture.</li><li>To make it easier for you, you can adapt and modify your solution from the ChargingStation example here: https://github.com/ETCE-LAB/RECPN-Exercises</li><li>Since SNAKES CPN does not support hierarchical CPNs, you may omit this aspect.</li><li>You can choose a simple subset of the goals and only model those, however: this subset should include the interesting component of the system, i.e., the reserving, riding the E-Scooter, and computation of the ride cost. Optionally you can also include registration and payment process.</li><li>You can modify your AOM models if you feel the need to, as long as the updated model meets the task description from Exercise 4.</li><li>Please upload your AOM Goal and Behavior Interface models again even if you do not modify them.</li><li>Please ensure your CPN model contains&nbsp;<em>no errors</em>.</li></ol><p>&nbsp;</p><p><strong><u>Submission </u><u>guidelines</u><u>:</u></strong></p><ul><li>Please upload exactly ONE SNAKES Python file, the Simulation State PNG Images, and your AOM Goal and Behaviour Interface models as PDFs.</li><li>Please use SNAKES CPN ONLY.&nbsp;</li><li>Please review your submission once you have uploaded the CPN model and then click the Submit button.</li></ul>",
     "_id": "6720b77b68434a65902556b6",
     "_parentId": "6720b77b68434a65902556a2",
     "_type": "component",
@@ -13408,6 +13408,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -20544,6 +20545,83 @@
     "body": "<p>You will have to use CPN Tools for the following tasks. <span><span>Watch how to use SNAKES for the CPN tasks</span></span>.</p>",
     "_id": "696e45335567246c2cb7da87",
     "_parentId": "696e45325567246c2cb7da86",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/kH7FRCuD3Ws",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "CPN Tools Tutorial",
+    "displayTitle": "CPN Tools Tutorial",
+    "body": "<p>You will have to use CPN Tools for the following tasks. Watch how to use SNAKES for the CPN tasks.</p>",
+    "_id": "697366585567246c2cb7da8d",
+    "_parentId": "697366575567246c2cb7da8c",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
